@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "id": "1",
+        "title": "NEON GENESIS EXPERIENCE",
+        "date": "2024-11-15",
+        "cover": "/uploads/imageMainPage1.jpg"
+    },
+    {
+        "id": "2",
+        "title": "DIGITAL DREAMS VOL. 1",
+        "date": "2025-02-20",
+        "cover": "/uploads/imageMainPage2.jpg"
+    },
+    {
+        "id": "3",
+        "title": "CHAOS THEORY",
+        "date": "2025-06-10",
+        "cover": "/uploads/imageMainPage3.jpg"
+    },
+    {
+        "id": "4",
+        "title": "THE FINAL RENDER",
+        "date": "2026-01-01",
+        "cover": "/uploads/imageMainPage4_final.png"
+    }
+]

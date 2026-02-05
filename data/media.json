@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "201",
+    "title": "Neon Texture Study",
+    "type": "image",
+    "thumbnail": "/uploads/imageMainPage1.jpg",
+    "url": "/uploads/imageMainPage1.jpg"
+  },
+  {
+    "id": "202",
+    "title": "Concept Art: Smoking Cat",
+    "type": "image",
+    "thumbnail": "/uploads/imageMainPage4_final.png",
+    "url": "/uploads/imageMainPage4_final.png"
+  },
+  {
+    "id": "203",
+    "title": "Ambient Soundscape",
+    "type": "audio",
+    "thumbnail": "",
+    "url": "/uploads/ambient_track.mp3"
+  },
+  {
+    "id": "204",
+    "title": "Glitch Video Test",
+    "type": "video",
+    "thumbnail": "/uploads/imageMainPage2.jpg",
+    "url": "/uploads/test_video.mp4"
+  },
+  {
+    "id": "205",
+    "title": "Abstract Form 03",
+    "type": "image",
+    "thumbnail": "/uploads/imageMainPage3.jpg",
+    "url": "/uploads/imageMainPage3.jpg"
+  },
+  {
+    "url": "/uploads/file-1770278541659-255227963.mp4",
+    "thumbnail": "/uploads/file-1770278555070-755233230.webp",
+    "type": "video",
+    "title": "yuto's part",
+    "id": "1770278562455"
+  }
+]

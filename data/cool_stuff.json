@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "id": "301",
+        "type": "BOOK",
+        "title": "NEUROMANCER",
+        "subtitle": "William Gibson",
+        "link": "https://en.wikipedia.org/wiki/Neuromancer",
+        "image": "/uploads/imageMainPage1.jpg",
+        "tagColor": "#e0e0e0"
+    },
+    {
+        "id": "302",
+        "type": "PRODUCT",
+        "title": "TEENAGE ENGINEERING OP-1",
+        "subtitle": "Portable Synthesizer",
+        "link": "https://teenage.engineering/products/op-1",
+        "image": "/uploads/imageMainPage2.jpg",
+        "tagColor": "#d1d1d1"
+    },
+    {
+        "id": "303",
+        "type": "ARTICLE",
+        "title": "THE VERGE: THE FUTURE OF WEB",
+        "subtitle": "Editorial",
+        "link": "#",
+        "image": "/uploads/imageMainPage3.jpg",
+        "tagColor": "#c2c2c2"
+    },
+    {
+        "id": "304",
+        "type": "MUSIC",
+        "title": "NTS RADIO",
+        "subtitle": "Live Stream",
+        "link": "https://www.nts.live/",
+        "image": "/uploads/imageMainPage4_final.png",
+        "tagColor": "#b3b3b3"
+    },
+    {
+        "id": "305",
+        "type": "IMAGE",
+        "title": "NASA ARCHIVES",
+        "subtitle": "Public Domain",
+        "link": "#",
+        "image": "/uploads/imageMainPage1.jpg",
+        "tagColor": "#a4a4a4"
+    }
+]

@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "101",
+    "artist": "Tyler, The Creator",
+    "album": "CHROMAKOPIA",
+    "genre": "Hip-Hop",
+    "cover": "/uploads/imageMainPage3.jpg",
+    "author": "MTP34",
+    "date": "2025-01-01",
+    "score": "9.2",
+    "text": "A return to form that feels completely new. Tyler deconstructs his own mythos while building a sonic landscape that is as abrasive as it is beautiful.",
+    "content": "<p><strong>CHROMAKOPIA</strong> stands as a testament to evolution. Where <em>IGOR</em> was a polished persona, this album is raw, exposed, and glitchy.</p><p>The production draws heavily from industrial noise and classic soul samples, creating a friction that shouldn't work but does.</p><blockquote>\"It's chaos, but controlled chaos. Like a orchestrated car crash.\"</blockquote><p>Essential listening for anyone tracking the trajectory of modern hip-hop.</p>",
+    "extracts": [
+      {
+        "title": "Permastone",
+        "url": "/uploads/audio_sample.mp3"
+      },
+      {
+        "title": "Glitch Mode",
+        "url": "/uploads/audio_sample_2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "artist": "Burial",
+    "album": "ANTIDAWN EP",
+    "genre": "Electronic / Ambient",
+    "cover": "/uploads/imageMainPage2.jpg",
+    "author": "Guest Critic",
+    "date": "2026-01-20",
+    "score": "8.5",
+    "text": "A ghostly transmission from a city that no longer exists. Burial strips away the drums and leaves only the atmosphere.",
+    "content": "<p>This is music for the spaces between moments. It feels less like an album and more like a collection of memories fading in real-time.</p>",
+    "extracts": []
+  },
+  {
+    "artist": "A$AP Rocky",
+    "album": "DBD",
+    "genre": "Rap",
+    "cover": "/uploads/file-1770277395830-887060090.jpg",
+    "author": "Marius",
+    "date": "2026-02-05",
+    "text": "a review about dbd",
+    "content": "test",
+    "id": "1770277412919",
+    "extracts": [
+      {
+        "title": "3:00",
+        "url": "/uploads/file-1770277443003-936069403.mp3"
+      }
+    ]
+  }
+]
