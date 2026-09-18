@@ -1,3 +1,940 @@
 {
-  "items": []
+  "items": [
+    {
+      "title": "Project Pat - Mista Don't Play: Everythangs Workin",
+      "date": "2026-09-03",
+      "releaseDate": "2001-02-27",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27331a9a92a652223ca76817a90"
+    },
+    {
+      "title": "DMX - It's Dark And Hell Is Hot",
+      "date": "2026-08-05",
+      "releaseDate": "1998-05-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27311658b970e0518be491871df"
+    },
+    {
+      "title": "Guns N' Roses - Use Your Illusion I",
+      "date": "2026-07-23",
+      "releaseDate": "1991-09-17",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e44963b8bb127552ac761873"
+    },
+    {
+      "title": "Booba - Temps mort",
+      "date": "2026-07-04",
+      "releaseDate": "2002-01-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273de667b23df8eda37dcb6bd96"
+    },
+    {
+      "title": "2Pac - 2Pacalypse Now",
+      "date": "2026-06-25",
+      "releaseDate": "1991-11-12",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737e1888783100598328e20e9b"
+    },
+    {
+      "title": "Prince - For You",
+      "date": "2026-06-05",
+      "releaseDate": "1978-04-07",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ae0e62cc351978ad5203fcfa"
+    },
+    {
+      "title": "Kodak Black - Project Baby 2: All Grown Up",
+      "date": "2026-05-19",
+      "releaseDate": "2017-08-18",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7"
+    },
+    {
+      "title": "Future - FUTURE",
+      "date": "2026-05-12",
+      "releaseDate": "2017-06-30",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e0b64c8be3c4e804abcb2696"
+    },
+    {
+      "title": "Joey Bada$$ - 1999",
+      "date": "2026-05-07",
+      "releaseDate": "2012-06-12",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273fcd3724fba954e6104e4530d"
+    },
+    {
+      "title": "Prince - Purple Rain",
+      "date": "2026-04-25",
+      "releaseDate": "1984-06-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738a2ce3f148f57584269c3782"
+    },
+    {
+      "title": "Marvin Gaye - What's Going On",
+      "date": "2026-04-01",
+      "releaseDate": "1971-05-21",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b36949bee43217351961ffbc"
+    },
+    {
+      "title": "Freddie Gibbs, The Alchemist - Alfredo 2",
+      "date": "2026-03-13",
+      "releaseDate": "2025-07-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e098f51a1a2ebb827dc6099a"
+    },
+    {
+      "title": "The Notorious B.I.G. - Ready to Die (The Remaster)",
+      "date": "2026-03-04",
+      "releaseDate": "1994-09-13",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830"
+    },
+    {
+      "title": "Young Thug - Barter 6",
+      "date": "2026-02-16",
+      "releaseDate": "2015-04-16",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27388053a98d0abb8ed3a02efe1"
+    },
+    {
+      "title": "Stevie Wonder - Innervisions",
+      "date": "2026-02-15",
+      "releaseDate": "1973-08-03",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266"
+    },
+    {
+      "title": "Future, Southside - 56 Nights",
+      "date": "2026-01-28",
+      "releaseDate": "2015-03-21",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273dc014d6cf51f0ff8bdd76764"
+    },
+    {
+      "title": "Freddie Gibbs, The Alchemist - Alfredo",
+      "date": "2026-01-25",
+      "releaseDate": "2020-05-29",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27352c24049a16d59e98a638651"
+    },
+    {
+      "title": "A$AP Rocky - Don't Be Dumb",
+      "date": "2026-01-21",
+      "releaseDate": "2026-01-21",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27327b7133c976e8ae6c3add683"
+    },
+    {
+      "title": "Jimi Hendrix - Are You Experienced",
+      "date": "2025-12-10",
+      "releaseDate": "1967-05-12",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c9adfbd773852e286faed040"
+    },
+    {
+      "title": "Gucci Mane - Trap House 3",
+      "date": "2025-12-01",
+      "releaseDate": "2013-05-21",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734b28c5682e66ee743de75c5d"
+    },
+    {
+      "title": "Sherifflazone - DMVP",
+      "date": "2025-11-30",
+      "releaseDate": "2025-01-17",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273eb2bcfc623a1f325ff0b46f7"
+    },
+    {
+      "title": "Outkast - ATLiens",
+      "date": "2025-11-26",
+      "releaseDate": "1996-08-27",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148"
+    },
+    {
+      "title": "Max B - Wave Pack",
+      "date": "2025-11-17",
+      "releaseDate": "2020-02-28",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27349886a33144b99470fe7a413"
+    },
+    {
+      "title": "Outkast - Southernplayalisticadillacmuzik",
+      "date": "2025-11-11",
+      "releaseDate": "1994-04-26",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64"
+    },
+    {
+      "title": "21 Savage, Offset, Metro Boomin - Without Warning",
+      "date": "2025-11-06",
+      "releaseDate": "2017-10-30",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730db43130a9aaa7bae56967ed"
+    },
+    {
+      "title": "A$AP Mob - Cozy Tapes: Vol. 1 Friends -",
+      "date": "2025-10-25",
+      "releaseDate": "2016-10-31",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27389deb057b142b1b37fac41a3"
+    },
+    {
+      "title": "Guns N' Roses - Appetite For Destruction",
+      "date": "2025-10-05",
+      "releaseDate": "1987-07-21",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5"
+    },
+    {
+      "title": "The Game - The Documentary",
+      "date": "2025-09-25",
+      "releaseDate": "2005-01-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d"
+    },
+    {
+      "title": "Michael Jackson - Bad (Remastered)",
+      "date": "2025-09-15",
+      "releaseDate": "1987-08-31",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff"
+    },
+    {
+      "title": "Soundgarden - Superunknown (20th Anniversary)",
+      "date": "2025-09-01",
+      "releaseDate": "1994-03-09",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735124ed45a94033830b320500"
+    },
+    {
+      "title": "JAŸ-Z, Kanye West - Watch The Throne",
+      "date": "2025-08-25",
+      "releaseDate": "2011-08-08",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30"
+    },
+    {
+      "title": "Lil Wayne - Tha Carter III",
+      "date": "2025-08-20",
+      "releaseDate": "2008-06-10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27333ebdffaa447ff19ce9f24bb"
+    },
+    {
+      "title": "Kendrick Lamar - Mr. Morale & The Big Steppers",
+      "date": "2025-08-13",
+      "releaseDate": "2022-05-13",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f"
+    },
+    {
+      "title": "SahBabii - Squidtastic",
+      "date": "2025-08-07",
+      "releaseDate": "2018-08-29",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2733f202bc34780e1f6e760c285"
+    },
+    {
+      "title": "Chief Keef - Finally Rich",
+      "date": "2025-07-26",
+      "releaseDate": "2012-01-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891"
+    },
+    {
+      "title": "Lil Uzi Vert - Lil Uzi Vert vs. The World",
+      "date": "2025-07-14",
+      "releaseDate": "2016-05-27",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273fc3a56b8b1c442030716c98b"
+    },
+    {
+      "title": "Nirvana - Nevermind (Remastered)",
+      "date": "2025-07-03",
+      "releaseDate": "1991-09-26",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6"
+    },
+    {
+      "title": "Michael Jackson - Off the Wall",
+      "date": "2025-06-30",
+      "releaseDate": "1979-08-10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949"
+    },
+    {
+      "title": "JAŸ-Z - The Blueprint (Explicit Version)",
+      "date": "2025-06-27",
+      "releaseDate": "2001-09-11",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731b3f6f34954118500ed3e7a7"
+    },
+    {
+      "title": "Pusha T - DAYTONA",
+      "date": "2025-06-14",
+      "releaseDate": "2018-05-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273263555eebbe2b375593aa31e"
+    },
+    {
+      "title": "Lil Wayne - Tha Carter II",
+      "date": "2025-06-06",
+      "releaseDate": "2005-01-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732d1dcd542a31bb7c751cff28"
+    },
+    {
+      "title": "Young Thug - Slime Season 3",
+      "date": "2025-05-24",
+      "releaseDate": "2016-03-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350"
+    },
+    {
+      "title": "Lil Wayne - Tha Carter",
+      "date": "2025-05-15",
+      "releaseDate": "2004-01-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27325d0b54bd30205d4ed2d5599"
+    },
+    {
+      "title": "Kid Cudi - Man On The Moon: The End Of Day (Int'l Version)",
+      "date": "2025-05-05",
+      "releaseDate": "2009-01-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273713f297a7bdc1d48971062b2"
+    },
+    {
+      "title": "Playboi Carti - Playboi Carti",
+      "date": "2025-04-18",
+      "releaseDate": "2017-04-14",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1"
+    },
+    {
+      "title": "Migos - Culture",
+      "date": "2025-04-05",
+      "releaseDate": "2017-01-27",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736275aeac316378b0dd4f31fd"
+    },
+    {
+      "title": "Pink Floyd - The Dark Side of the Moon",
+      "date": "2025-03-08",
+      "releaseDate": "1973-03-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6"
+    },
+    {
+      "title": "Future - DS2 (Deluxe)",
+      "date": "2025-02-22",
+      "releaseDate": "2015-07-17",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b2592bea12d840fd096ef965"
+    },
+    {
+      "title": "A$AP Rocky - TESTING",
+      "date": "2025-02-16",
+      "releaseDate": "2018-05-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273bfcb8d00cee4f8257a6b7fe1"
+    },
+    {
+      "title": "Metallica - Metallica",
+      "date": "2025-02-11",
+      "releaseDate": "1991-08-12",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802"
+    },
+    {
+      "title": "Bill Withers - Lean on Me: The Best of Bill Withers",
+      "date": "2025-01-27",
+      "releaseDate": "1994-08-09",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f8560af696925c50080dcc35"
+    },
+    {
+      "title": "Nas - Illmatic",
+      "date": "2025-01-20",
+      "releaseDate": "1994-04-19",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27371d840defb002ed3b180f7cd"
+    },
+    {
+      "title": "Metro Boomin - HEROES & VILLAINS",
+      "date": "2025-01-10",
+      "releaseDate": "2022-12-02",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89"
+    },
+    {
+      "title": "Future - Monster",
+      "date": "2024-12-28",
+      "releaseDate": "2014-10-28",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c1a4bee8f56f093ba31e9fd2"
+    },
+    {
+      "title": "Young Thug - Slime Season",
+      "date": "2024-12-26",
+      "releaseDate": "2024-12-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27370d17ff1637f906dfabdfea4"
+    },
+    {
+      "title": "A$AP Rocky - AT.LONG.LAST.A$AP",
+      "date": "2024-12-18",
+      "releaseDate": "2015-05-26",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27349efdc44d0733042f8b99d57"
+    },
+    {
+      "title": "Michael Jackson - Thriller",
+      "date": "2024-12-13",
+      "releaseDate": "1982-11-30",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5"
+    },
+    {
+      "title": "Young Thug - JEFFERY",
+      "date": "2024-12-10",
+      "releaseDate": "2016-08-26",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8"
+    },
+    {
+      "title": "Kendrick Lamar - GNX",
+      "date": "2024-12-04",
+      "releaseDate": "2024-11-22",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420"
+    },
+    {
+      "title": "Snoop Dogg - Doggystyle",
+      "date": "2024-11-29",
+      "releaseDate": "1993-11-23",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29"
+    },
+    {
+      "title": "A$AP Rocky - LONG.LIVE.A$AP (Deluxe Version)",
+      "date": "2024-11-19",
+      "releaseDate": "2013-01-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732ae92030b51fb8135d694af9"
+    },
+    {
+      "title": "Radiohead - In Rainbows",
+      "date": "2024-11-10",
+      "releaseDate": "2007-12-28",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9"
+    },
+    {
+      "title": "A$AP Rocky - LIVE.LOVE.A$AP",
+      "date": "2024-10-31",
+      "releaseDate": "2011-10-31",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c8ced8a4d6b6b61eb592f3dd"
+    },
+    {
+      "title": "Playboi Carti - Die Lit",
+      "date": "2024-10-19",
+      "releaseDate": "2018-05-11",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194"
+    },
+    {
+      "title": "Travis Scott - ESCAPE PLAN / MAFIA",
+      "date": "2024-10-12",
+      "releaseDate": "2021-11-05",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273032c66bf1cb2bb1a9558c5db"
+    },
+    {
+      "title": "Ms. Lauryn Hill - The Miseducation of Lauryn Hill",
+      "date": "2024-10-07",
+      "releaseDate": "1998-08-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9"
+    },
+    {
+      "title": "Jimi Hendrix - Electric Ladyland",
+      "date": "2024-10-05",
+      "releaseDate": "1968-10-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292"
+    },
+    {
+      "title": "Kendrick Lamar - DAMN. COLLECTORS EDITION.",
+      "date": "2024-09-26",
+      "releaseDate": "2017-12-08",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273add9eb25744782c3717c9368"
+    },
+    {
+      "title": "Kendrick Lamar - DAMN.",
+      "date": "2024-09-26",
+      "releaseDate": "2017-04-14",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699"
+    },
+    {
+      "title": "Oasis - (What's The Story) Morning Glory?",
+      "date": "2024-09-09",
+      "releaseDate": "1995-10-02",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c"
+    },
+    {
+      "title": "Dr. Dre - 2001",
+      "date": "2024-08-29",
+      "releaseDate": "1999-11-16",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5"
+    },
+    {
+      "title": "Travis Scott - DAYS BEFORE RODEO",
+      "date": "2024-08-23",
+      "releaseDate": "2014-08-18",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a2a7386de6494fc9275e1abb"
+    },
+    {
+      "title": "Vince Staples - Big Fish Theory",
+      "date": "2024-08-08",
+      "releaseDate": "2017-06-23",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737ba7b4d23c717f3211717946"
+    },
+    {
+      "title": "Stevie Wonder - Talking Book",
+      "date": "2024-07-31",
+      "releaseDate": "1972-10-28",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0"
+    },
+    {
+      "title": "Lil Uzi Vert - Luv Is Rage 2 (Deluxe)",
+      "date": "2024-07-25",
+      "releaseDate": "2017-08-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d7e1c68ed8e464b03095afda"
+    },
+    {
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "date": "2024-07-16",
+      "releaseDate": "2015-03-16",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1"
+    },
+    {
+      "title": "Radiohead - OK Computer",
+      "date": "2024-07-02",
+      "releaseDate": "1997-05-28",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856"
+    },
+    {
+      "title": "Young Thug - So Much Fun (Deluxe)",
+      "date": "2024-06-28",
+      "releaseDate": "2019-12-20",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273caca74e1aa8e32cd44bb5c8f"
+    },
+    {
+      "title": "Fugees, Ms. Lauryn Hill, Wyclef Jean - The Score (Expanded Edition)",
+      "date": "2024-06-26",
+      "releaseDate": "1996-02-13",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735b7865be7f7fcc05faec6137"
+    },
+    {
+      "title": "21 Savage, Metro Boomin - SAVAGE MODE II",
+      "date": "2024-06-16",
+      "releaseDate": "2020-10-02",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8"
+    },
+    {
+      "title": "Don Toliver - HARDSTONE PSYCHO",
+      "date": "2024-06-14",
+      "releaseDate": "2024-06-14",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1"
+    },
+    {
+      "title": "Kendrick Lamar - good kid, m.A.A.d city (Deluxe)",
+      "date": "2024-05-25",
+      "releaseDate": "2012-10-22",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27378de8b28de36a74afc0348b5"
+    },
+    {
+      "title": "Quavo, Takeoff - Only Built For Infinity Links",
+      "date": "2024-05-19",
+      "releaseDate": "2022-10-07",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ffe5b62233340cb6d453fc2f"
+    },
+    {
+      "title": "Daft Punk - Random Access Memories",
+      "date": "2024-05-16",
+      "releaseDate": "2013-05-20",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937"
+    },
+    {
+      "title": "Travis Scott - UTOPIA",
+      "date": "2024-05-02",
+      "releaseDate": "2023-07-28",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f"
+    },
+    {
+      "title": "Don Toliver - Heaven Or Hell",
+      "date": "2024-04-25",
+      "releaseDate": "2020-03-13",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739d04d25e732c593fb94e7193"
+    },
+    {
+      "title": "JACKBOYS, Travis Scott - JACKBOYS",
+      "date": "2024-04-23",
+      "releaseDate": "2019-12-27",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b920fc01c37be38130418a34"
+    },
+    {
+      "title": "Migos - Culture II",
+      "date": "2024-04-20",
+      "releaseDate": "2018-01-26",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890"
+    },
+    {
+      "title": "Travis Scott - Birds In The Trap Sing McKnight",
+      "date": "2024-04-09",
+      "releaseDate": "2016-09-16",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53"
+    },
+    {
+      "title": "Tame Impala - Currents",
+      "date": "2024-04-05",
+      "releaseDate": "2015-07-17",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79"
+    },
+    {
+      "title": "Dr. Dre - The Chronic",
+      "date": "2024-04-03",
+      "releaseDate": "1992-12-15",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739710731c9d7baec635f1bab1"
+    },
+    {
+      "title": "Rage Against The Machine - Rage Against The Machine",
+      "date": "2024-03-27",
+      "releaseDate": "1992-11-03",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ee4644e12bef70636167c6bd"
+    },
+    {
+      "title": "Travis Scott - Rodeo",
+      "date": "2024-03-24",
+      "releaseDate": "2015-09-04",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d3b5affd8824b4ed301b7137"
+    },
+    {
+      "title": "Juice WRLD - Goodbye & Good Riddance",
+      "date": "2024-03-18",
+      "releaseDate": "2018-12-10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4"
+    },
+    {
+      "title": "¥$, Kanye West, Ty Dolla $ign - VULTURES 1",
+      "date": "2024-03-05",
+      "releaseDate": "2024-02-09",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730a31b4026a452ae8c3f97a76"
+    },
+    {
+      "title": "Playboi Carti - Whole Lotta Red",
+      "date": "2024-02-25",
+      "releaseDate": "2020-12-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb"
+    },
+    {
+      "title": "Kanye West - Donda",
+      "date": "2024-02-08",
+      "releaseDate": "2021-08-29",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd"
+    },
+    {
+      "title": "Kanye West - JESUS IS KING",
+      "date": "2024-01-13",
+      "releaseDate": "2019-10-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964"
+    },
+    {
+      "title": "Pink Floyd - Wish You Were Here (Remastered Version)",
+      "date": "2024-01-06",
+      "releaseDate": "1975-09-12",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273df3aa3f27dfda3285ca7a2e5"
+    },
+    {
+      "title": "Travis Scott - ASTROWORLD",
+      "date": "2023-12-25",
+      "releaseDate": "2018-08-03",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32"
+    },
+    {
+      "title": "50 Cent - Get Rich Or Die Tryin'",
+      "date": "2023-12-25",
+      "releaseDate": "2003-02-06",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae"
+    },
+    {
+      "title": "SCH - A7",
+      "date": "2023-12-25",
+      "releaseDate": "2015-11-13",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273dced4ac7bdab3548e2730d66"
+    },
+    {
+      "title": "Kanye West - Graduation",
+      "date": "2023-12-25",
+      "releaseDate": "2007-09-11",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a"
+    },
+    {
+      "title": "Bruno Mars - 24K Magic",
+      "date": "2023-12-25",
+      "releaseDate": "2016-11-18",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5"
+    },
+    {
+      "title": "Kanye West - My Beautiful Dark Twisted Fantasy",
+      "date": "2023-12-25",
+      "releaseDate": "2010-11-22",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f"
+    },
+    {
+      "title": "Huncho Jack, Travis Scott, Quavo - Huncho Jack, Jack Huncho",
+      "date": "2023-12-25",
+      "releaseDate": "2017-12-21",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273631973893e94d01cfcdf0e5e"
+    },
+    {
+      "title": "Vald - NQNT33",
+      "date": "2023-12-25",
+      "releaseDate": "2018-09-13",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732a1ad811f192d80b7f5da477"
+    },
+    {
+      "title": "Vald - XEU",
+      "date": "2023-12-25",
+      "releaseDate": "2018-02-02",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27382f6c9fecc589fb8a1d506f9"
+    },
+    {
+      "title": "Vald - Ce monde est cruel",
+      "date": "2023-12-25",
+      "releaseDate": "2019-10-10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735d191f69e1bcb631b5da3759"
+    },
+    {
+      "title": "Spider ZED - Bien ou quoi",
+      "date": "2023-12-25",
+      "releaseDate": "2019-05-17",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731f4f33b9c1ecf339fb55b6ea"
+    },
+    {
+      "title": "Spider ZED - Jeune intermittent",
+      "date": "2023-12-25",
+      "releaseDate": "2020-11-06",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c828d52f0b6a4413ebe89723"
+    },
+    {
+      "title": "Orelsan - Civilisation",
+      "date": "2023-12-25",
+      "releaseDate": "2021-11-19",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27358ba1ea637001f9a15e55a92"
+    },
+    {
+      "title": "Nieve, SoulChef - Sunflower in the Sunlight",
+      "date": "2023-12-25",
+      "releaseDate": "2016-04-16",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273549cb653a333e7b86bc3e966"
+    },
+    {
+      "title": "NewJeans - NewJeans 1st EP 'New Jeans'",
+      "date": "2023-12-25",
+      "releaseDate": "2022-08-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209"
+    },
+    {
+      "title": "NewJeans - NewJeans 2nd EP 'Get Up'",
+      "date": "2023-12-25",
+      "releaseDate": "2023-07-21",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b"
+    },
+    {
+      "title": "Népal - Benji",
+      "date": "2023-12-25",
+      "releaseDate": "2020-10-02",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730e9a7a6be84410d6708abe3d"
+    },
+    {
+      "title": "Népal - Cheddar",
+      "date": "2023-12-25",
+      "releaseDate": "2020-09-29",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f3ca4410a7051df0030afb45"
+    },
+    {
+      "title": "Népal - 2016 - 2018",
+      "date": "2023-12-25",
+      "releaseDate": "2019-08-23",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273376b09b6634e8ae4af7a3c8b"
+    },
+    {
+      "title": "Népal - Adios Bahamas",
+      "date": "2023-12-25",
+      "releaseDate": "2020-01-10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730cb621d316215a0bbcc22d70"
+    },
+    {
+      "title": "Lorenzo - Légende Vivante",
+      "date": "2023-12-25",
+      "releaseDate": "2022-12-02",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737dfb2cbea4cdb69a132cb2a9"
+    },
+    {
+      "title": "Lesram - Wesh Enfoiré",
+      "date": "2023-12-25",
+      "releaseDate": "2022-04-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736c411996f4417f65d663673e"
+    },
+    {
+      "title": "L'Or du Commun - Zeppelin",
+      "date": "2023-12-25",
+      "releaseDate": "2017-05-03",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732566108b8fcecf15c56b7e32"
+    },
+    {
+      "title": "Kool & The Gang - Best Of",
+      "date": "2023-12-25",
+      "releaseDate": "2011-03-30",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738396753cf00275d1bb0a42ed"
+    },
+    {
+      "title": "Kekra - Stratos",
+      "date": "2023-12-25",
+      "releaseDate": "2023-03-02",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735f938a76f6cbeca226cdcab9"
+    },
+    {
+      "title": "KAYTRANADA - 99.9%",
+      "date": "2023-12-25",
+      "releaseDate": "2016-05-06",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b2f893f4215f2930e7320355"
+    },
+    {
+      "title": "Jazzy Bazz - Memoria",
+      "date": "2023-12-25",
+      "releaseDate": "2022-01-21",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27342f98f4eab8b0b38a4877831"
+    },
+    {
+      "title": "Ice Cube - Greatest Hits",
+      "date": "2023-12-25",
+      "releaseDate": "2001-12-04",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27355af7e0cd246a50f8cd15194"
+    },
+    {
+      "title": "Hugo TSR - La bombe h",
+      "date": "2023-12-25",
+      "releaseDate": "2005-03-25",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737f05930021bcc8e2ba1d82e1"
+    },
+    {
+      "title": "Hugo TSR - Une vie et quelques",
+      "date": "2023-12-25",
+      "releaseDate": "2021-02-19",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f033d410b585b8d7577a6af9"
+    },
+    {
+      "title": "Hugo TSR - Tant qu'on est là",
+      "date": "2023-12-25",
+      "releaseDate": "2017-09-22",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738597441fd03488bf52cd6fcb"
+    },
+    {
+      "title": "Hugo TSR - Fenêtre Sur Rue",
+      "date": "2023-12-25",
+      "releaseDate": "2012-11-05",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273899c82f6baa5c404dab00aca"
+    },
+    {
+      "title": "HOUDI - LA FOLIE DES GRANDEURS",
+      "date": "2023-12-25",
+      "releaseDate": "2023-03-03",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27310c54809b13f68747b5a8d94"
+    },
+    {
+      "title": "Geto Boys - Uncut Dope",
+      "date": "2023-12-25",
+      "releaseDate": "1992-11-17",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e91f3ec3f8d0fcbe8453639d"
+    },
+    {
+      "title": "Freeze corleone - LMF",
+      "date": "2023-12-25",
+      "releaseDate": "2020-09-11",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27304a2bc0e349bba45f7558da9"
+    },
+    {
+      "title": "Eminem - Curtain Call: The Hits (Deluxe Edition)",
+      "date": "2023-12-25",
+      "releaseDate": "2005-12-06",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578"
+    },
+    {
+      "title": "Doc Gynéco - Premiere consultation",
+      "date": "2023-12-25",
+      "releaseDate": "1996-04-11",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738d79dede1ba859b25532ca90"
+    },
+    {
+      "title": "Deen Burbigo - Grand cru",
+      "date": "2023-12-25",
+      "releaseDate": "2017-03-17",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27390a30c861a9aa6fbc9d0ecfe"
+    },
+    {
+      "title": "Deen Burbigo - OG SAN I",
+      "date": "2023-12-25",
+      "releaseDate": "2021-07-09",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732b3a9c113ffedc4087244f58"
+    },
+    {
+      "title": "Deen Burbigo - Cercle vertueux",
+      "date": "2023-12-25",
+      "releaseDate": "2020-11-06",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27330baf01b00d9afedc52851c4"
+    },
+    {
+      "title": "Deen Burbigo - OG SAN II",
+      "date": "2023-12-25",
+      "releaseDate": "2023-07-07",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f137fe7ba328ec4a9620923b"
+    },
+    {
+      "title": "Dalí - Magazine",
+      "date": "2023-12-25",
+      "releaseDate": "2023-01-19",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27355b560b61d5233cbf87fda43"
+    },
+    {
+      "title": "Daft Punk - Discovery",
+      "date": "2023-12-25",
+      "releaseDate": "2001-03-12",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade"
+    },
+    {
+      "title": "Orelsan - Perdu D'Avance",
+      "date": "2023-12-25",
+      "releaseDate": "2009-02-16",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730b2e3999b189fa2a8a6a752f"
+    },
+    {
+      "title": "Casseurs Flowters - Orelsan et Gringe sont les Casseurs Flowters",
+      "date": "2023-12-25",
+      "releaseDate": "2013-11-18",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737e3da1103022c12cb530ca84"
+    },
+    {
+      "title": "Casseurs Flowters - Comment c'est loin",
+      "date": "2023-12-25",
+      "releaseDate": "2015-12-09",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736e069ce557898f321fd403ef"
+    },
+    {
+      "title": "Caballero & JeanJass, Caballero, JeanJass - Double hélice 3",
+      "date": "2023-12-25",
+      "releaseDate": "2018-06-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732618a20189911943345b86d1"
+    },
+    {
+      "title": "Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers",
+      "date": "2023-12-25",
+      "releaseDate": "2002-01-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273413a6c2c7b296d98171e5e21"
+    },
+    {
+      "title": "Alpha Wann - UNE MAIN LAVE L'AUTRE",
+      "date": "2023-12-25",
+      "releaseDate": "2018-09-21",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731e546007515b02884d72595f"
+    },
+    {
+      "title": "Alpha Wann - don dada mixtape vol 1",
+      "date": "2023-12-25",
+      "releaseDate": "2020-12-18",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734e2eba88eda4ded5e590ba6b"
+    },
+    {
+      "title": "KIDS SEE GHOSTS, Kanye West, Kid Cudi - KIDS SEE GHOSTS",
+      "date": "2023-12-25",
+      "releaseDate": "2018-06-08",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82"
+    },
+    {
+      "title": "Kanye West - ye",
+      "date": "2023-12-25",
+      "releaseDate": "2018-06-01",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2"
+    },
+    {
+      "title": "Kanye West - The Life Of Pablo",
+      "date": "2023-12-25",
+      "releaseDate": "2016-06-10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4"
+    },
+    {
+      "title": "Kanye West - Yeezus",
+      "date": "2023-12-25",
+      "releaseDate": "2013-06-18",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9"
+    },
+    {
+      "title": "Kanye West - 808s & Heartbreak",
+      "date": "2023-12-25",
+      "releaseDate": "2008-11-24",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18"
+    },
+    {
+      "title": "Kanye West - Late Registration",
+      "date": "2023-12-25",
+      "releaseDate": "2005-08-30",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2"
+    },
+    {
+      "title": "Kanye West - The College Dropout",
+      "date": "2023-12-25",
+      "releaseDate": "2004-02-10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78"
+    }
+  ]
 }
