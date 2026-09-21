@@ -17,21 +17,17 @@ A push to `main` is live within seconds - the host checkout of this repository i
 server's `CONTENT_DIR`, and the server rereads the JSON on every request. There is no
 build and no tag to cut.
 
-The publishing is `.github/workflows/publish.yml`: on every push to `main` (and when
-called by another workflow of this repository, or run by hand) it runs
-`git pull --ff-only` in that checkout over SSH. It fails, publishing nothing, if the
+Publishing is a webhook of this repository (*Settings > Webhooks*): on every push to
+`main` - a CMS save, a hand edit, the Spotify sync - GitHub calls
+`POST https://<site>/api/hooks/content`, signed with a secret shared with the server
+(`CONTENT_WEBHOOK_SECRET` in its `server/.env`). The server checks the signature, then
+runs `git pull --ff-only` in its checkout itself. It refuses, publishing nothing, if the
 checkout has local changes or if its history has diverged from `main` (a commit made
-on the host, or `main` rewritten) - fix the checkout by hand, then run it again. It
-needs the `INFOMANIAK_HOST`, `INFOMANIAK_USER`, `INFOMANIAK_SSH_PASSWORD` and
-`INFOMANIAK_CONTENT_PATH` secrets. A workflow that pushes to `main` with the default
-`GITHUB_TOKEN` does not trigger it, so such a workflow calls it itself:
-
-```yaml
-  publish:
-    needs: <the job that pushed>
-    uses: ./.github/workflows/publish.yml
-    secrets: inherit
-```
+on the host, or `main` rewritten); the reason is in the site's log, and each delivery is
+listed under the webhook's *Recent Deliveries*, where it can be redelivered once the
+checkout is fixed. Webhooks, unlike workflows, fire for pushes made with the default
+`GITHUB_TOKEN`, so a workflow that pushes needs nothing more. The code repository's
+README, *Deploying*, has the details.
 
 What visitors write on the `/computer` page (uploaded files, chat) does **not** belong
 here: it lives in the private `mxrjup-visitors` repository.
@@ -60,8 +56,8 @@ Monday at 05:17 UTC (or when run by hand from the Actions tab). The sync only ev
   written as 2-space JSON with a final newline. When nothing is new the file is not
   touched and nothing is committed or published.
 
-The workflow commits as `github-actions[bot]`, pushes to `main`, then calls
-`publish.yml` itself. If the CMS pushed in the meantime, it starts again from the new
+The workflow commits as `github-actions[bot]` and pushes to `main`, which the webhook
+publishes like any other push. If the CMS pushed in the meantime, it starts again from the new
 `main`. If a secret is missing or Spotify answers with an error, it fails without
 committing; the next run catches up. Covers are Spotify's CDN URLs (`i.scdn.co`), not
 files of this repository.
