@@ -1,7 +1,8 @@
 name: Spotify timeline
 
-# Adds the albums saved in Spotify since the last run to data/timeline.json, commits
-# the file if it changed, and publishes it. Add only: an entry already in the file -
+# Adds the albums saved in Spotify since the last run to data/timeline.json, and
+# commits and pushes the file if it changed; the push goes live through the
+# repository's webhook, like any other. Add only: an entry already in the file -
 # edited in the CMS, hidden, or gone from the library since - is never changed or
 # removed (scripts/timeline-merge.mjs). No new album, no commit, no publish.
 #
@@ -13,7 +14,8 @@ on:
     - cron: '17 5 * * 1'
   workflow_dispatch:
 
-# The push is made with GITHUB_TOKEN.
+# The push is made with GITHUB_TOKEN. That triggers no other workflow, but webhooks
+# fire for it, so the site still pulls the new timeline.
 permissions:
   contents: write
 
@@ -27,8 +29,6 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    outputs:
-      changed: ${{ steps.sync.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -59,7 +59,6 @@ jobs:
 
             if git diff --quiet -- data/timeline.json; then
               echo 'No new album; nothing to commit.'
-              echo 'changed=false' >> "$GITHUB_OUTPUT"
               exit 0
             fi
 
@@ -68,7 +67,6 @@ jobs:
             git commit -q -m 'Add the new Spotify albums to the timeline' \
               -m "$(grep '^  + ' "$RUNNER_TEMP/sync.log" | sed 's/^  + /- /')"
             if git push origin HEAD:main; then
-              echo 'changed=true' >> "$GITHUB_OUTPUT"
               exit 0
             fi
 
@@ -78,11 +76,3 @@ jobs:
           done
           echo '::error::Could not push the timeline after 3 attempts.'
           exit 1
-
-  # A push made with GITHUB_TOKEN does not trigger other workflows, so the publish
-  # that a push to main normally runs has to be called here.
-  publish:
-    needs: sync
-    if: needs.sync.outputs.changed == 'true'
-    uses: ./.github/workflows/publish.yml
-    secrets: inherit
