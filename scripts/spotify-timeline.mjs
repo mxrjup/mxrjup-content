@@ -1,17 +1,19 @@
 #!/usr/bin/env node
 /**
- * Export your saved Spotify albums into server/data/timeline_spotify.json.
+ * Add your saved Spotify albums to data/timeline.json.
  *
- *   node scripts/spotify-timeline.mjs --client-id=<id> [--download] [--out=path]
+ *   node scripts/spotify-timeline.mjs [--client-id=<id>] [--download] [--file=path]
  *
  * Reads GET /v1/me/albums, which returns the album plus `added_at` - the date
  * you saved it, which the timeline groups by - and `release_date`, which each
  * entry carries as well, so a card shows both when you found a record and when
  * it came out.
  *
- * The file this writes is NOT versioned: it belongs to the host, which refreshes
- * it from cron (scripts/spotify-cron.sh). Albums added by hand in the CMS live in
- * server/data/timeline.json, which is versioned; the server serves the two merged.
+ * The file is shared with the CMS, so this only ever appends: albums already in it
+ * (same `spotifyId`, or the same title once normalized) are skipped, and no existing
+ * entry is changed or removed - see timeline-merge.mjs. When nothing is new the file
+ * is not rewritten at all. It runs weekly from .github/workflows/spotify-timeline.yml,
+ * which commits the file if it changed and publishes it.
  *
  * Two ways in:
  *
@@ -19,31 +21,34 @@
  *   Spotify directly and this script only ever sees the resulting token. No
  *   password goes through it, and nothing is stored on disk.
  *
- *   Unattended (cron) - a refresh token, minted once with
- *   `--print-refresh-token` and kept in server/.env as SPOTIFY_REFRESH_TOKEN.
+ *   Unattended (the workflow) - a refresh token, minted once with
+ *   `--print-refresh-token` and kept in the repository secret SPOTIFY_REFRESH_TOKEN.
  *   That path needs the client secret; in exchange the token is stable, where a
  *   PKCE refresh token rotates on every use and would have to be written back.
+ *   `--unattended` makes missing credentials an error instead of opening a browser
+ *   nobody is watching.
  *
  * Setup, once:
  *   1. https://developer.spotify.com/dashboard -> Create app
  *   2. Add redirect URI exactly: http://127.0.0.1:8888/callback
  *      (127.0.0.1, not localhost - Spotify rejects localhost)
- *   3. Copy the Client ID into --client-id, and for cron the Client Secret into
- *      SPOTIFY_CLIENT_SECRET, then run:
- *      node scripts/spotify-timeline.mjs --print-refresh-token
+ *   3. With the Client ID and Client Secret of that app, run:
+ *      node scripts/spotify-timeline.mjs --print-refresh-token \
+ *          --client-id=<id> --client-secret=<secret>
  *
  * Covers default to Spotify's CDN URL, which keeps several hundred images out
- * of a repository that is already large. --download fetches them into
- * server/uploads/ instead, at the cost of committing every one of them - not
- * something to do from cron, which would re-fetch them on every run.
+ * of the repository. --download fetches the covers of the albums it adds into
+ * uploads/ instead (served at /uploads/<name>), at the cost of committing every one
+ * of them - a manual run's option: the workflow commits data/timeline.json only.
  */
 
 import { createHash, randomBytes } from 'node:crypto';
 import { createServer } from 'node:http';
-import { writeFile, rename, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, rename, mkdir, access } from 'node:fs/promises';
 import { spawn } from 'node:child_process';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import path from 'node:path';
+import { mergeTimeline, parseTimeline, serializeTimeline } from './timeline-merge.mjs';
 
 const REDIRECT_URI = 'http://127.0.0.1:8888/callback';
 const SCOPE = 'user-library-read';
@@ -54,7 +59,8 @@ const base64url = (buf) => buf.toString('base64').replace(/\+/g, '-').replace(/\
 /**
  * Map Spotify's saved-album objects onto the timeline's shape.
  * The timeline stores no artist, so it goes in the title - which also keeps
- * titles unique, since the template tracks entries by title.
+ * titles unique, since the template tracks entries by title. `spotifyId` is what
+ * the next run recognizes the album by, whatever its title has been edited to.
  */
 export function toTimelineItems(savedAlbums) {
     return savedAlbums
@@ -64,7 +70,8 @@ export function toTimelineItems(savedAlbums) {
             date: String(added_at).slice(0, 10),
             releaseDate: normalizeReleaseDate(album.release_date),
             // images are ordered widest first
-            cover: album.images?.[0]?.url ?? ''
+            cover: album.images?.[0]?.url ?? '',
+            spotifyId: album.id
         }))
         .sort((a, b) => b.date.localeCompare(a.date));
 }
@@ -179,11 +186,15 @@ async function tokenFromRefresh(clientId, clientSecret, refreshToken) {
 async function fetchSavedAlbums(token) {
     let url = 'https://api.spotify.com/v1/me/albums?limit=50';
     const all = [];
+    let throttled = 0;
 
     while (url) {
         const response = await fetch(url, { headers: { Authorization: `Bearer ${token}` } });
 
         if (response.status === 429) {
+            // Give up rather than keep a scheduled run waiting for hours; the next
+            // week's run picks up whatever this one missed.
+            if (++throttled > 5) throw new Error(`GET ${url} still rate limited after 5 retries`);
             const wait = Number(response.headers.get('retry-after') || 2);
             console.log(`Rate limited, waiting ${wait}s...`);
             await new Promise((r) => setTimeout(r, wait * 1000));
@@ -191,7 +202,9 @@ async function fetchSavedAlbums(token) {
         }
         if (!response.ok) throw new Error(`GET ${url} failed: ${response.status} ${await response.text()}`);
 
+        throttled = 0;
         const page = await response.json();
+        if (!Array.isArray(page?.items)) throw new Error(`GET ${url} returned no items`);
         all.push(...page.items);
         console.log(`  ${all.length}/${page.total}`);
         url = page.next;
@@ -199,14 +212,19 @@ async function fetchSavedAlbums(token) {
     return all;
 }
 
-/** Fetch every cover into server/uploads/ and rewrite the items to point at it. */
+/** Fetch every cover into uploads/ and rewrite the items to point at it. */
 async function downloadCovers(items, uploadsDir) {
     await mkdir(uploadsDir, { recursive: true });
 
     for (const [i, item] of items.entries()) {
         if (!item.cover) continue;
         const slug = item.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
-        const name = `album-${slug || i}.jpg`;
+        const name = `album-${slug || item.spotifyId || i}.jpg`;
+        // Never overwrite a file of the repository: it may be another album's cover.
+        if (await access(path.join(uploadsDir, name)).then(() => true, () => false)) {
+            console.warn(`  uploads/${name} already exists, keeping the CDN URL for ${item.title}`);
+            continue;
+        }
 
         const response = await fetch(item.cover);
         if (!response.ok) {
@@ -218,6 +236,47 @@ async function downloadCovers(items, uploadsDir) {
         console.log(`  ${i + 1}/${items.length} ${name}`);
     }
     return items;
+}
+
+/**
+ * The whole run: read the file, fetch the library, append what is new, and write the
+ * file only if something was added. Every failure throws before the write, so a
+ * failed run - Spotify down, a bad token, a library read halfway - changes nothing.
+ * Returns the albums added.
+ */
+export async function syncTimeline({ file, clientId, clientSecret, refreshToken, download, uploadsDir }) {
+    let text;
+    try {
+        text = await readFile(file, 'utf8');
+    } catch (err) {
+        if (err.code !== 'ENOENT') throw err;
+        text = '{"items": []}';
+    }
+    // Parsed before calling Spotify: a file left broken is refused, not overwritten.
+    const { doc, items: existing } = parseTimeline(text);
+
+    const token = refreshToken
+        ? await tokenFromRefresh(clientId, clientSecret, refreshToken)
+        : await authorizePkce(clientId);
+
+    console.log('Fetching saved albums...');
+    const saved = await fetchSavedAlbums(token);
+
+    const { items, added } = mergeTimeline(existing, toTimelineItems(saved));
+    console.log(`${saved.length} saved albums, ${added.length} new, ${existing.length} entries before.`);
+    if (added.length === 0) return added;
+
+    if (download) {
+        console.log('Downloading covers...');
+        await downloadCovers(added, uploadsDir);
+    }
+
+    // Swapped in with a rename, so an interrupted run never leaves half a file.
+    await writeFile(`${file}.tmp`, serializeTimeline(doc, items));
+    await rename(`${file}.tmp`, file);
+    for (const item of added) console.log(`  + ${item.date} ${item.title}`);
+    console.log(`Wrote ${file}`);
+    return added;
 }
 
 async function main() {
@@ -239,7 +298,7 @@ async function main() {
         process.exit(1);
     }
 
-    // Mint the credential cron runs on, then stop - this writes no timeline.
+    // Mint the credential the workflow runs on, then stop - this writes no timeline.
     if (args['print-refresh-token']) {
         if (!clientSecret) {
             console.error('Missing --client-secret=<secret> (or SPOTIFY_CLIENT_SECRET).');
@@ -247,40 +306,32 @@ async function main() {
             process.exit(1);
         }
         const token = await authorizeForRefreshToken(clientId, clientSecret);
-        console.log('\nAdd this line to server/.env on the host:\n');
-        console.log(`SPOTIFY_REFRESH_TOKEN=${token.refresh_token}`);
+        console.log('\nStore this as the SPOTIFY_REFRESH_TOKEN secret of mxrjup/mxrjup-content:\n');
+        console.log(token.refresh_token);
         console.log('\nIt does not expire. Treat it like a password: it reads your Spotify library.');
         return;
     }
 
+    // Without a refresh token the run falls back to the browser login, which would
+    // wait forever on a machine nobody is sitting at.
+    if (args.unattended && (!refreshToken || !clientSecret)) {
+        console.error('--unattended needs SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET and SPOTIFY_REFRESH_TOKEN.');
+        process.exit(1);
+    }
     if (refreshToken && !clientSecret) {
         console.error('SPOTIFY_REFRESH_TOKEN is set but SPOTIFY_CLIENT_SECRET is not - refreshing needs both.');
         process.exit(1);
     }
 
     const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-    const out = args.out ? path.resolve(args.out) : path.join(root, 'server/data/timeline_spotify.json');
-
-    const token = refreshToken
-        ? await tokenFromRefresh(clientId, clientSecret, refreshToken)
-        : await authorizePkce(clientId);
-
-    console.log('Fetching saved albums...');
-    const saved = await fetchSavedAlbums(token);
-
-    let items = toTimelineItems(saved);
-    if (args.download) {
-        console.log('Downloading covers...');
-        items = await downloadCovers(items, path.join(root, 'server/uploads'));
-    }
-
-    // The running server reads this file on every request, so swap it in with a
-    // rename - a half-written file is never served, and a failed run changes nothing.
-    await writeFile(`${out}.tmp`, JSON.stringify({ items }, null, 2) + '\n');
-    await rename(`${out}.tmp`, out);
-
-    console.log(`\nWrote ${items.length} albums to ${out}`);
-    console.log(items.length ? `Newest: ${items[0].date} - oldest: ${items[items.length - 1].date}` : '');
+    await syncTimeline({
+        file: args.file ? path.resolve(args.file) : path.join(root, 'data/timeline.json'),
+        clientId,
+        clientSecret,
+        refreshToken,
+        download: Boolean(args.download),
+        uploadsDir: path.join(root, 'uploads')
+    });
 }
 
 // Only run when executed directly, so the mapping stays importable for tests.
