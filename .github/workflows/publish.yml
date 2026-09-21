@@ -46,8 +46,14 @@ jobs:
           username: ${{ secrets.INFOMANIAK_USER }}
           # Infomaniak's Node.js sites accept no SSH key: log in with the SSH user's password.
           password: ${{ secrets.INFOMANIAK_SSH_PASSWORD }}
+          # Infomaniak's SSH hands a command run without a terminal no working
+          # stderr: the first write to it (git fetch's progress) killed the deploy
+          # with SIGPIPE (exit 141) before any output. Ask for a terminal, and send
+          # stderr to stdout anyway so nothing depends on that second stream.
+          request_pty: true
           script: |
             set -e
+            exec 2>&1
             # The host's checkout of this repository, cloned over HTTPS: the
             # repository is public, so the host needs no key to pull it.
             cd "${{ secrets.INFOMANIAK_CONTENT_PATH }}"
