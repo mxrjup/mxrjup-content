@@ -23,7 +23,7 @@ on:
         required: true
       INFOMANIAK_USER:
         required: true
-      INFOMANIAK_SSH_KEY:
+      INFOMANIAK_SSH_PASSWORD:
         required: true
       INFOMANIAK_CONTENT_PATH:
         required: true
@@ -44,7 +44,8 @@ jobs:
         with:
           host: ${{ secrets.INFOMANIAK_HOST }}
           username: ${{ secrets.INFOMANIAK_USER }}
-          key: ${{ secrets.INFOMANIAK_SSH_KEY }}
+          # Infomaniak's Node.js sites accept no SSH key: log in with the SSH user's password.
+          password: ${{ secrets.INFOMANIAK_SSH_PASSWORD }}
           script: |
             set -e
             # The host's checkout of this repository, cloned over HTTPS: the
