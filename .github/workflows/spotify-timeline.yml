@@ -1,0 +1,88 @@
+name: Spotify timeline
+
+# Adds the albums saved in Spotify since the last run to data/timeline.json, commits
+# the file if it changed, and publishes it. Add only: an entry already in the file -
+# edited in the CMS, hidden, or gone from the library since - is never changed or
+# removed (scripts/timeline-merge.mjs). No new album, no commit, no publish.
+#
+# Weekly, and by hand from the Actions tab (the first run fills an empty timeline).
+# Needs the SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET and SPOTIFY_REFRESH_TOKEN secrets;
+# without them, or if Spotify answers with an error, the run fails before committing.
+on:
+  schedule:
+    - cron: '17 5 * * 1'
+  workflow_dispatch:
+
+# The push is made with GITHUB_TOKEN.
+permissions:
+  contents: write
+
+# Two runs at once would both append the same albums and one push would lose; the
+# second waits for the first, then finds nothing left to add.
+concurrency:
+  group: spotify-timeline
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      changed: ${{ steps.sync.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Add new albums, commit and push
+        id: sync
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        shell: bash
+        run: |
+          # pipefail: a failed sync must fail the step even though its output is piped.
+          set -eo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          # A CMS save can land on main while this runs, and the push is then
+          # refused. Start over from the new main rather than merge: the sync reads
+          # the file again and appends to what the CMS just wrote.
+          for attempt in 1 2 3; do
+            node scripts/spotify-timeline.mjs --unattended | tee "$RUNNER_TEMP/sync.log"
+
+            if git diff --quiet -- data/timeline.json; then
+              echo 'No new album; nothing to commit.'
+              echo 'changed=false' >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+
+            # The script lists what it added as "  + <date> <title>".
+            git add data/timeline.json
+            git commit -q -m 'Add the new Spotify albums to the timeline' \
+              -m "$(grep '^  + ' "$RUNNER_TEMP/sync.log" | sed 's/^  + /- /')"
+            if git push origin HEAD:main; then
+              echo 'changed=true' >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+
+            echo "Push refused (attempt $attempt), main moved; starting over from it."
+            git fetch origin main
+            git reset -q --hard origin/main
+          done
+          echo '::error::Could not push the timeline after 3 attempts.'
+          exit 1
+
+  # A push made with GITHUB_TOKEN does not trigger other workflows, so the publish
+  # that a push to main normally runs has to be called here.
+  publish:
+    needs: sync
+    if: needs.sync.outputs.changed == 'true'
+    uses: ./.github/workflows/publish.yml
+    secrets: inherit
