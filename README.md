@@ -22,7 +22,7 @@ called by another workflow of this repository, or run by hand) it runs
 `git pull --ff-only` in that checkout over SSH. It fails, publishing nothing, if the
 checkout has local changes or if its history has diverged from `main` (a commit made
 on the host, or `main` rewritten) - fix the checkout by hand, then run it again. It
-needs the `INFOMANIAK_HOST`, `INFOMANIAK_USER`, `INFOMANIAK_SSH_KEY` and
+needs the `INFOMANIAK_HOST`, `INFOMANIAK_USER`, `INFOMANIAK_SSH_PASSWORD` and
 `INFOMANIAK_CONTENT_PATH` secrets. A workflow that pushes to `main` with the default
 `GITHUB_TOKEN` does not trigger it, so such a workflow calls it itself:
 
