@@ -1,0 +1,25 @@
+name: Test scripts
+
+# The timeline sync edits a file the CMS shares; its merge rules are checked here
+# before any change to them reaches main. Node only - this repository has no
+# package.json and the scripts need no dependency.
+on:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/test.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: node --test 'scripts/test/*.test.mjs'
