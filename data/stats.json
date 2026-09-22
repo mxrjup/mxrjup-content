@@ -4657,6 +4657,26 @@
           "weeks": 2,
           "cover": "https://i.scdn.co/image/ab67616d00001e02de667b23df8eda37dcb6bd96"
         }
+      ],
+      "albums": [
+        {
+          "name": "Project Baby 2: All Grown Up",
+          "artist": "Kodak Black",
+          "weeks": 5,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
+        },
+        {
+          "name": "The Blueprint",
+          "artist": "JAŸ-Z",
+          "weeks": 5,
+          "cover": "https://i.scdn.co/image/ab67616d00001e021b3f6f34954118500ed3e7a7"
+        },
+        {
+          "name": "ASTROWORLD",
+          "artist": "Travis Scott",
+          "weeks": 5,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
+        }
       ]
     },
     "longestTopTenRun": {
@@ -4708,6 +4728,32 @@
           "to": "2024-02-18",
           "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
         }
+      ],
+      "albums": [
+        {
+          "name": "LIVE.LOVE.A$AP",
+          "artist": "A$AP Rocky",
+          "weeks": 11,
+          "from": "2024-10-28",
+          "to": "2025-01-12",
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "name": "ASTROWORLD",
+          "artist": "Travis Scott",
+          "weeks": 11,
+          "from": "2024-01-15",
+          "to": "2024-03-31",
+          "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
+        },
+        {
+          "name": "TESTING",
+          "artist": "A$AP Rocky",
+          "weeks": 10,
+          "from": "2025-01-27",
+          "to": "2025-04-06",
+          "cover": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1"
+        }
       ]
     },
     "biggestWeeks": [
@@ -4725,6 +4771,112 @@
         "from": "2024-12-16",
         "to": "2024-12-22",
         "plays": 600
+      }
+    ],
+    "longestStreak": [
+      {
+        "days": 159,
+        "from": "2025-02-02",
+        "to": "2025-07-10"
+      },
+      {
+        "days": 118,
+        "from": "2024-01-29",
+        "to": "2024-05-25"
+      },
+      {
+        "days": 101,
+        "from": "2024-10-20",
+        "to": "2025-01-28"
+      }
+    ],
+    "mostPlayedInAWeek": [
+      {
+        "name": "Again",
+        "artist": "Image 12",
+        "plays": 26,
+        "from": "2024-04-08",
+        "to": "2024-04-14",
+        "cover": "https://i.scdn.co/image/ab67616d00001e02a204e36a4a2296ea28c0c945"
+      },
+      {
+        "name": "BURN",
+        "artist": "¥$",
+        "plays": 24,
+        "from": "2024-03-04",
+        "to": "2024-03-10",
+        "cover": "https://i.scdn.co/image/ab67616d00001e029c654f315df05ae7c6ec8980"
+      },
+      {
+        "name": "FUK SUMN",
+        "artist": "¥$",
+        "plays": 21,
+        "from": "2024-03-04",
+        "to": "2024-03-10",
+        "cover": "https://i.scdn.co/image/ab67616d00001e029c654f315df05ae7c6ec8980"
+      }
+    ],
+    "deepestCatalogue": [
+      {
+        "name": "Kanye West",
+        "tracks": 159,
+        "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a"
+      },
+      {
+        "name": "A$AP Rocky",
+        "tracks": 104,
+        "image": "https://i.scdn.co/image/ab67616100005174ad160b333f9a240f84aff7d7"
+      },
+      {
+        "name": "Travis Scott",
+        "tracks": 98,
+        "image": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71"
+      }
+    ],
+    "albumInADay": [
+      {
+        "name": "MUSIC",
+        "artist": "Playboi Carti",
+        "tracks": 30,
+        "day": "2025-03-14",
+        "cover": "https://i.scdn.co/image/ab67616d00001e026b219c8d8462bfe254a20469"
+      },
+      {
+        "name": "Donda",
+        "artist": "Kanye West",
+        "tracks": 27,
+        "day": "2024-02-08",
+        "cover": "https://i.scdn.co/image/ab67616d00001e02cad190f1a73c024e5a40dddd"
+      },
+      {
+        "name": "Wave Pack",
+        "artist": "Max B",
+        "tracks": 26,
+        "day": "2025-11-18",
+        "cover": "https://i.scdn.co/image/ab67616d00001e0249886a33144b99470fe7a413"
+      }
+    ],
+    "onRepeat": [
+      {
+        "name": "Monday (feat. LEJ, Akhenaton & Blundetto)",
+        "artist": "Biga*Ranx",
+        "plays": 9,
+        "day": "2025-04-11",
+        "cover": "https://i.scdn.co/image/ab67616d00001e020dd279941fe83f2a685107c4"
+      },
+      {
+        "name": "MY EYES",
+        "artist": "Travis Scott",
+        "plays": 6,
+        "day": "2024-03-29",
+        "cover": "https://i.scdn.co/image/ab67616d00001e0204481c826dd292e5e4983b3f"
+      },
+      {
+        "name": "PUNK ROCKY",
+        "artist": "A$AP Rocky",
+        "plays": 5,
+        "day": "2026-01-12",
+        "cover": "https://i.scdn.co/image/ab67616d00001e0227b7133c976e8ae6c3add683"
       }
     ]
   }
