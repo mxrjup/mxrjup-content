@@ -4833,27 +4833,24 @@
         "image": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71"
       }
     ],
-    "albumInADay": [
+    "weeksInRotation": [
       {
-        "name": "MUSIC",
-        "artist": "Playboi Carti",
-        "tracks": 30,
-        "day": "2025-03-14",
-        "cover": "https://i.scdn.co/image/ab67616d00001e026b219c8d8462bfe254a20469"
+        "name": "ASTROWORLD",
+        "artist": "Travis Scott",
+        "weeks": 73,
+        "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
       },
       {
-        "name": "Donda",
-        "artist": "Kanye West",
-        "tracks": 27,
-        "day": "2024-02-08",
-        "cover": "https://i.scdn.co/image/ab67616d00001e02cad190f1a73c024e5a40dddd"
+        "name": "Huncho Jack, Jack Huncho",
+        "artist": "Huncho Jack",
+        "weeks": 72,
+        "cover": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e"
       },
       {
-        "name": "Wave Pack",
-        "artist": "Max B",
-        "tracks": 26,
-        "day": "2025-11-18",
-        "cover": "https://i.scdn.co/image/ab67616d00001e0249886a33144b99470fe7a413"
+        "name": "LIVE.LOVE.A$AP",
+        "artist": "A$AP Rocky",
+        "weeks": 61,
+        "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
       }
     ],
     "onRepeat": [
