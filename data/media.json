@@ -83,6 +83,20 @@
       "type": "video",
       "url": "/uploads/sherrif.mp4",
       "thumbnail": "/uploads/sherrif.jpg"
+    },
+    {
+      "id": "87daef87-f559-43e4-b7fe-1cd1e7bff459",
+      "title": "subway",
+      "type": "image",
+      "url": "/uploads/subway.webp",
+      "thumbnail": ""
+    },
+    {
+      "id": "0152ac39-0d90-43d1-9e60-066bb6b5aa9f",
+      "title": "twins",
+      "type": "image",
+      "url": "/uploads/twins.webp",
+      "thumbnail": ""
     }
   ]
 }
