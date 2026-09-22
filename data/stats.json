@@ -1,0 +1,15 @@
+{
+  "through": "2026-09-20",
+  "ranges": [],
+  "records": {
+    "weeksAtNumberOne": {
+      "artists": [],
+      "tracks": []
+    },
+    "longestTopTenRun": {
+      "artists": [],
+      "tracks": []
+    },
+    "biggestWeeks": []
+  }
+}
