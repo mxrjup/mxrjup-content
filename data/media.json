@@ -20,6 +20,20 @@
       "type": "image",
       "url": "/uploads/beer.webp",
       "thumbnail": ""
+    },
+    {
+      "id": "fff9f40f-3da8-4420-bddb-e39eb2ff23d6",
+      "title": "croc",
+      "type": "image",
+      "url": "/uploads/croc.webp",
+      "thumbnail": ""
+    },
+    {
+      "id": "7ca64c96-1f9c-4f47-bc85-3b0ca9b7a0f0",
+      "title": "DBD",
+      "type": "image",
+      "url": "/uploads/dbd.webp",
+      "thumbnail": ""
     }
   ]
 }
