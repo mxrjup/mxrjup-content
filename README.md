@@ -11,7 +11,8 @@ uploads/    editorial media, served at /uploads/<file>
 The files look like `{"items": [...]}`. They are written by
 [Sveltia CMS](https://github.com/sveltia/sveltia-cms) (the back office at `/admin`,
 configured in the code repository's `public/admin/config.yml`) and by the Spotify
-timeline sync. Editing by hand works too: keep the `items` shape.
+timeline sync. Editing by hand works too: keep the `items` shape. `data/stats.json` is
+the exception - see *Music stats*.
 
 A push to `main` is live within seconds - the host checkout of this repository is the
 server's `CONTENT_DIR`, and the server rereads the JSON on every request. There is no
@@ -80,3 +81,12 @@ browser instead and updates `data/timeline.json` the same way; add `--download` 
 store the covers of the added albums in `uploads/` rather than point at the CDN - then
 commit `uploads/` too. `node --test 'scripts/test/*.test.mjs'` runs the tests (Node 22
 or later, no install); they also run on every pull request that touches `scripts/`.
+
+## Music stats
+
+`data/stats.json` is the one file behind `/music/stats`. Unlike the others it is one
+document, not an `items` list, and it is generated: the private `mxrjup/mxrjup-listening`
+repository rewrites it every Monday from the Spotify plays it logs, and pushes it here
+with a deploy key (*Settings > Deploy keys*, write access) - the push publishes it like
+any other. Do not edit it by hand, and it is not in the CMS: the next Monday replaces it
+whole. How each number is counted is in that repository's README.
