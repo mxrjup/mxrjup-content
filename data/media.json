@@ -62,6 +62,27 @@
       "type": "image",
       "url": "/uploads/heaven.webp",
       "thumbnail": ""
+    },
+    {
+      "id": "e8df784d-03a4-49c2-a3e6-e05a1e4c5edc",
+      "title": "heaven02",
+      "type": "image",
+      "url": "/uploads/heaven02.webp",
+      "thumbnail": ""
+    },
+    {
+      "id": "c71b25df-751a-46a4-919b-f25b511ed6a1",
+      "title": "5*",
+      "type": "image",
+      "url": "/uploads/miam.webp",
+      "thumbnail": ""
+    },
+    {
+      "id": "3e95a44c-fe7a-4162-a5b3-d1b6963493a6",
+      "title": "sherrif",
+      "type": "video",
+      "url": "/uploads/sherrif.mp4",
+      "thumbnail": ""
     }
   ]
 }
