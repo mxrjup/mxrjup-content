@@ -34,6 +34,34 @@
       "type": "image",
       "url": "/uploads/dbd.webp",
       "thumbnail": ""
+    },
+    {
+      "id": "cfb30580-d265-421a-804a-e845a27b64e7",
+      "title": "fairy",
+      "type": "image",
+      "url": "/uploads/fairy.webp",
+      "thumbnail": ""
+    },
+    {
+      "id": "05a0fe01-844f-481a-936b-5438cb29d53a",
+      "title": "finger",
+      "type": "image",
+      "url": "/uploads/finger.webp",
+      "thumbnail": ""
+    },
+    {
+      "id": "87c6ba97-5a45-4cf3-aaa2-17762d327dab",
+      "title": "flügel",
+      "type": "image",
+      "url": "/uploads/flugel.webp",
+      "thumbnail": ""
+    },
+    {
+      "id": "549bad5b-cb65-42d1-9c9d-bfee0b8c3ca0",
+      "title": "heaven",
+      "type": "image",
+      "url": "/uploads/heaven.webp",
+      "thumbnail": ""
     }
   ]
 }
