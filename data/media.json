@@ -6,6 +6,20 @@
       "type": "audio",
       "url": "/uploads/Havana Exotica - Surfin on M.O.O.G. (1992).mp3",
       "thumbnail": ""
+    },
+    {
+      "id": "81f7e5bf-b7a3-47d9-9875-0922743d6b76",
+      "title": "5GWIFIDOOMSCROLLTDAH",
+      "type": "image",
+      "url": "/uploads/5GWIFIDOOMSCROLLTDAH.webp",
+      "thumbnail": ""
+    },
+    {
+      "id": "b67d68cb-c902-4a3b-8a97-3712c6cb6c19",
+      "title": "beer",
+      "type": "image",
+      "url": "/uploads/beer.webp",
+      "thumbnail": ""
     }
   ]
 }
