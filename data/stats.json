@@ -1,777 +1,798 @@
 {
-  "through": "2026-09-27",
+  "through": "2026-10-04",
   "ranges": [
     {
       "id": "4w",
       "label": "4 Weeks",
-      "from": "2026-08-31",
-      "to": "2026-09-27",
-      "plays": 643,
-      "previousPlays": 723,
+      "from": "2026-09-07",
+      "to": "2026-10-04",
+      "plays": 593,
+      "previousPlays": 683,
       "artists": [
         {
           "rank": 1,
           "name": "A$AP Rocky",
-          "plays": 98,
+          "plays": 134,
           "was": 1,
           "image": "https://i.scdn.co/image/ab67616100005174ad160b333f9a240f84aff7d7"
         },
         {
           "rank": 2,
-          "name": "Project Pat",
-          "plays": 52,
-          "was": 2,
-          "image": "https://i.scdn.co/image/ab67616100005174149da8d8ca89a80f86eda706"
-        },
-        {
-          "rank": 3,
-          "name": "Jul",
-          "plays": 47,
-          "was": 3,
-          "image": "https://i.scdn.co/image/ab67616100005174aa70253f73793a0ff061069e"
-        },
-        {
-          "rank": 4,
           "name": "Gunna",
-          "plays": 47,
-          "was": 5,
+          "plays": 48,
+          "was": 4,
           "image": "https://i.scdn.co/image/ab67616100005174a998bc86f87b9fe7e2466110"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "name": "Future",
-          "plays": 46,
-          "was": 4,
+          "plays": 40,
+          "was": 5,
           "image": "https://i.scdn.co/image/ab676161000051742c472c891062acb4f3068583"
         },
         {
-          "rank": 6,
+          "rank": 4,
           "name": "Young Thug",
-          "plays": 42,
+          "plays": 38,
           "was": 6,
           "image": "https://i.scdn.co/image/ab676161000051749f2fb33940aac624dc5d100d"
         },
         {
-          "rank": 7,
-          "name": "Prince",
-          "plays": 34,
-          "new": true,
-          "image": "https://i.scdn.co/image/ab67616100005174adf109a73dae96653131b023"
-        },
-        {
-          "rank": 8,
-          "name": "Lil Wayne",
-          "plays": 34,
-          "was": 7,
-          "image": "https://i.scdn.co/image/ab67616100005174998010cd1075921b5faf16b2"
-        },
-        {
-          "rank": 9,
+          "rank": 5,
           "name": "50 Cent",
-          "plays": 33,
-          "was": 12,
+          "plays": 34,
+          "was": 9,
           "image": "https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118"
         },
         {
-          "rank": 10,
+          "rank": 6,
+          "name": "Prince",
+          "plays": 34,
+          "was": 7,
+          "image": "https://i.scdn.co/image/ab67616100005174adf109a73dae96653131b023"
+        },
+        {
+          "rank": 7,
           "name": "Lil Baby",
-          "plays": 27,
-          "was": 8,
+          "plays": 25,
+          "was": 10,
           "image": "https://i.scdn.co/image/ab67616100005174345f9be864ad543c7597936e"
         },
         {
-          "rank": 11,
+          "rank": 8,
           "name": "Freddie Gibbs",
           "plays": 20,
-          "was": 9,
+          "was": 11,
           "image": "https://i.scdn.co/image/ab67616100005174499def7bd0369aa26a22273c"
+        },
+        {
+          "rank": 9,
+          "name": "Jul",
+          "plays": 19,
+          "was": 3,
+          "image": "https://i.scdn.co/image/ab67616100005174aa70253f73793a0ff061069e"
+        },
+        {
+          "rank": 10,
+          "name": "Earth, Wind & Fire",
+          "plays": 18,
+          "new": true,
+          "image": "https://i.scdn.co/image/ab676161000051749722e16a886767adf1178f92"
+        },
+        {
+          "rank": 11,
+          "name": "Project Pat",
+          "plays": 18,
+          "was": 2,
+          "image": "https://i.scdn.co/image/ab67616100005174149da8d8ca89a80f86eda706"
         },
         {
           "rank": 12,
           "name": "JAŸ-Z",
           "plays": 18,
-          "was": 10,
+          "was": 12,
           "image": "https://i.scdn.co/image/ab6761610000517473de139b5475bf01f2bff759"
         },
         {
           "rank": 13,
           "name": "Travis Scott",
           "plays": 18,
-          "was": 11,
+          "was": 13,
           "image": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71"
         },
         {
           "rank": 14,
           "name": "SahBabii",
           "plays": 14,
-          "new": true,
+          "was": 14,
           "image": "https://i.scdn.co/image/ab676161000051746a379e26fd4999a0b9bc9baa"
         },
         {
           "rank": 15,
-          "name": "Kanye West",
-          "plays": 14,
-          "was": 13,
-          "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a"
-        },
-        {
-          "rank": 16,
           "name": "Migos",
           "plays": 13,
-          "was": 15,
+          "was": 16,
           "image": "https://i.scdn.co/image/ab67616100005174f4593f7b778219838d858c34"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Gucci Mane",
-          "plays": 10,
-          "was": 16,
+          "plays": 9,
+          "was": 17,
           "image": "https://i.scdn.co/image/ab67616100005174b9b77f64bd278ffde2c94428"
         },
         {
-          "rank": 18,
-          "name": "Three 6 Mafia",
-          "plays": 8,
-          "was": 17,
-          "image": "https://i.scdn.co/image/ab67616100005174697a2395da5148557c36af55"
-        },
-        {
-          "rank": 19,
-          "name": "Guns N' Roses",
-          "plays": 7,
-          "was": 18,
-          "image": "https://i.scdn.co/image/ab6761610000517450defaf9fc059a1efc541f4c"
-        },
-        {
-          "rank": 20,
+          "rank": 17,
           "name": "Westside Gunn",
-          "plays": 6,
-          "new": true,
+          "plays": 7,
+          "was": 20,
           "image": "https://i.scdn.co/image/ab676161000051745c37923fb58eead7ad4c0f1f"
         },
         {
-          "rank": 21,
+          "rank": 18,
           "name": "Chief Keef",
           "plays": 6,
-          "new": true,
+          "was": 21,
           "image": "https://i.scdn.co/image/ab67616100005174e816aaf5f96c04fdfa8fadc7"
         },
         {
-          "rank": 22,
-          "name": "Biga*Ranx",
-          "plays": 6,
-          "was": 19,
-          "image": "https://i.scdn.co/image/ab6761610000517400f03c4abff433dd5215f171"
+          "rank": 19,
+          "name": "Three 6 Mafia",
+          "plays": 5,
+          "was": 18,
+          "image": "https://i.scdn.co/image/ab67616100005174697a2395da5148557c36af55"
         },
         {
-          "rank": 23,
-          "name": "F.L.Y. (Fast Life Yungstaz)",
-          "plays": 4,
-          "was": 28,
-          "image": "https://i.scdn.co/image/ab676161000051743143469eb5154b0f0e4cf415"
-        },
-        {
-          "rank": 24,
+          "rank": 20,
           "name": "Bobby Shmurda",
-          "plays": 3,
-          "was": 27,
+          "plays": 4,
+          "was": 24,
           "image": "https://i.scdn.co/image/ab67616100005174ee12e6771607433caee705a3"
         },
         {
-          "rank": 25,
-          "name": "Deep Purple",
-          "plays": 3,
-          "was": 39,
-          "image": "https://i.scdn.co/image/ab676161000051740097f1c2830a6ecdda16d4de"
+          "rank": 21,
+          "name": "Lil Wayne",
+          "plays": 4,
+          "was": 8,
+          "image": "https://i.scdn.co/image/ab67616100005174998010cd1075921b5faf16b2"
         },
         {
-          "rank": 26,
-          "name": "6ix9ine",
-          "plays": 3,
-          "was": 20,
-          "image": "https://i.scdn.co/image/ab67616100005174f2ce0f1899ab2bf14a4eb286"
-        },
-        {
-          "rank": 27,
+          "rank": 22,
           "name": "Queen",
-          "plays": 3,
-          "was": 21,
+          "plays": 4,
+          "was": 27,
           "image": "https://i.scdn.co/image/ab6761610000517473e4d22612ac8d944b5789b4"
         },
         {
+          "rank": 23,
+          "name": "Naomi Akimoto",
+          "plays": 3,
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616d00001e0284835aa4a1fe1885db66318f"
+        },
+        {
+          "rank": 24,
+          "name": "Young Nudy",
+          "plays": 3,
+          "new": true,
+          "image": "https://i.scdn.co/image/ab6761610000517403775f1dcd383778c1e8832d"
+        },
+        {
+          "rank": 25,
+          "name": "Raspberries",
+          "plays": 3,
+          "new": true,
+          "image": "https://i.scdn.co/image/3926e9c39702ec1817d8d471c183bbeef3e49034"
+        },
+        {
+          "rank": 26,
+          "name": "F.L.Y. (Fast Life Yungstaz)",
+          "plays": 3,
+          "was": 23,
+          "image": "https://i.scdn.co/image/ab676161000051743143469eb5154b0f0e4cf415"
+        },
+        {
+          "rank": 27,
+          "name": "6ix9ine",
+          "plays": 3,
+          "was": 26,
+          "image": "https://i.scdn.co/image/ab67616100005174f2ce0f1899ab2bf14a4eb286"
+        },
+        {
           "rank": 28,
-          "name": "2Pac",
+          "name": "1986 OMEGA TRIBE",
           "plays": 2,
           "new": true,
-          "image": "https://i.scdn.co/image/ab676161000051747f5cc432c9c109248ebec1ac"
+          "image": "https://i.scdn.co/image/ab67616100005174b2d0581e8bb7dda2a783444f"
         },
         {
           "rank": 29,
-          "name": "ScHoolboy Q",
+          "name": "Mari Iijima",
           "plays": 2,
-          "was": 35,
-          "image": "https://i.scdn.co/image/ab67616100005174a59f2f483877c8d0142f71f3"
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616100005174fae49ed8a8feed3a151c7147"
         },
         {
           "rank": 30,
-          "name": "Rich Gang",
+          "name": "Parachute",
           "plays": 2,
-          "was": 23,
-          "image": "https://i.scdn.co/image/ab67616100005174af64d7ee4c1d60a58482a37d"
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616d00001e0258f7d6b02b93b45472240e93"
         },
         {
           "rank": 31,
-          "name": "Sarz",
+          "name": "Makoto Matsushita",
           "plays": 2,
-          "was": 24,
-          "image": "https://i.scdn.co/image/ab676161000051749e6c83cda0523411ac6322ec"
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616d00001e02e3999c2a5bcf80a80742d8ea"
         },
         {
           "rank": 32,
-          "name": "Offset",
+          "name": "Chu Kosaka",
           "plays": 2,
-          "was": 25,
-          "image": "https://i.scdn.co/image/ab676161000051740f794f3394223026afa7776d"
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616d00001e0264802c12d4516e084c79a8fc"
         },
         {
           "rank": 33,
-          "name": "Internet Money",
+          "name": "Miharu Koshi",
           "plays": 2,
-          "was": 26,
-          "image": "https://i.scdn.co/image/ab6761610000517430cc15d302e22803fcb5ad34"
+          "new": true,
+          "image": "https://i.scdn.co/image/ab676161000051746cbc1708470cb773a829cc13"
         },
         {
           "rank": 34,
-          "name": "SCH",
+          "name": "Atsuko Nina",
           "plays": 2,
-          "was": 29,
-          "image": "https://i.scdn.co/image/ab676161000051744ed985f33e971801dae4e24d"
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616d00001e026f3acc4d29833fd748d2d861"
         },
         {
           "rank": 35,
           "name": "Kodak Black",
-          "plays": 1,
-          "was": 14,
+          "plays": 2,
+          "was": 35,
           "image": "https://i.scdn.co/image/ab67616100005174cbca429e353792c21e52edae"
         },
         {
           "rank": 36,
-          "name": "Otis Redding",
-          "plays": 1,
-          "new": true,
-          "image": "https://i.scdn.co/image/a5897eff01844c42d894a586e618ebc4aa0b9d2f"
-        },
-        {
-          "rank": 37,
-          "name": "Young Stoner Life",
-          "plays": 1,
-          "was": 31,
-          "image": "https://i.scdn.co/image/ab67616100005174426433c9b6997417d193516c"
-        },
-        {
-          "rank": 38,
-          "name": "Drake",
-          "plays": 1,
-          "was": 32,
-          "image": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9"
-        },
-        {
-          "rank": 39,
-          "name": "Fetty Wap",
-          "plays": 1,
-          "was": 33,
-          "image": "https://i.scdn.co/image/ab67616100005174f6df2e78223259e7d425b1ee"
-        },
-        {
-          "rank": 40,
-          "name": "Metro Boomin",
-          "plays": 1,
-          "was": 34,
-          "image": "https://i.scdn.co/image/ab6761610000517428f1e72b31e756ea3f3a51e7"
-        },
-        {
-          "rank": 41,
           "name": "Michael Jackson",
-          "plays": 1,
-          "was": 36,
+          "plays": 2,
+          "was": 41,
           "image": "https://i.scdn.co/image/ab67616100005174997cc9a4aec335d46c9481fd"
         },
         {
+          "rank": 37,
+          "name": "2Pac",
+          "plays": 2,
+          "was": 28,
+          "image": "https://i.scdn.co/image/ab676161000051747f5cc432c9c109248ebec1ac"
+        },
+        {
+          "rank": 38,
+          "name": "ScHoolboy Q",
+          "plays": 2,
+          "was": 29,
+          "image": "https://i.scdn.co/image/ab67616100005174a59f2f483877c8d0142f71f3"
+        },
+        {
+          "rank": 39,
+          "name": "Deep Purple",
+          "plays": 2,
+          "was": 25,
+          "image": "https://i.scdn.co/image/ab676161000051740097f1c2830a6ecdda16d4de"
+        },
+        {
+          "rank": 40,
+          "name": "Rich Gang",
+          "plays": 2,
+          "was": 30,
+          "image": "https://i.scdn.co/image/ab67616100005174af64d7ee4c1d60a58482a37d"
+        },
+        {
+          "rank": 41,
+          "name": "Sarz",
+          "plays": 2,
+          "was": 31,
+          "image": "https://i.scdn.co/image/ab676161000051749e6c83cda0523411ac6322ec"
+        },
+        {
           "rank": 42,
-          "name": "DMX",
-          "plays": 1,
-          "was": 37,
-          "image": "https://i.scdn.co/image/ab67616100005174cb1663ad23538120ad7a20c3"
+          "name": "Offset",
+          "plays": 2,
+          "was": 32,
+          "image": "https://i.scdn.co/image/ab676161000051740f794f3394223026afa7776d"
         },
         {
           "rank": 43,
-          "name": "Booba",
-          "plays": 1,
-          "was": 38,
-          "image": "https://i.scdn.co/image/ab6761610000517496b3ab10e89bad078d125c3a"
+          "name": "Internet Money",
+          "plays": 2,
+          "was": 33,
+          "image": "https://i.scdn.co/image/ab6761610000517430cc15d302e22803fcb5ad34"
         },
         {
           "rank": 44,
-          "name": "Snoop Dogg",
+          "name": "Rocco DeLuca",
           "plays": 1,
-          "was": 22,
-          "image": "https://i.scdn.co/image/ab67616100005174c19a88576ebe6fcbb325c297"
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616100005174caa995cbccddc98e3716bd77"
         },
         {
           "rank": 45,
-          "name": "Daft Punk",
+          "name": "Måneskin",
           "plays": 1,
-          "was": 40,
-          "image": "https://i.scdn.co/image/ab67616100005174d3aa7cc0e419b6c459b08e8e"
+          "new": true,
+          "image": "https://i.scdn.co/image/ab6761610000517446d0db8a86fda630ec12401f"
         },
         {
           "rank": 46,
-          "name": "Telly*",
+          "name": "A$AP Mob",
           "plays": 1,
-          "was": 41,
-          "image": "https://i.scdn.co/image/ab676161000051744a477161c434ee99ced49fdb"
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616100005174566918b7180f8965defe862e"
         },
         {
           "rank": 47,
-          "name": "Netherfriends",
+          "name": "The Five Stairsteps",
           "plays": 1,
-          "was": 42,
-          "image": "https://i.scdn.co/image/ab6761610000517481b1d487348d4b15c160ff1f"
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616d00001e02b4b2642b767f641a15c9fef1"
+        },
+        {
+          "rank": 48,
+          "name": "The Sneepers",
+          "plays": 1,
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616d00001e024353fc20f3405b963e88b3aa"
+        },
+        {
+          "rank": 49,
+          "name": "The Jackson 5",
+          "plays": 1,
+          "new": true,
+          "image": "https://i.scdn.co/image/ab67616100005174b1c1521f729404e6593fdac5"
+        },
+        {
+          "rank": 50,
+          "name": "The Doobie Brothers",
+          "plays": 1,
+          "new": true,
+          "image": "https://i.scdn.co/image/ab6761610000517428f5622994674caec36fd95c"
         }
       ],
       "tracks": [
         {
           "rank": 1,
-          "name": "Mais qu'est-ce qu'on s'en bat les couilles !",
-          "artist": "Jul",
-          "plays": 11,
-          "was": 5,
-          "cover": "https://i.scdn.co/image/ab67616d00001e029bc3e80d5e9fb9bde9df0e71"
-        },
-        {
-          "rank": 2,
           "name": "one of wun",
           "artist": "Gunna",
-          "plays": 11,
-          "was": 6,
+          "plays": 12,
+          "was": 2,
           "cover": "https://i.scdn.co/image/ab67616d00001e029a0cbe7c93bc691f48f356ed"
         },
         {
-          "rank": 3,
-          "name": "Sum 2 Prove",
-          "artist": "Lil Baby",
-          "plays": 10,
-          "was": 1,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02f46a9ad551acbdab8f72fd89"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "name": "Life Goes On",
           "artist": "Lil Baby",
-          "plays": 8,
-          "was": 7,
+          "plays": 9,
+          "was": 4,
           "cover": "https://i.scdn.co/image/ab67616d00001e026cab41f8c84d6164976400d4"
         },
         {
-          "rank": 5,
-          "name": "Parfum quartier",
-          "artist": "Jul",
-          "plays": 8,
-          "was": 3,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0243c8b89de39bc66cf21c4674"
-        },
-        {
-          "rank": 6,
-          "name": "J'oublie tout",
-          "artist": "Jul",
-          "plays": 8,
-          "was": 2,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0285d9fb2e7833cb239769c02d"
-        },
-        {
-          "rank": 7,
-          "name": "Lemonade",
-          "artist": "Gucci Mane",
-          "plays": 7,
-          "was": 8,
-          "cover": "https://i.scdn.co/image/ab67616d00001e022329c198bf2331d1cc08c523"
-        },
-        {
-          "rank": 8,
+          "rank": 3,
           "name": "My",
           "artist": "Future",
           "plays": 7,
-          "was": 24,
+          "was": 8,
           "cover": "https://i.scdn.co/image/ab67616d00001e02350a058cc9f52e641c1ef9cf"
         },
         {
-          "rank": 9,
-          "name": "Italia",
+          "rank": 4,
+          "name": "Mais qu'est-ce qu'on s'en bat les couilles !",
           "artist": "Jul",
           "plays": 7,
-          "was": 4,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02e8bfa118111223daf1b7341b"
+          "was": 1,
+          "cover": "https://i.scdn.co/image/ab67616d00001e029bc3e80d5e9fb9bde9df0e71"
         },
         {
-          "rank": 10,
-          "name": "Taco Tuesday",
-          "artist": "Migos",
-          "plays": 6,
-          "was": 13,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02a0d63eb127c8e09c347b4517"
-        },
-        {
-          "rank": 11,
+          "rank": 5,
           "name": "Versace",
           "artist": "Migos",
-          "plays": 6,
-          "was": 28,
+          "plays": 7,
+          "was": 11,
           "cover": "https://i.scdn.co/image/ab67616d00001e028c1bb31c73c0a479830e78fd"
         },
         {
-          "rank": 12,
+          "rank": 6,
           "name": "Window Shopper",
           "artist": "50 Cent",
-          "plays": 6,
-          "new": true,
+          "plays": 7,
+          "was": 12,
           "cover": "https://i.scdn.co/image/ab67616d00001e024a3de788d0aecc7c9b06cfc8"
         },
         {
-          "rank": 13,
-          "name": "Stay Fly",
-          "artist": "Three 6 Mafia",
+          "rank": 7,
+          "name": "Sum 2 Prove",
+          "artist": "Lil Baby",
+          "plays": 7,
+          "was": 3,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02f46a9ad551acbdab8f72fd89"
+        },
+        {
+          "rank": 8,
+          "name": "Palace",
+          "artist": "A$AP Rocky",
+          "plays": 6,
+          "was": 43,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 9,
+          "name": "Lemonade",
+          "artist": "Gucci Mane",
+          "plays": 6,
+          "was": 7,
+          "cover": "https://i.scdn.co/image/ab67616d00001e022329c198bf2331d1cc08c523"
+        },
+        {
+          "rank": 10,
+          "name": "PMW (All I Really Need) (feat. ScHoolboy Q)",
+          "artist": "A$AP Rocky",
           "plays": 5,
-          "was": 9,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02f52c28f42318cdfe7718e32a"
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
+        },
+        {
+          "rank": 11,
+          "name": "Trilla (feat. A$AP Nast & A$AP Twelvyy)",
+          "artist": "A$AP Rocky",
+          "plays": 5,
+          "was": 45,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 12,
+          "name": "Bass",
+          "artist": "A$AP Rocky",
+          "plays": 5,
+          "was": 19,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 13,
+          "name": "Peso",
+          "artist": "A$AP Rocky",
+          "plays": 5,
+          "was": 20,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 14,
-          "name": "Gorilla Pimp (feat. Namond Lumpkin)",
-          "artist": "Project Pat",
+          "name": "Taco Tuesday",
+          "artist": "Migos",
           "plays": 5,
           "was": 10,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
+          "cover": "https://i.scdn.co/image/ab67616d00001e02a0d63eb127c8e09c347b4517"
         },
         {
           "rank": 15,
-          "name": "Who You Foolin",
-          "artist": "Gunna",
+          "name": "J'oublie tout",
+          "artist": "Jul",
           "plays": 5,
-          "was": 11,
-          "cover": "https://i.scdn.co/image/ab67616d00001e022bc7a1fb98d177aa0c948bdc"
+          "was": 6,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0285d9fb2e7833cb239769c02d"
         },
         {
           "rank": 16,
-          "name": "With That (feat. Duke)",
-          "artist": "Young Thug",
+          "name": "Who You Foolin",
+          "artist": "Gunna",
           "plays": 5,
-          "was": 12,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0288053a98d0abb8ed3a02efe1"
+          "was": 15,
+          "cover": "https://i.scdn.co/image/ab67616d00001e022bc7a1fb98d177aa0c948bdc"
         },
         {
           "rank": 17,
-          "name": "Swag Surfin'",
-          "artist": "F.L.Y. (Fast Life Yungstaz)",
+          "name": "Long Live A$AP",
+          "artist": "A$AP Rocky",
           "plays": 4,
           "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0257245fdfe84f0ac5f8c10bdc"
+          "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
         },
         {
           "rank": 18,
-          "name": "Power",
-          "artist": "Young Thug",
+          "name": "Houston Old Head",
+          "artist": "A$AP Rocky",
           "plays": 4,
           "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0270d17ff1637f906dfabdfea4"
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 19,
-          "name": "Bass",
+          "name": "Keep It G (feat. Chace Infinite & SpaceGhostPurrp)",
           "artist": "A$AP Rocky",
           "plays": 4,
-          "was": 14,
+          "was": 44,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 20,
-          "name": "Peso",
+          "name": "Purple Swag",
           "artist": "A$AP Rocky",
           "plays": 4,
-          "was": 15,
+          "new": true,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 21,
-          "name": "If You Ain't From My Hood (feat. Juicy J & DJ Paul)",
-          "artist": "Project Pat",
-          "plays": 4,
-          "was": 17,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
-        },
-        {
-          "rank": 22,
-          "name": "Don't Save Her (feat. Crunchy Black)",
-          "artist": "Project Pat",
-          "plays": 4,
-          "was": 18,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
-        },
-        {
-          "rank": 23,
-          "name": "Whole Lotta W**D",
-          "artist": "Project Pat",
-          "plays": 4,
-          "was": 19,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
-        },
-        {
-          "rank": 24,
-          "name": "Cheese and Dope",
-          "artist": "Project Pat",
-          "plays": 4,
-          "was": 20,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
-        },
-        {
-          "rank": 25,
-          "name": "Out There Part 2-Skit",
-          "artist": "Project Pat",
-          "plays": 4,
-          "was": 21,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
-        },
-        {
-          "rank": 26,
-          "name": "Chickenhead (feat. Three 6 Mafia & La Chat)",
-          "artist": "Project Pat",
-          "plays": 4,
-          "was": 22,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
-        },
-        {
-          "rank": 27,
-          "name": "Drip Too Hard (Lil Baby & Gunna)",
-          "artist": "Lil Baby",
-          "plays": 4,
-          "was": 23,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02ce159a3ba2096e13fa9d4b4c"
-        },
-        {
-          "rank": 28,
-          "name": "Avant la douane",
-          "artist": "Jul",
-          "plays": 4,
-          "was": 25,
-          "cover": "https://i.scdn.co/image/ab67616d00001e028f7e21674af4e279c71c87db"
-        },
-        {
-          "rank": 29,
-          "name": "If I Can't",
-          "artist": "50 Cent",
-          "plays": 3,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
-        },
-        {
-          "rank": 30,
-          "name": "High All The Time",
-          "artist": "50 Cent",
-          "plays": 3,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
-        },
-        {
-          "rank": 31,
-          "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
-          "artist": "Three 6 Mafia",
-          "plays": 3,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e027d1e3fb810a8c4a1271425fd"
-        },
-        {
-          "rank": 32,
-          "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
-          "artist": "A$AP Rocky",
-          "plays": 3,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
-        },
-        {
-          "rank": 33,
-          "name": "Excuse Me",
-          "artist": "A$AP Rocky",
-          "plays": 3,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
-        },
-        {
-          "rank": 34,
-          "name": "Let's Go Crazy",
-          "artist": "Prince",
-          "plays": 3,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
-        },
-        {
-          "rank": 35,
           "name": "Hot N*gga",
           "artist": "Bobby Shmurda",
-          "plays": 3,
-          "new": true,
+          "plays": 4,
+          "was": 35,
           "cover": "https://i.scdn.co/image/ab67616d00001e02d52e14e0595216ca453572ab"
         },
         {
-          "rank": 36,
-          "name": "Smoke On The Water - Remastered 2012",
-          "artist": "Deep Purple",
+          "rank": 22,
+          "name": "Power",
+          "artist": "Young Thug",
+          "plays": 4,
+          "was": 18,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0270d17ff1637f906dfabdfea4"
+        },
+        {
+          "rank": 23,
+          "name": "Drip Too Hard (Lil Baby & Gunna)",
+          "artist": "Lil Baby",
+          "plays": 4,
+          "was": 27,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02ce159a3ba2096e13fa9d4b4c"
+        },
+        {
+          "rank": 24,
+          "name": "Goldie",
+          "artist": "A$AP Rocky",
           "plays": 3,
           "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02a729c9c3dec04b99d889c66f"
+          "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
+        },
+        {
+          "rank": 25,
+          "name": "Acid Drip",
+          "artist": "A$AP Rocky",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 26,
+          "name": "Get Lit (feat. Fat Tony)",
+          "artist": "A$AP Rocky",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 27,
+          "name": "Brand New Guy (feat. ScHoolboy Q)",
+          "artist": "A$AP Rocky",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 28,
+          "name": "Wassup",
+          "artist": "A$AP Rocky",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 29,
+          "name": "Bewitched (Are You Leaving Soon)",
+          "artist": "Naomi Akimoto",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0284835aa4a1fe1885db66318f"
+        },
+        {
+          "rank": 30,
+          "name": "Spaced Out",
+          "artist": "Young Nudy",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02781b1a0ed5d8ff7eaf3c0432"
+        },
+        {
+          "rank": 31,
+          "name": "Go All The Way",
+          "artist": "Raspberries",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e021d99f5402883ad273f45ebf8"
+        },
+        {
+          "rank": 32,
+          "name": "If I Can't",
+          "artist": "50 Cent",
+          "plays": 3,
+          "was": 29,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
+        },
+        {
+          "rank": 33,
+          "name": "High All The Time",
+          "artist": "50 Cent",
+          "plays": 3,
+          "was": 30,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
+        },
+        {
+          "rank": 34,
+          "name": "Stay Fly",
+          "artist": "Three 6 Mafia",
+          "plays": 3,
+          "was": 13,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02f52c28f42318cdfe7718e32a"
+        },
+        {
+          "rank": 35,
+          "name": "Swag Surfin'",
+          "artist": "F.L.Y. (Fast Life Yungstaz)",
+          "plays": 3,
+          "was": 17,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0257245fdfe84f0ac5f8c10bdc"
+        },
+        {
+          "rank": 36,
+          "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
+          "artist": "A$AP Rocky",
+          "plays": 3,
+          "was": 32,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
         },
         {
           "rank": 37,
-          "name": "Baby",
-          "artist": "Prince",
+          "name": "Excuse Me",
+          "artist": "A$AP Rocky",
           "plays": 3,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
+          "was": 33,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
         },
         {
           "rank": 38,
-          "name": "Soft and Wet",
+          "name": "Let's Go Crazy",
           "artist": "Prince",
           "plays": 3,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
+          "was": 34,
+          "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
           "rank": 39,
-          "name": "In Love",
+          "name": "Baby",
           "artist": "Prince",
           "plays": 3,
-          "new": true,
+          "was": 37,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
         },
         {
           "rank": 40,
-          "name": "For You",
+          "name": "Soft and Wet",
           "artist": "Prince",
           "plays": 3,
-          "new": true,
+          "was": 38,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
         },
         {
           "rank": 41,
-          "name": "March Madness",
-          "artist": "Future",
+          "name": "In Love",
+          "artist": "Prince",
           "plays": 3,
-          "was": 27,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02dc014d6cf51f0ff8bdd76764"
+          "was": 39,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
         },
         {
           "rank": 42,
-          "name": "GUMMO",
-          "artist": "6ix9ine",
+          "name": "For You",
+          "artist": "Prince",
           "plays": 3,
-          "was": 29,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02a48b3ad2c1bc2e1721be9fd6"
+          "was": 40,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
         },
         {
           "rank": 43,
-          "name": "Palace",
-          "artist": "A$AP Rocky",
+          "name": "GUMMO",
+          "artist": "6ix9ine",
           "plays": 3,
-          "was": 30,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+          "was": 42,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02a48b3ad2c1bc2e1721be9fd6"
         },
         {
           "rank": 44,
-          "name": "Keep It G (feat. Chace Infinite & SpaceGhostPurrp)",
-          "artist": "A$AP Rocky",
+          "name": "Italia",
+          "artist": "Jul",
           "plays": 3,
-          "was": 31,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+          "was": 9,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02e8bfa118111223daf1b7341b"
         },
         {
           "rank": 45,
-          "name": "Trilla (feat. A$AP Nast & A$AP Twelvyy)",
-          "artist": "A$AP Rocky",
-          "plays": 3,
-          "was": 32,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
-        },
-        {
-          "rank": 46,
           "name": "Too Comfortable",
           "artist": "Future",
           "plays": 3,
-          "was": 33,
+          "was": 46,
           "cover": "https://i.scdn.co/image/ab67616d00001e027459c852e9479c56eceae52a"
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "fukumean",
           "artist": "Gunna",
           "plays": 3,
-          "was": 34,
+          "was": 47,
           "cover": "https://i.scdn.co/image/ab67616d00001e021e0b04676fae1205f4853706"
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "STOP TRYING TO BE GOD",
           "artist": "Travis Scott",
           "plays": 3,
-          "was": 35,
+          "was": 48,
           "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
+        },
+        {
+          "rank": 48,
+          "name": "With That (feat. Duke)",
+          "artist": "Young Thug",
+          "plays": 3,
+          "was": 16,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0288053a98d0abb8ed3a02efe1"
         },
         {
           "rank": 49,
           "name": "OD",
           "artist": "Young Thug",
           "plays": 3,
-          "was": 36,
+          "was": 49,
           "cover": "https://i.scdn.co/image/ab67616d00001e0288053a98d0abb8ed3a02efe1"
         },
         {
           "rank": 50,
-          "name": "We Can Get Gangsta",
-          "artist": "Project Pat",
-          "plays": 3,
-          "was": 37,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
+          "name": "Fashion Killa",
+          "artist": "A$AP Rocky",
+          "plays": 2,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
         }
       ],
       "albums": [
         {
           "rank": 1,
-          "name": "Mista Don't Play: Everythangs Workin",
-          "artist": "Project Pat",
-          "plays": 52,
-          "was": 1,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
+          "name": "LIVE.LOVE.A$AP",
+          "artist": "A$AP Rocky",
+          "plays": 53,
+          "was": 3,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 2,
           "name": "AT.LONG.LAST.A$AP",
           "artist": "A$AP Rocky",
           "plays": 38,
-          "was": 7,
+          "was": 2,
           "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
         },
         {
           "rank": 3,
-          "name": "LIVE.LOVE.A$AP",
+          "name": "LONG.LIVE.A$AP (Deluxe Version)",
           "artist": "A$AP Rocky",
-          "plays": 33,
-          "was": 2,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+          "plays": 26,
+          "was": 17,
+          "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
         },
         {
           "rank": 4,
           "name": "Get Rich Or Die Tryin'",
           "artist": "50 Cent",
           "plays": 25,
-          "was": 11,
+          "was": 4,
           "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
         },
         {
@@ -779,368 +800,368 @@
           "name": "For You",
           "artist": "Prince",
           "plays": 22,
-          "new": true,
+          "was": 5,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
         },
         {
           "rank": 6,
-          "name": "Barter 6",
-          "artist": "Young Thug",
-          "plays": 22,
-          "was": 3,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0288053a98d0abb8ed3a02efe1"
-        },
-        {
-          "rank": 7,
-          "name": "Tha Carter II",
-          "artist": "Lil Wayne",
-          "plays": 20,
-          "was": 4,
-          "cover": "https://i.scdn.co/image/ab67616d00001e022d1dcd542a31bb7c751cff28"
-        },
-        {
-          "rank": 8,
           "name": "One of Wun",
           "artist": "Gunna",
-          "plays": 19,
-          "was": 10,
+          "plays": 20,
+          "was": 8,
           "cover": "https://i.scdn.co/image/ab67616d00001e029a0cbe7c93bc691f48f356ed"
         },
         {
-          "rank": 9,
-          "name": "The Blueprint",
-          "artist": "JAŸ-Z",
+          "rank": 7,
+          "name": "Barter 6",
+          "artist": "Young Thug",
+          "plays": 19,
+          "was": 6,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0288053a98d0abb8ed3a02efe1"
+        },
+        {
+          "rank": 8,
+          "name": "I Am",
+          "artist": "Earth, Wind & Fire",
           "plays": 18,
-          "was": 5,
-          "cover": "https://i.scdn.co/image/ab67616d00001e021b3f6f34954118500ed3e7a7"
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e028b2238ebc2b233ba73b8c4ca"
+        },
+        {
+          "rank": 9,
+          "name": "Mista Don't Play: Everythangs Workin",
+          "artist": "Project Pat",
+          "plays": 18,
+          "was": 1,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
         },
         {
           "rank": 10,
-          "name": "ASTROWORLD",
-          "artist": "Travis Scott",
+          "name": "The Blueprint",
+          "artist": "JAŸ-Z",
           "plays": 18,
-          "was": 6,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
+          "was": 9,
+          "cover": "https://i.scdn.co/image/ab67616d00001e021b3f6f34954118500ed3e7a7"
         },
         {
           "rank": 11,
-          "name": "DS2",
-          "artist": "Future",
-          "plays": 17,
-          "was": 8,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02b2592bea12d840fd096ef965"
+          "name": "ASTROWORLD",
+          "artist": "Travis Scott",
+          "plays": 18,
+          "was": 10,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
         },
         {
           "rank": 12,
-          "name": "Slime Season",
-          "artist": "Young Thug",
-          "plays": 16,
-          "was": 15,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0270d17ff1637f906dfabdfea4"
+          "name": "DS2",
+          "artist": "Future",
+          "plays": 17,
+          "was": 11,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02b2592bea12d840fd096ef965"
         },
         {
           "rank": 13,
-          "name": "Alfredo 2",
-          "artist": "Freddie Gibbs",
+          "name": "Slime Season",
+          "artist": "Young Thug",
           "plays": 16,
-          "was": 9,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
+          "was": 12,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0270d17ff1637f906dfabdfea4"
         },
         {
           "rank": 14,
-          "name": "Squidtastic",
-          "artist": "SahBabii",
-          "plays": 14,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
+          "name": "Alfredo 2",
+          "artist": "Freddie Gibbs",
+          "plays": 16,
+          "was": 13,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
         },
         {
           "rank": 15,
-          "name": "Don't Be Dumb",
-          "artist": "A$AP Rocky",
+          "name": "Squidtastic",
+          "artist": "SahBabii",
           "plays": 14,
-          "was": 12,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0227b7133c976e8ae6c3add683"
+          "was": 14,
+          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
         },
         {
           "rank": 16,
-          "name": "Graduation",
-          "artist": "Kanye West",
-          "plays": 14,
-          "was": 13,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a"
-        },
-        {
-          "rank": 17,
-          "name": "LONG.LIVE.A$AP (Deluxe Version)",
-          "artist": "A$AP Rocky",
-          "plays": 13,
-          "was": 14,
-          "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
-        },
-        {
-          "rank": 18,
           "name": "Purple Rain",
           "artist": "Prince",
           "plays": 12,
-          "new": true,
+          "was": 18,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
-          "rank": 19,
-          "name": "L'ovni",
-          "artist": "Jul",
-          "plays": 11,
-          "was": 24,
-          "cover": "https://i.scdn.co/image/ab67616d00001e029bc3e80d5e9fb9bde9df0e71"
-        },
-        {
-          "rank": 20,
-          "name": "My Turn",
-          "artist": "Lil Baby",
-          "plays": 10,
-          "was": 17,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02f46a9ad551acbdab8f72fd89"
-        },
-        {
-          "rank": 21,
-          "name": "Tha Carter",
-          "artist": "Lil Wayne",
-          "plays": 10,
-          "was": 18,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0225d0b54bd30205d4ed2d5599"
-        },
-        {
-          "rank": 22,
+          "rank": 17,
           "name": "Harder Than Ever",
           "artist": "Lil Baby",
-          "plays": 9,
-          "was": 25,
+          "plays": 10,
+          "was": 22,
           "cover": "https://i.scdn.co/image/ab67616d00001e026cab41f8c84d6164976400d4"
         },
         {
-          "rank": 23,
-          "name": "56 Nights",
-          "artist": "Future",
+          "rank": 18,
+          "name": "Don't Be Dumb",
+          "artist": "A$AP Rocky",
           "plays": 9,
-          "was": 19,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02dc014d6cf51f0ff8bdd76764"
+          "was": 15,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02be35d523672e13da3debc413"
         },
         {
-          "rank": 24,
+          "rank": 19,
           "name": "The Last Wun",
           "artist": "Gunna",
           "plays": 9,
-          "was": 21,
+          "was": 24,
           "cover": "https://i.scdn.co/image/ab67616d00001e0203a253cffd6d9e556ef4eec5"
         },
         {
-          "rank": 25,
-          "name": "Parfum quartier",
-          "artist": "Jul",
-          "plays": 8,
-          "was": 22,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0243c8b89de39bc66cf21c4674"
-        },
-        {
-          "rank": 26,
-          "name": "Dans ma paranoïa",
-          "artist": "Jul",
-          "plays": 8,
-          "was": 20,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0285d9fb2e7833cb239769c02d"
-        },
-        {
-          "rank": 27,
+          "rank": 20,
           "name": "Pluto 3D",
           "artist": "Future",
           "plays": 7,
-          "was": 36,
+          "was": 27,
           "cover": "https://i.scdn.co/image/ab67616d00001e02350a058cc9f52e641c1ef9cf"
         },
         {
-          "rank": 28,
-          "name": "La machine",
+          "rank": 21,
+          "name": "L'ovni",
           "artist": "Jul",
           "plays": 7,
-          "was": 23,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02e8bfa118111223daf1b7341b"
+          "was": 19,
+          "cover": "https://i.scdn.co/image/ab67616d00001e029bc3e80d5e9fb9bde9df0e71"
         },
         {
-          "rank": 29,
-          "name": "Taco Tuesday",
-          "artist": "Migos",
-          "plays": 6,
-          "was": 33,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02a0d63eb127c8e09c347b4517"
-        },
-        {
-          "rank": 30,
+          "rank": 22,
           "name": "Young Rich N*ggas",
           "artist": "Migos",
-          "plays": 6,
-          "was": 39,
+          "plays": 7,
+          "was": 30,
           "cover": "https://i.scdn.co/image/ab67616d00001e028c1bb31c73c0a479830e78fd"
         },
         {
-          "rank": 31,
+          "rank": 23,
           "name": "Window Shopper",
           "artist": "50 Cent",
-          "plays": 6,
-          "new": true,
+          "plays": 7,
+          "was": 31,
           "cover": "https://i.scdn.co/image/ab67616d00001e024a3de788d0aecc7c9b06cfc8"
         },
         {
-          "rank": 32,
-          "name": "Finally Rich",
-          "artist": "Chief Keef",
-          "plays": 6,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02a76616abf60ce17491e95891"
+          "rank": 24,
+          "name": "My Turn",
+          "artist": "Lil Baby",
+          "plays": 7,
+          "was": 20,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02f46a9ad551acbdab8f72fd89"
         },
         {
-          "rank": 33,
-          "name": "WE DON'T TRUST YOU",
-          "artist": "Future",
-          "plays": 6,
-          "was": 27,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02cec3fc072352b5f4f637d9fa"
-        },
-        {
-          "rank": 34,
-          "name": "Use Your Illusion I",
-          "artist": "Guns N' Roses",
-          "plays": 6,
-          "was": 28,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02e44963b8bb127552ac761873"
-        },
-        {
-          "rank": 35,
-          "name": "Rien 100 Rien",
-          "artist": "Jul",
-          "plays": 6,
-          "was": 29,
-          "cover": "https://i.scdn.co/image/ab67616d00001e023c505b5ddcbdf80c7dff5a1f"
-        },
-        {
-          "rank": 36,
+          "rank": 25,
           "name": "Pray for Paris",
           "artist": "Westside Gunn",
-          "plays": 5,
-          "new": true,
+          "plays": 6,
+          "was": 36,
           "cover": "https://i.scdn.co/image/ab67616d00001e02a29bd588f4caf84bd4cd6f8b"
         },
         {
-          "rank": 37,
-          "name": "Most Known Unknown (Explicit)",
-          "artist": "Three 6 Mafia",
-          "plays": 5,
-          "was": 30,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02f52c28f42318cdfe7718e32a"
+          "rank": 26,
+          "name": "Finally Rich",
+          "artist": "Chief Keef",
+          "plays": 6,
+          "was": 32,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02a76616abf60ce17491e95891"
         },
         {
-          "rank": 38,
-          "name": "The State vs. Radric Davis",
-          "artist": "Gucci Mane",
+          "rank": 27,
+          "name": "WE DON'T TRUST YOU",
+          "artist": "Future",
+          "plays": 6,
+          "was": 33,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02cec3fc072352b5f4f637d9fa"
+        },
+        {
+          "rank": 28,
+          "name": "Taco Tuesday",
+          "artist": "Migos",
+          "plays": 5,
+          "was": 29,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02a0d63eb127c8e09c347b4517"
+        },
+        {
+          "rank": 29,
+          "name": "Dans ma paranoïa",
+          "artist": "Jul",
           "plays": 5,
           "was": 26,
-          "cover": "https://i.scdn.co/image/ab67616d00001e022329c198bf2331d1cc08c523"
+          "cover": "https://i.scdn.co/image/ab67616d00001e0285d9fb2e7833cb239769c02d"
         },
         {
-          "rank": 39,
+          "rank": 30,
           "name": "Drip Harder",
           "artist": "Lil Baby",
           "plays": 5,
-          "was": 31,
+          "was": 39,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ce159a3ba2096e13fa9d4b4c"
         },
         {
-          "rank": 40,
+          "rank": 31,
           "name": "Drip or Drown 2",
           "artist": "Gunna",
           "plays": 5,
-          "was": 32,
+          "was": 40,
           "cover": "https://i.scdn.co/image/ab67616d00001e022bc7a1fb98d177aa0c948bdc"
+        },
+        {
+          "rank": 32,
+          "name": "Hot N*gga",
+          "artist": "Bobby Shmurda",
+          "plays": 4,
+          "was": 46,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02d52e14e0595216ca453572ab"
+        },
+        {
+          "rank": 33,
+          "name": "Alfredo",
+          "artist": "Freddie Gibbs",
+          "plays": 4,
+          "was": 42,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651"
+        },
+        {
+          "rank": 34,
+          "name": "The State vs. Radric Davis",
+          "artist": "Gucci Mane",
+          "plays": 4,
+          "was": 38,
+          "cover": "https://i.scdn.co/image/ab67616d00001e022329c198bf2331d1cc08c523"
+        },
+        {
+          "rank": 35,
+          "name": "a Gift & a Curse",
+          "artist": "Gunna",
+          "plays": 4,
+          "was": 43,
+          "cover": "https://i.scdn.co/image/ab67616d00001e021e0b04676fae1205f4853706"
+        },
+        {
+          "rank": 36,
+          "name": "The 20th Anniversary",
+          "artist": "Naomi Akimoto",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0284835aa4a1fe1885db66318f"
+        },
+        {
+          "rank": 37,
+          "name": "Slimeball",
+          "artist": "Young Nudy",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02781b1a0ed5d8ff7eaf3c0432"
+        },
+        {
+          "rank": 38,
+          "name": "No Ceilings",
+          "artist": "Lil Wayne",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e020ecc76569dda9830ac05be7e"
+        },
+        {
+          "rank": 39,
+          "name": "Raspberries",
+          "artist": "Raspberries",
+          "plays": 3,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e021d99f5402883ad273f45ebf8"
+        },
+        {
+          "rank": 40,
+          "name": "Most Known Unknown (Explicit)",
+          "artist": "Three 6 Mafia",
+          "plays": 3,
+          "was": 37,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02f52c28f42318cdfe7718e32a"
         },
         {
           "rank": 41,
           "name": "Jamboree",
           "artist": "F.L.Y. (Fast Life Yungstaz)",
-          "plays": 4,
-          "new": true,
+          "plays": 3,
+          "was": 41,
           "cover": "https://i.scdn.co/image/ab67616d00001e0257245fdfe84f0ac5f8c10bdc"
         },
         {
           "rank": 42,
-          "name": "Alfredo",
-          "artist": "Freddie Gibbs",
-          "plays": 4,
-          "was": 34,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651"
-        },
-        {
-          "rank": 43,
-          "name": "a Gift & a Curse",
-          "artist": "Gunna",
-          "plays": 4,
-          "was": 35,
-          "cover": "https://i.scdn.co/image/ab67616d00001e021e0b04676fae1205f4853706"
-        },
-        {
-          "rank": 44,
-          "name": "Album gratuit",
-          "artist": "Jul",
-          "plays": 4,
-          "was": 37,
-          "cover": "https://i.scdn.co/image/ab67616d00001e028f7e21674af4e279c71c87db"
-        },
-        {
-          "rank": 45,
-          "name": "When the Smoke Clears: Sixty 6, Sixty 1",
-          "artist": "Three 6 Mafia",
-          "plays": 3,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e027d1e3fb810a8c4a1271425fd"
-        },
-        {
-          "rank": 46,
-          "name": "Hot N*gga",
-          "artist": "Bobby Shmurda",
-          "plays": 3,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02d52e14e0595216ca453572ab"
-        },
-        {
-          "rank": 47,
           "name": "Monster",
           "artist": "Future",
           "plays": 3,
-          "was": 38,
+          "was": 47,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c1a4bee8f56f093ba31e9fd2"
         },
         {
-          "rank": 48,
+          "rank": 43,
           "name": "GUMMO",
           "artist": "6ix9ine",
           "plays": 3,
-          "was": 40,
+          "was": 48,
           "cover": "https://i.scdn.co/image/ab67616d00001e02a48b3ad2c1bc2e1721be9fd6"
         },
         {
-          "rank": 49,
+          "rank": 44,
+          "name": "La machine",
+          "artist": "Jul",
+          "plays": 3,
+          "was": 28,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02e8bfa118111223daf1b7341b"
+        },
+        {
+          "rank": 45,
           "name": "High Off Life",
           "artist": "Future",
           "plays": 3,
-          "was": 41,
+          "was": 49,
           "cover": "https://i.scdn.co/image/ab67616d00001e027459c852e9479c56eceae52a"
         },
         {
-          "rank": 50,
+          "rank": 46,
           "name": "DS4EVER",
           "artist": "Gunna",
           "plays": 3,
-          "was": 42,
+          "was": 50,
           "cover": "https://i.scdn.co/image/ab67616d00001e02095bca744b48a058767a8f48"
+        },
+        {
+          "rank": 47,
+          "name": "Navigator +3",
+          "artist": "1986 OMEGA TRIBE",
+          "plays": 2,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0249792a476cbab37baa9ddd68"
+        },
+        {
+          "rank": 48,
+          "name": "Rose (2019 Remaster)",
+          "artist": "Mari Iijima",
+          "plays": 2,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02bf400824559bdd4f0b8b85b7"
+        },
+        {
+          "rank": 49,
+          "name": "Parachute from Asian Port",
+          "artist": "Parachute",
+          "plays": 2,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0258f7d6b02b93b45472240e93"
+        },
+        {
+          "rank": 50,
+          "name": "THE PRESSURES AND PLEASURES (2018 Remaster)",
+          "artist": "Makoto Matsushita",
+          "plays": 2,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02356df1a4fc7519139829b11f"
         }
       ],
       "genres": []
@@ -1148,15 +1169,15 @@
     {
       "id": "6m",
       "label": "6 Months",
-      "from": "2026-03-30",
-      "to": "2026-09-27",
-      "plays": 6116,
-      "previousPlays": 4604,
+      "from": "2026-04-06",
+      "to": "2026-10-04",
+      "plays": 6069,
+      "previousPlays": 4623,
       "artists": [
         {
           "rank": 1,
           "name": "A$AP Rocky",
-          "plays": 553,
+          "plays": 588,
           "was": 1,
           "image": "https://i.scdn.co/image/ab67616100005174ad160b333f9a240f84aff7d7"
         },
@@ -1171,48 +1192,48 @@
           "rank": 3,
           "name": "Prince",
           "plays": 348,
-          "was": 4,
+          "was": 3,
           "image": "https://i.scdn.co/image/ab67616100005174adf109a73dae96653131b023"
         },
         {
           "rank": 4,
           "name": "Kodak Black",
-          "plays": 312,
-          "was": 6,
+          "plays": 313,
+          "was": 4,
           "image": "https://i.scdn.co/image/ab67616100005174cbca429e353792c21e52edae"
         },
         {
           "rank": 5,
-          "name": "Freddie Gibbs",
-          "plays": 305,
-          "was": 3,
-          "image": "https://i.scdn.co/image/ab67616100005174499def7bd0369aa26a22273c"
+          "name": "Future",
+          "plays": 301,
+          "was": 6,
+          "image": "https://i.scdn.co/image/ab676161000051742c472c891062acb4f3068583"
         },
         {
           "rank": 6,
-          "name": "Future",
-          "plays": 298,
+          "name": "Freddie Gibbs",
+          "plays": 287,
           "was": 5,
-          "image": "https://i.scdn.co/image/ab676161000051742c472c891062acb4f3068583"
+          "image": "https://i.scdn.co/image/ab67616100005174499def7bd0369aa26a22273c"
         },
         {
           "rank": 7,
           "name": "Lil Wayne",
-          "plays": 270,
+          "plays": 273,
           "was": 7,
           "image": "https://i.scdn.co/image/ab67616100005174998010cd1075921b5faf16b2"
         },
         {
           "rank": 8,
           "name": "Young Thug",
-          "plays": 234,
+          "plays": 222,
           "was": 8,
           "image": "https://i.scdn.co/image/ab676161000051749f2fb33940aac624dc5d100d"
         },
         {
           "rank": 9,
           "name": "50 Cent",
-          "plays": 198,
+          "plays": 181,
           "was": 9,
           "image": "https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118"
         },
@@ -1226,7 +1247,7 @@
         {
           "rank": 11,
           "name": "Booba",
-          "plays": 156,
+          "plays": 155,
           "was": 11,
           "image": "https://i.scdn.co/image/ab6761610000517496b3ab10e89bad078d125c3a"
         },
@@ -1234,28 +1255,28 @@
           "rank": 12,
           "name": "SahBabii",
           "plays": 144,
-          "was": 13,
+          "was": 12,
           "image": "https://i.scdn.co/image/ab676161000051746a379e26fd4999a0b9bc9baa"
         },
         {
           "rank": 13,
           "name": "Michael Jackson",
-          "plays": 126,
-          "was": 12,
+          "plays": 127,
+          "was": 13,
           "image": "https://i.scdn.co/image/ab67616100005174997cc9a4aec335d46c9481fd"
         },
         {
           "rank": 14,
           "name": "Jul",
-          "plays": 123,
-          "was": 15,
+          "plays": 124,
+          "was": 14,
           "image": "https://i.scdn.co/image/ab67616100005174aa70253f73793a0ff061069e"
         },
         {
           "rank": 15,
           "name": "JAŸ-Z",
           "plays": 120,
-          "was": 14,
+          "was": 15,
           "image": "https://i.scdn.co/image/ab6761610000517473de139b5475bf01f2bff759"
         },
         {
@@ -1276,99 +1297,99 @@
           "rank": 18,
           "name": "2Pac",
           "plays": 88,
-          "was": 19,
+          "was": 18,
           "image": "https://i.scdn.co/image/ab676161000051747f5cc432c9c109248ebec1ac"
         },
         {
           "rank": 19,
-          "name": "Travis Scott",
-          "plays": 86,
-          "was": 18,
-          "image": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71"
-        },
-        {
-          "rank": 20,
           "name": "Kendrick Lamar",
           "plays": 81,
           "was": 20,
           "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918"
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Chief Keef",
-          "plays": 79,
-          "was": 23,
+          "plays": 78,
+          "was": 21,
           "image": "https://i.scdn.co/image/ab67616100005174e816aaf5f96c04fdfa8fadc7"
+        },
+        {
+          "rank": 21,
+          "name": "Travis Scott",
+          "plays": 78,
+          "was": 19,
+          "image": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71"
         },
         {
           "rank": 22,
           "name": "Playboi Carti",
           "plays": 76,
-          "was": 21,
+          "was": 22,
           "image": "https://i.scdn.co/image/ab67616100005174ba50ca67ffc3097f6ea1710a"
         },
         {
           "rank": 23,
           "name": "Max B",
           "plays": 71,
-          "was": 24,
+          "was": 23,
           "image": "https://i.scdn.co/image/ab67616100005174d506af2354c75870a686bbcf"
         },
         {
           "rank": 24,
-          "name": "Migos",
-          "plays": 68,
-          "was": 22,
-          "image": "https://i.scdn.co/image/ab67616100005174f4593f7b778219838d858c34"
-        },
-        {
-          "rank": 25,
           "name": "YoungBoy Never Broke Again",
           "plays": 68,
           "was": 25,
           "image": "https://i.scdn.co/image/ab67616100005174776e469c846c205685141317"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Bruno Mars",
           "plays": 68,
           "was": 26,
           "image": "https://i.scdn.co/image/ab67616100005174c7688aad1bf03986934d7e26"
         },
         {
-          "rank": 27,
-          "name": "Marvin Gaye",
-          "plays": 63,
-          "was": 27,
-          "image": "https://i.scdn.co/image/f69e669cd95c6008c6220fd060982ff9516ed636"
+          "rank": 26,
+          "name": "Migos",
+          "plays": 64,
+          "was": 24,
+          "image": "https://i.scdn.co/image/ab67616100005174f4593f7b778219838d858c34"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Gucci Mane",
-          "plays": 59,
+          "plays": 56,
           "was": 28,
           "image": "https://i.scdn.co/image/ab67616100005174b9b77f64bd278ffde2c94428"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Project Pat",
           "plays": 54,
           "was": 29,
           "image": "https://i.scdn.co/image/ab67616100005174149da8d8ca89a80f86eda706"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Outkast",
           "plays": 53,
           "was": 30,
           "image": "https://i.scdn.co/image/ab676161000051740cb3f95b9f8f7337e135a925"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "DMX",
           "plays": 52,
           "was": 31,
           "image": "https://i.scdn.co/image/ab67616100005174cb1663ad23538120ad7a20c3"
+        },
+        {
+          "rank": 31,
+          "name": "Gunna",
+          "plays": 51,
+          "was": 33,
+          "image": "https://i.scdn.co/image/ab67616100005174a998bc86f87b9fe7e2466110"
         },
         {
           "rank": 32,
@@ -1379,128 +1400,128 @@
         },
         {
           "rank": 33,
-          "name": "Gunna",
-          "plays": 50,
+          "name": "21 Savage",
+          "plays": 49,
           "was": 35,
-          "image": "https://i.scdn.co/image/ab67616100005174a998bc86f87b9fe7e2466110"
+          "image": "https://i.scdn.co/image/ab676161000051744f8f76117470957c0e81e5b2"
         },
         {
           "rank": 34,
           "name": "Snoop Dogg",
-          "plays": 50,
-          "was": 33,
+          "plays": 48,
+          "was": 34,
           "image": "https://i.scdn.co/image/ab67616100005174c19a88576ebe6fcbb325c297"
         },
         {
           "rank": 35,
-          "name": "21 Savage",
-          "plays": 49,
-          "was": 34,
-          "image": "https://i.scdn.co/image/ab676161000051744f8f76117470957c0e81e5b2"
-        },
-        {
-          "rank": 36,
           "name": "Pink Floyd",
           "plays": 45,
           "was": 36,
           "image": "https://i.scdn.co/image/ab676161000051743c9e8c67b087ba0cb5923b78"
         },
         {
-          "rank": 37,
-          "name": "Huncho Jack",
-          "plays": 45,
-          "was": 37,
-          "image": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e"
-        },
-        {
-          "rank": 38,
+          "rank": 36,
           "name": "Lil Baby",
-          "plays": 41,
-          "was": 40,
+          "plays": 42,
+          "was": 38,
           "image": "https://i.scdn.co/image/ab67616100005174345f9be864ad543c7597936e"
         },
         {
-          "rank": 39,
+          "rank": 37,
           "name": "Lil Uzi Vert",
           "plays": 39,
-          "was": 38,
+          "was": 39,
           "image": "https://i.scdn.co/image/ab676161000051740eb7019b6bb9ce078a9ac03b"
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "Rage Against The Machine",
           "plays": 39,
-          "was": 39,
+          "was": 40,
           "image": "https://i.scdn.co/image/ab67616100005174da4bd2b213cae330e2a4a901"
         },
         {
-          "rank": 41,
+          "rank": 39,
+          "name": "Marvin Gaye",
+          "plays": 36,
+          "was": 27,
+          "image": "https://i.scdn.co/image/f69e669cd95c6008c6220fd060982ff9516ed636"
+        },
+        {
+          "rank": 40,
           "name": "Nas",
           "plays": 31,
-          "was": 43,
+          "was": 41,
           "image": "https://i.scdn.co/image/ab67616100005174153198caeef9e3bda92f9285"
+        },
+        {
+          "rank": 41,
+          "name": "Huncho Jack",
+          "plays": 30,
+          "was": 37,
+          "image": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e"
         },
         {
           "rank": 42,
           "name": "The Notorious B.I.G.",
           "plays": 29,
-          "was": 41,
+          "was": 42,
           "image": "https://i.scdn.co/image/9bb42de208edcb69653a8e7951fa93b13f598cdd"
         },
         {
           "rank": 43,
           "name": "Pusha T",
           "plays": 28,
-          "was": 44,
+          "was": 43,
           "image": "https://i.scdn.co/image/ab67616100005174c5b88a3924d8318f25f20594"
         },
         {
           "rank": 44,
-          "name": "Three 6 Mafia",
+          "name": "A$AP Mob",
           "plays": 27,
-          "was": 46,
-          "image": "https://i.scdn.co/image/ab67616100005174697a2395da5148557c36af55"
+          "was": 45,
+          "image": "https://i.scdn.co/image/ab67616100005174566918b7180f8965defe862e"
         },
         {
           "rank": 45,
-          "name": "A$AP Mob",
-          "plays": 26,
-          "was": 45,
-          "image": "https://i.scdn.co/image/ab67616100005174566918b7180f8965defe862e"
+          "name": "Three 6 Mafia",
+          "plays": 27,
+          "was": 44,
+          "image": "https://i.scdn.co/image/ab67616100005174697a2395da5148557c36af55"
         },
         {
           "rank": 46,
           "name": "Bob Marley & The Wailers",
           "plays": 24,
-          "was": 47,
+          "was": 46,
           "image": "https://i.scdn.co/image/4cd57e5e12ea2c24644c40886d65a9b22eca9802"
         },
         {
           "rank": 47,
           "name": "Kid Cudi",
           "plays": 23,
-          "was": 48,
+          "was": 47,
           "image": "https://i.scdn.co/image/ab676161000051745f00bb6dd7a7008d14156630"
         },
         {
           "rank": 48,
           "name": "Radiohead",
           "plays": 22,
-          "was": 50,
+          "was": 48,
           "image": "https://i.scdn.co/image/ab67616100005174959527d2fabc9c64287e57b9"
         },
         {
           "rank": 49,
           "name": "The Game",
           "plays": 20,
-          "new": true,
+          "was": 49,
           "image": "https://i.scdn.co/image/ab67616100005174a657aa5506945d264e147244"
         },
         {
           "rank": 50,
           "name": "SCH",
           "plays": 19,
-          "new": true,
+          "was": 50,
           "image": "https://i.scdn.co/image/ab676161000051744ed985f33e971801dae4e24d"
         }
       ],
@@ -1517,7 +1538,7 @@
           "rank": 2,
           "name": "Transportin'",
           "artist": "Kodak Black",
-          "plays": 31,
+          "plays": 32,
           "was": 2,
           "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
         },
@@ -1526,7 +1547,7 @@
           "name": "Purple Rain",
           "artist": "Prince",
           "plays": 27,
-          "was": 8,
+          "was": 3,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
@@ -1534,7 +1555,7 @@
           "name": "Swing My Door",
           "artist": "Gucci Mane",
           "plays": 27,
-          "was": 5,
+          "was": 4,
           "cover": "https://i.scdn.co/image/ab67616d00001e028421d2b858fcbe20d23f71c9"
         },
         {
@@ -1542,7 +1563,7 @@
           "name": "Parfum quartier",
           "artist": "Jul",
           "plays": 26,
-          "was": 7,
+          "was": 5,
           "cover": "https://i.scdn.co/image/ab67616d00001e0243c8b89de39bc66cf21c4674"
         },
         {
@@ -1550,7 +1571,7 @@
           "name": "Sweet Child O' Mine",
           "artist": "Guns N' Roses",
           "plays": 26,
-          "was": 3,
+          "was": 6,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
@@ -1558,20 +1579,20 @@
           "name": "Make No Sense",
           "artist": "YoungBoy Never Broke Again",
           "plays": 26,
-          "was": 9,
+          "was": 7,
           "cover": "https://i.scdn.co/image/ab67616d00001e024a92eb0e4fcbe2fb6e1208e5"
         },
         {
           "rank": 8,
-          "name": "Ensalada (feat. Anderson .Paak)",
-          "artist": "Freddie Gibbs",
+          "name": "Roll in Peace (feat. XXXTENTACION)",
+          "artist": "Kodak Black",
           "plays": 25,
-          "was": 4,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
+          "was": 9,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
         },
         {
           "rank": 9,
-          "name": "Roll in Peace (feat. XXXTENTACION)",
+          "name": "Change My Ways",
           "artist": "Kodak Black",
           "plays": 25,
           "was": 10,
@@ -1579,22 +1600,14 @@
         },
         {
           "rank": 10,
-          "name": "Change My Ways",
-          "artist": "Kodak Black",
-          "plays": 25,
-          "was": 11,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
-        },
-        {
-          "rank": 11,
           "name": "When Doves Cry",
           "artist": "Prince",
           "plays": 24,
-          "was": 16,
+          "was": 11,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Mr. Brownstone",
           "artist": "Guns N' Roses",
           "plays": 24,
@@ -1602,35 +1615,43 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Nightrain",
           "artist": "Guns N' Roses",
           "plays": 24,
-          "was": 6,
+          "was": 13,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Baby I'm a Star",
           "artist": "Prince",
           "plays": 23,
-          "was": 24,
+          "was": 14,
+          "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
+        },
+        {
+          "rank": 14,
+          "name": "Let's Go Crazy",
+          "artist": "Prince",
+          "plays": 22,
+          "was": 15,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
           "rank": 15,
-          "name": "Let's Go Crazy",
-          "artist": "Prince",
+          "name": "Ensalada (feat. Anderson .Paak)",
+          "artist": "Freddie Gibbs",
           "plays": 22,
-          "was": 38,
-          "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
+          "was": 8,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
         },
         {
           "rank": 16,
           "name": "Sum 2 Prove",
           "artist": "Lil Baby",
           "plays": 21,
-          "was": 27,
+          "was": 16,
           "cover": "https://i.scdn.co/image/ab67616d00001e02f46a9ad551acbdab8f72fd89"
         },
         {
@@ -1638,7 +1659,7 @@
           "name": "J'oublie tout",
           "artist": "Jul",
           "plays": 21,
-          "was": 20,
+          "was": 17,
           "cover": "https://i.scdn.co/image/ab67616d00001e0285d9fb2e7833cb239769c02d"
         },
         {
@@ -1646,7 +1667,7 @@
           "name": "November Rain",
           "artist": "Guns N' Roses",
           "plays": 21,
-          "was": 21,
+          "was": 18,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e44963b8bb127552ac761873"
         },
         {
@@ -1654,7 +1675,7 @@
           "name": "Temps mort",
           "artist": "Booba",
           "plays": 21,
-          "was": 22,
+          "was": 19,
           "cover": "https://i.scdn.co/image/ab67616d00001e02de667b23df8eda37dcb6bd96"
         },
         {
@@ -1662,7 +1683,7 @@
           "name": "Welcome To The Jungle",
           "artist": "Guns N' Roses",
           "plays": 21,
-          "was": 13,
+          "was": 20,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
@@ -1670,7 +1691,7 @@
           "name": "Computer Blue",
           "artist": "Prince",
           "plays": 20,
-          "was": 35,
+          "was": 21,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
@@ -1678,7 +1699,7 @@
           "name": "The Beautiful Ones",
           "artist": "Prince",
           "plays": 20,
-          "was": 36,
+          "was": 22,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
@@ -1686,143 +1707,143 @@
           "name": "Take Me with U",
           "artist": "Prince",
           "plays": 20,
-          "was": 37,
+          "was": 23,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
           "rank": 24,
-          "name": "1995",
-          "artist": "Freddie Gibbs",
-          "plays": 20,
-          "was": 14,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
-        },
-        {
-          "rank": 25,
           "name": "Think About You",
           "artist": "Guns N' Roses",
           "plays": 20,
-          "was": 23,
+          "was": 25,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
+        },
+        {
+          "rank": 25,
+          "name": "Out Ta Get Me",
+          "artist": "Guns N' Roses",
+          "plays": 20,
+          "was": 26,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
           "rank": 26,
-          "name": "Out Ta Get Me",
+          "name": "It's So Easy",
           "artist": "Guns N' Roses",
           "plays": 20,
-          "was": 18,
+          "was": 27,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
           "rank": 27,
-          "name": "It's So Easy",
-          "artist": "Guns N' Roses",
-          "plays": 20,
-          "was": 15,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
-        },
-        {
-          "rank": 28,
           "name": "Darling Nikki",
           "artist": "Prince",
           "plays": 19,
-          "was": 42,
+          "was": 28,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Baby",
           "artist": "Prince",
           "plays": 19,
-          "new": true,
+          "was": 29,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
+        },
+        {
+          "rank": 29,
+          "name": "Soft and Wet",
+          "artist": "Prince",
+          "plays": 19,
+          "was": 30,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
         },
         {
           "rank": 30,
-          "name": "Soft and Wet",
-          "artist": "Prince",
-          "plays": 19,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
-        },
-        {
-          "rank": 31,
-          "name": "Lemon Pepper Steppers",
+          "name": "1995",
           "artist": "Freddie Gibbs",
           "plays": 19,
-          "was": 19,
+          "was": 24,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Don't Cry (Original)",
           "artist": "Guns N' Roses",
           "plays": 19,
-          "was": 31,
+          "was": 32,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e44963b8bb127552ac761873"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Versatile",
           "artist": "Kodak Black",
           "plays": 19,
-          "was": 32,
+          "was": 33,
           "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
         },
         {
-          "rank": 34,
-          "name": "How It Was (feat. Future)",
-          "artist": "DJ ESCO",
-          "plays": 19,
-          "was": 17,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02bb968dd661c5d00566f39548"
-        },
-        {
-          "rank": 35,
+          "rank": 33,
           "name": "My Michelle",
           "artist": "Guns N' Roses",
           "plays": 19,
-          "was": 28,
+          "was": 35,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
-          "rank": 36,
+          "rank": 34,
+          "name": "Peso",
+          "artist": "A$AP Rocky",
+          "plays": 18,
+          "was": 46,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 35,
           "name": "I Would Die 4 U",
           "artist": "Prince",
           "plays": 18,
-          "was": 50,
+          "was": 36,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Just as Long as We're Together",
           "artist": "Prince",
           "plays": 18,
-          "new": true,
+          "was": 37,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
+        },
+        {
+          "rank": 37,
+          "name": "For You",
+          "artist": "Prince",
+          "plays": 18,
+          "was": 38,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
         },
         {
           "rank": 38,
-          "name": "For You",
-          "artist": "Prince",
+          "name": "Lemon Pepper Steppers",
+          "artist": "Freddie Gibbs",
           "plays": 18,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
+          "was": 31,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
         },
         {
           "rank": 39,
-          "name": "Mar-a-Lago",
-          "artist": "Freddie Gibbs",
+          "name": "How It Was (feat. Future)",
+          "artist": "DJ ESCO",
           "plays": 18,
-          "was": 26,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
+          "was": 34,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02bb968dd661c5d00566f39548"
         },
         {
           "rank": 40,
           "name": "Paradise City",
           "artist": "Guns N' Roses",
           "plays": 18,
-          "was": 29,
+          "was": 40,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
@@ -1830,7 +1851,7 @@
           "name": "2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg)",
           "artist": "2Pac",
           "plays": 17,
-          "new": true,
+          "was": 41,
           "cover": "https://i.scdn.co/image/ab67616d00001e02073aebff28f79959d2543596"
         },
         {
@@ -1838,7 +1859,7 @@
           "name": "My Love Is Forever",
           "artist": "Prince",
           "plays": 17,
-          "new": true,
+          "was": 42,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
         },
         {
@@ -1846,15 +1867,15 @@
           "name": "In Love",
           "artist": "Prince",
           "plays": 17,
-          "new": true,
+          "was": 43,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
         },
         {
           "rank": 44,
-          "name": "Gas Station Sushi",
+          "name": "Mar-a-Lago",
           "artist": "Freddie Gibbs",
           "plays": 17,
-          "was": 25,
+          "was": 39,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
         },
         {
@@ -1867,14 +1888,6 @@
         },
         {
           "rank": 46,
-          "name": "Peso",
-          "artist": "A$AP Rocky",
-          "plays": 17,
-          "was": 46,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
-        },
-        {
-          "rank": 47,
           "name": "Don't Wanna Breathe",
           "artist": "Kodak Black",
           "plays": 17,
@@ -1882,28 +1895,36 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
         },
         {
-          "rank": 48,
-          "name": "Mannequin Challenge (feat. Juice WRLD)",
-          "artist": "Young Thug",
-          "plays": 17,
-          "was": 40,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02caca74e1aa8e32cd44bb5c8f"
-        },
-        {
-          "rank": 49,
+          "rank": 47,
           "name": "Anything Goes",
           "artist": "Guns N' Roses",
           "plays": 17,
-          "was": 33,
+          "was": 49,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
-          "rank": 50,
+          "rank": 48,
           "name": "You're Crazy",
           "artist": "Guns N' Roses",
           "plays": 17,
-          "was": 34,
+          "was": 50,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
+        },
+        {
+          "rank": 49,
+          "name": "6th Sense",
+          "artist": "Kodak Black",
+          "plays": 17,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
+        },
+        {
+          "rank": 50,
+          "name": "Houston Old Head",
+          "artist": "A$AP Rocky",
+          "plays": 16,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         }
       ],
       "albums": [
@@ -1911,7 +1932,7 @@
           "rank": 1,
           "name": "Project Baby 2: All Grown Up",
           "artist": "Kodak Black",
-          "plays": 311,
+          "plays": 312,
           "was": 1,
           "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
         },
@@ -1927,7 +1948,7 @@
           "rank": 3,
           "name": "Alfredo 2",
           "artist": "Freddie Gibbs",
-          "plays": 214,
+          "plays": 201,
           "was": 3,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
         },
@@ -1943,12 +1964,20 @@
           "rank": 5,
           "name": "Get Rich Or Die Tryin'",
           "artist": "50 Cent",
-          "plays": 189,
+          "plays": 171,
           "was": 5,
           "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
         },
         {
           "rank": 6,
+          "name": "LIVE.LOVE.A$AP",
+          "artist": "A$AP Rocky",
+          "plays": 170,
+          "was": 7,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 7,
           "name": "1999",
           "artist": "Joey Bada$$",
           "plays": 158,
@@ -1956,19 +1985,11 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02fcd3724fba954e6104e4530d"
         },
         {
-          "rank": 7,
-          "name": "LIVE.LOVE.A$AP",
-          "artist": "A$AP Rocky",
-          "plays": 156,
-          "was": 7,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
-        },
-        {
           "rank": 8,
           "name": "For You",
           "artist": "Prince",
           "plays": 155,
-          "was": 10,
+          "was": 8,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
         },
         {
@@ -1976,7 +1997,7 @@
           "name": "Squidtastic",
           "artist": "SahBabii",
           "plays": 144,
-          "was": 8,
+          "was": 9,
           "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
         },
         {
@@ -1984,24 +2005,24 @@
           "name": "Temps mort",
           "artist": "Booba",
           "plays": 139,
-          "was": 9,
+          "was": 10,
           "cover": "https://i.scdn.co/image/ab67616d00001e02de667b23df8eda37dcb6bd96"
         },
         {
           "rank": 11,
           "name": "AT.LONG.LAST.A$AP",
           "artist": "A$AP Rocky",
-          "plays": 136,
-          "was": 12,
+          "plays": 135,
+          "was": 11,
           "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
         },
         {
           "rank": 12,
           "name": "Don't Be Dumb",
           "artist": "A$AP Rocky",
-          "plays": 123,
-          "was": 11,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0227b7133c976e8ae6c3add683"
+          "plays": 132,
+          "was": 12,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02be35d523672e13da3debc413"
         },
         {
           "rank": 13,
@@ -2016,7 +2037,7 @@
           "name": "Tha Carter II",
           "artist": "Lil Wayne",
           "plays": 100,
-          "was": 15,
+          "was": 14,
           "cover": "https://i.scdn.co/image/ab67616d00001e022d1dcd542a31bb7c751cff28"
         },
         {
@@ -2024,7 +2045,7 @@
           "name": "Use Your Illusion I",
           "artist": "Guns N' Roses",
           "plays": 98,
-          "was": 16,
+          "was": 15,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e44963b8bb127552ac761873"
         },
         {
@@ -2032,7 +2053,7 @@
           "name": "The Blueprint",
           "artist": "JAŸ-Z",
           "plays": 94,
-          "was": 17,
+          "was": 16,
           "cover": "https://i.scdn.co/image/ab67616d00001e021b3f6f34954118500ed3e7a7"
         },
         {
@@ -2040,47 +2061,47 @@
           "name": "Are You Experienced",
           "artist": "Jimi Hendrix",
           "plays": 93,
-          "was": 18,
+          "was": 17,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040"
         },
         {
           "rank": 18,
-          "name": "Alfredo",
-          "artist": "Freddie Gibbs",
-          "plays": 91,
-          "was": 19,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651"
-        },
-        {
-          "rank": 19,
           "name": "Tha Carter",
           "artist": "Lil Wayne",
           "plays": 90,
-          "was": 14,
+          "was": 19,
           "cover": "https://i.scdn.co/image/ab67616d00001e0225d0b54bd30205d4ed2d5599"
         },
         {
+          "rank": 19,
+          "name": "Alfredo",
+          "artist": "Freddie Gibbs",
+          "plays": 86,
+          "was": 18,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651"
+        },
+        {
           "rank": 20,
-          "name": "So Much Fun",
-          "artist": "Young Thug",
-          "plays": 77,
-          "was": 20,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02caca74e1aa8e32cd44bb5c8f"
+          "name": "LONG.LIVE.A$AP (Deluxe Version)",
+          "artist": "A$AP Rocky",
+          "plays": 82,
+          "was": 21,
+          "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
         },
         {
           "rank": 21,
-          "name": "LONG.LIVE.A$AP (Deluxe Version)",
-          "artist": "A$AP Rocky",
+          "name": "So Much Fun",
+          "artist": "Young Thug",
           "plays": 75,
-          "was": 22,
-          "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
+          "was": 20,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02caca74e1aa8e32cd44bb5c8f"
         },
         {
           "rank": 22,
           "name": "2001",
           "artist": "Dr. Dre",
           "plays": 75,
-          "was": 23,
+          "was": 22,
           "cover": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5"
         },
         {
@@ -2088,15 +2109,15 @@
           "name": "Wave Pack",
           "artist": "Max B",
           "plays": 70,
-          "was": 24,
+          "was": 23,
           "cover": "https://i.scdn.co/image/ab67616d00001e0249886a33144b99470fe7a413"
         },
         {
           "rank": 24,
           "name": "Finally Rich",
           "artist": "Chief Keef",
-          "plays": 69,
-          "was": 27,
+          "plays": 68,
+          "was": 24,
           "cover": "https://i.scdn.co/image/ab67616d00001e02a76616abf60ce17491e95891"
         },
         {
@@ -2104,7 +2125,7 @@
           "name": "24K Magic",
           "artist": "Bruno Mars",
           "plays": 67,
-          "was": 26,
+          "was": 25,
           "cover": "https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5"
         },
         {
@@ -2112,51 +2133,43 @@
           "name": "Bad",
           "artist": "Michael Jackson",
           "plays": 65,
-          "was": 25,
+          "was": 26,
           "cover": "https://i.scdn.co/image/ab67616d00001e02eb2087dcd1eb61f833bdedff"
         },
         {
           "rank": 27,
-          "name": "Slime Season",
-          "artist": "Young Thug",
-          "plays": 61,
-          "was": 30,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0270d17ff1637f906dfabdfea4"
-        },
-        {
-          "rank": 28,
-          "name": "What's Going On",
-          "artist": "Marvin Gaye",
-          "plays": 61,
-          "was": 28,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc"
-        },
-        {
-          "rank": 29,
           "name": "56 Nights",
           "artist": "Future",
           "plays": 60,
-          "was": 21,
+          "was": 29,
           "cover": "https://i.scdn.co/image/ab67616d00001e02dc014d6cf51f0ff8bdd76764"
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "DS2",
           "artist": "Future",
           "plays": 57,
-          "was": 31,
+          "was": 30,
           "cover": "https://i.scdn.co/image/ab67616d00001e02b2592bea12d840fd096ef965"
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "Tha Carter III",
           "artist": "Lil Wayne",
           "plays": 57,
-          "was": 29,
+          "was": 31,
           "cover": "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc"
         },
         {
-          "rank": 32,
+          "rank": 30,
+          "name": "Slime Season",
+          "artist": "Young Thug",
+          "plays": 55,
+          "was": 27,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0270d17ff1637f906dfabdfea4"
+        },
+        {
+          "rank": 31,
           "name": "Mista Don't Play: Everythangs Workin",
           "artist": "Project Pat",
           "plays": 54,
@@ -2164,148 +2177,156 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90"
         },
         {
+          "rank": 32,
+          "name": "It's Dark And Hell Is Hot",
+          "artist": "DMX",
+          "plays": 48,
+          "was": 34,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0211658b970e0518be491871df"
+        },
+        {
           "rank": 33,
           "name": "Slime Season 3",
           "artist": "Young Thug",
-          "plays": 48,
-          "was": 34,
+          "plays": 46,
+          "was": 33,
           "cover": "https://i.scdn.co/image/ab67616d00001e02a875c3ec944b4f164ab5c350"
         },
         {
           "rank": 34,
-          "name": "It's Dark And Hell Is Hot",
-          "artist": "DMX",
-          "plays": 48,
-          "was": 35,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0211658b970e0518be491871df"
-        },
-        {
-          "rank": 35,
-          "name": "Huncho Jack, Jack Huncho",
-          "artist": "Huncho Jack",
-          "plays": 45,
-          "was": 36,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e"
-        },
-        {
-          "rank": 36,
           "name": "Doggystyle",
           "artist": "Snoop Dogg",
           "plays": 43,
-          "was": 37,
+          "was": 36,
           "cover": "https://i.scdn.co/image/ab67616d00001e02733af86f8dea9692a3f59d29"
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "Playboi Carti",
           "artist": "Playboi Carti",
           "plays": 42,
-          "was": 38,
+          "was": 37,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e31a279d267f3b3d8912e6f1"
         },
         {
-          "rank": 38,
-          "name": "Barter 6",
-          "artist": "Young Thug",
-          "plays": 41,
-          "was": 39,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0288053a98d0abb8ed3a02efe1"
-        },
-        {
-          "rank": 39,
+          "rank": 36,
           "name": "Until Death Call My Name",
           "artist": "YoungBoy Never Broke Again",
           "plays": 41,
-          "was": 40,
+          "was": 39,
           "cover": "https://i.scdn.co/image/ab67616d00001e0220f9c767b8624a234a578f21"
         },
         {
-          "rank": 40,
+          "rank": 37,
+          "name": "Barter 6",
+          "artist": "Young Thug",
+          "plays": 40,
+          "was": 38,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0288053a98d0abb8ed3a02efe1"
+        },
+        {
+          "rank": 38,
           "name": "The Chronic",
           "artist": "Dr. Dre",
           "plays": 39,
-          "was": 42,
+          "was": 40,
           "cover": "https://i.scdn.co/image/ab67616d00001e029710731c9d7baec635f1bab1"
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Rage Against The Machine",
           "artist": "Rage Against The Machine",
           "plays": 39,
-          "was": 43,
+          "was": 41,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ee4644e12bef70636167c6bd"
+        },
+        {
+          "rank": 40,
+          "name": "TESTING",
+          "artist": "A$AP Rocky",
+          "plays": 35,
+          "was": 44,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1"
+        },
+        {
+          "rank": 41,
+          "name": "Southernplayalisticadillacmuzik",
+          "artist": "Outkast",
+          "plays": 35,
+          "was": 43,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64"
         },
         {
           "rank": 42,
           "name": "Culture",
           "artist": "Migos",
-          "plays": 37,
-          "was": 33,
+          "plays": 34,
+          "was": 42,
           "cover": "https://i.scdn.co/image/ab67616d00001e026275aeac316378b0dd4f31fd"
         },
         {
           "rank": 43,
-          "name": "Southernplayalisticadillacmuzik",
-          "artist": "Outkast",
-          "plays": 35,
-          "was": 44,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64"
+          "name": "What's Going On",
+          "artist": "Marvin Gaye",
+          "plays": 34,
+          "was": 28,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc"
         },
         {
           "rank": 44,
-          "name": "TESTING",
-          "artist": "A$AP Rocky",
-          "plays": 34,
-          "was": 45,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1"
-        },
-        {
-          "rank": 45,
           "name": "Monster",
           "artist": "Future",
           "plays": 33,
-          "was": 46,
+          "was": 45,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c1a4bee8f56f093ba31e9fd2"
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "To Pimp A Butterfly",
           "artist": "Kendrick Lamar",
           "plays": 33,
-          "was": 47,
+          "was": 46,
           "cover": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1"
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "2Pacalypse Now",
           "artist": "2Pac",
           "plays": 32,
-          "was": 48,
+          "was": 47,
           "cover": "https://i.scdn.co/image/ab67616d00001e027e1888783100598328e20e9b"
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Off the Wall",
           "artist": "Michael Jackson",
           "plays": 31,
-          "was": 41,
+          "was": 48,
           "cover": "https://i.scdn.co/image/ab67616d00001e022b74bf21c7e4f56758610949"
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Illmatic",
           "artist": "Nas",
           "plays": 31,
-          "new": true,
+          "was": 49,
           "cover": "https://i.scdn.co/image/ab67616d00001e0271d840defb002ed3b180f7cd"
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "All Eyez On Me",
           "artist": "2Pac",
           "plays": 30,
-          "new": true,
+          "was": 50,
           "cover": "https://i.scdn.co/image/ab67616d00001e02073aebff28f79959d2543596"
+        },
+        {
+          "rank": 50,
+          "name": "Huncho Jack, Jack Huncho",
+          "artist": "Huncho Jack",
+          "plays": 30,
+          "was": 35,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e"
         }
       ],
       "genres": []
@@ -2313,29 +2334,29 @@
     {
       "id": "1y",
       "label": "1 Year",
-      "from": "2025-09-29",
-      "to": "2026-09-27",
-      "plays": 10720,
-      "previousPlays": 17655,
+      "from": "2025-10-06",
+      "to": "2026-10-04",
+      "plays": 10692,
+      "previousPlays": 17476,
       "artists": [
         {
           "rank": 1,
           "name": "A$AP Rocky",
-          "plays": 1017,
+          "plays": 1063,
           "was": 1,
           "image": "https://i.scdn.co/image/ab67616100005174ad160b333f9a240f84aff7d7"
         },
         {
           "rank": 2,
           "name": "Lil Wayne",
-          "plays": 571,
+          "plays": 555,
           "was": 2,
           "image": "https://i.scdn.co/image/ab67616100005174998010cd1075921b5faf16b2"
         },
         {
           "rank": 3,
           "name": "Future",
-          "plays": 495,
+          "plays": 498,
           "was": 3,
           "image": "https://i.scdn.co/image/ab676161000051742c472c891062acb4f3068583"
         },
@@ -2349,14 +2370,14 @@
         {
           "rank": 5,
           "name": "Young Thug",
-          "plays": 449,
+          "plays": 441,
           "was": 5,
           "image": "https://i.scdn.co/image/ab676161000051749f2fb33940aac624dc5d100d"
         },
         {
           "rank": 6,
           "name": "Guns N' Roses",
-          "plays": 436,
+          "plays": 424,
           "was": 6,
           "image": "https://i.scdn.co/image/ab6761610000517450defaf9fc059a1efc541f4c"
         },
@@ -2364,21 +2385,21 @@
           "rank": 7,
           "name": "Prince",
           "plays": 350,
-          "was": 9,
+          "was": 7,
           "image": "https://i.scdn.co/image/ab67616100005174adf109a73dae96653131b023"
         },
         {
           "rank": 8,
           "name": "50 Cent",
-          "plays": 332,
-          "was": 7,
+          "plays": 318,
+          "was": 8,
           "image": "https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118"
         },
         {
           "rank": 9,
           "name": "Kodak Black",
-          "plays": 317,
-          "was": 8,
+          "plays": 318,
+          "was": 9,
           "image": "https://i.scdn.co/image/ab67616100005174cbca429e353792c21e52edae"
         },
         {
@@ -2392,14 +2413,14 @@
           "rank": 11,
           "name": "Outkast",
           "plays": 280,
-          "was": 12,
+          "was": 11,
           "image": "https://i.scdn.co/image/ab676161000051740cb3f95b9f8f7337e135a925"
         },
         {
           "rank": 12,
           "name": "Michael Jackson",
-          "plays": 278,
-          "was": 11,
+          "plays": 261,
+          "was": 12,
           "image": "https://i.scdn.co/image/ab67616100005174997cc9a4aec335d46c9481fd"
         },
         {
@@ -2413,218 +2434,218 @@
           "rank": 14,
           "name": "Jimi Hendrix",
           "plays": 220,
-          "was": 16,
+          "was": 14,
           "image": "https://i.scdn.co/image/ab6761610000517490c8b988fa6e6b40e0d0bf81"
         },
         {
           "rank": 15,
           "name": "Dr. Dre",
           "plays": 218,
-          "was": 17,
+          "was": 15,
           "image": "https://i.scdn.co/image/ab6772690000dd22250b3af4b06e1fcf538d398b"
         },
         {
           "rank": 16,
           "name": "A$AP Mob",
           "plays": 215,
-          "was": 18,
+          "was": 16,
           "image": "https://i.scdn.co/image/ab67616100005174566918b7180f8965defe862e"
         },
         {
           "rank": 17,
           "name": "JAŸ-Z",
           "plays": 212,
-          "was": 15,
+          "was": 17,
           "image": "https://i.scdn.co/image/ab6761610000517473de139b5475bf01f2bff759"
         },
         {
           "rank": 18,
           "name": "Travis Scott",
-          "plays": 183,
-          "was": 19,
+          "plays": 181,
+          "was": 18,
           "image": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71"
         },
         {
           "rank": 19,
           "name": "Chief Keef",
           "plays": 175,
-          "was": 20,
+          "was": 19,
           "image": "https://i.scdn.co/image/ab67616100005174e816aaf5f96c04fdfa8fadc7"
         },
         {
           "rank": 20,
           "name": "Booba",
           "plays": 173,
-          "was": 21,
+          "was": 20,
           "image": "https://i.scdn.co/image/ab6761610000517496b3ab10e89bad078d125c3a"
         },
         {
           "rank": 21,
           "name": "Max B",
           "plays": 161,
-          "was": 22,
+          "was": 21,
           "image": "https://i.scdn.co/image/ab67616100005174d506af2354c75870a686bbcf"
         },
         {
           "rank": 22,
           "name": "Joey Bada$$",
           "plays": 158,
-          "was": 23,
+          "was": 22,
           "image": "https://i.scdn.co/image/ab67616100005174ae01fe0d10cd8ebb4707c461"
         },
         {
           "rank": 23,
           "name": "21 Savage",
           "plays": 154,
-          "was": 24,
+          "was": 23,
           "image": "https://i.scdn.co/image/ab676161000051744f8f76117470957c0e81e5b2"
         },
         {
           "rank": 24,
-          "name": "The Game",
-          "plays": 147,
-          "was": 14,
-          "image": "https://i.scdn.co/image/ab67616100005174a657aa5506945d264e147244"
-        },
-        {
-          "rank": 25,
           "name": "Jul",
-          "plays": 135,
-          "was": 26,
+          "plays": 136,
+          "was": 25,
           "image": "https://i.scdn.co/image/ab67616100005174aa70253f73793a0ff061069e"
         },
         {
-          "rank": 26,
-          "name": "Kendrick Lamar",
-          "plays": 123,
-          "was": 25,
-          "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918"
+          "rank": 25,
+          "name": "The Game",
+          "plays": 120,
+          "was": 24,
+          "image": "https://i.scdn.co/image/ab67616100005174a657aa5506945d264e147244"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Gucci Mane",
-          "plays": 118,
+          "plays": 117,
           "was": 27,
           "image": "https://i.scdn.co/image/ab67616100005174b9b77f64bd278ffde2c94428"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Kanye West",
           "plays": 109,
           "was": 28,
           "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a"
         },
         {
+          "rank": 28,
+          "name": "Kendrick Lamar",
+          "plays": 109,
+          "was": 26,
+          "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918"
+        },
+        {
           "rank": 29,
           "name": "Migos",
-          "plays": 108,
-          "was": 30,
+          "plays": 107,
+          "was": 29,
           "image": "https://i.scdn.co/image/ab67616100005174f4593f7b778219838d858c34"
         },
         {
           "rank": 30,
           "name": "Nas",
           "plays": 105,
-          "was": 29,
+          "was": 30,
           "image": "https://i.scdn.co/image/ab67616100005174153198caeef9e3bda92f9285"
         },
         {
           "rank": 31,
           "name": "The Notorious B.I.G.",
           "plays": 97,
-          "was": 32,
+          "was": 31,
           "image": "https://i.scdn.co/image/9bb42de208edcb69653a8e7951fa93b13f598cdd"
         },
         {
           "rank": 32,
           "name": "Bruno Mars",
           "plays": 94,
-          "was": 33,
+          "was": 32,
           "image": "https://i.scdn.co/image/ab67616100005174c7688aad1bf03986934d7e26"
         },
         {
           "rank": 33,
           "name": "Snoop Dogg",
           "plays": 92,
-          "was": 34,
+          "was": 33,
           "image": "https://i.scdn.co/image/ab67616100005174c19a88576ebe6fcbb325c297"
         },
         {
           "rank": 34,
           "name": "Lil Uzi Vert",
           "plays": 92,
-          "was": 35,
+          "was": 34,
           "image": "https://i.scdn.co/image/ab676161000051740eb7019b6bb9ce078a9ac03b"
         },
         {
           "rank": 35,
           "name": "2Pac",
           "plays": 89,
-          "was": 38,
+          "was": 35,
           "image": "https://i.scdn.co/image/ab676161000051747f5cc432c9c109248ebec1ac"
         },
         {
           "rank": 36,
           "name": "Sherifflazone",
           "plays": 88,
-          "was": 37,
+          "was": 36,
           "image": "https://i.scdn.co/image/ab676161000051745792e3fea99671916fde77ab"
         },
         {
           "rank": 37,
           "name": "Pink Floyd",
           "plays": 87,
-          "was": 31,
+          "was": 37,
           "image": "https://i.scdn.co/image/ab676161000051743c9e8c67b087ba0cb5923b78"
         },
         {
           "rank": 38,
           "name": "Huncho Jack",
           "plays": 78,
-          "was": 36,
+          "was": 38,
           "image": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e"
         },
         {
           "rank": 39,
-          "name": "Daft Punk",
-          "plays": 72,
-          "was": 39,
-          "image": "https://i.scdn.co/image/ab67616100005174d3aa7cc0e419b6c459b08e8e"
-        },
-        {
-          "rank": 40,
           "name": "YoungBoy Never Broke Again",
           "plays": 68,
           "was": 40,
           "image": "https://i.scdn.co/image/ab67616100005174776e469c846c205685141317"
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Marvin Gaye",
           "plays": 64,
           "was": 41,
           "image": "https://i.scdn.co/image/f69e669cd95c6008c6220fd060982ff9516ed636"
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Radiohead",
           "plays": 64,
           "was": 42,
           "image": "https://i.scdn.co/image/ab67616100005174959527d2fabc9c64287e57b9"
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Stevie Wonder",
           "plays": 60,
           "was": 43,
           "image": "https://i.scdn.co/image/37c7875911b1d8195b05d40061a86bd01908a0d9"
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Bob Marley & The Wailers",
           "plays": 59,
           "was": 44,
           "image": "https://i.scdn.co/image/4cd57e5e12ea2c24644c40886d65a9b22eca9802"
+        },
+        {
+          "rank": 44,
+          "name": "Daft Punk",
+          "plays": 58,
+          "was": 39,
+          "image": "https://i.scdn.co/image/ab67616100005174d3aa7cc0e419b6c459b08e8e"
         },
         {
           "rank": 45,
@@ -2642,30 +2663,30 @@
         },
         {
           "rank": 47,
+          "name": "Gunna",
+          "plays": 53,
+          "was": 48,
+          "image": "https://i.scdn.co/image/ab67616100005174a998bc86f87b9fe7e2466110"
+        },
+        {
+          "rank": 48,
           "name": "DMX",
           "plays": 53,
           "was": 47,
           "image": "https://i.scdn.co/image/ab67616100005174cb1663ad23538120ad7a20c3"
         },
         {
-          "rank": 48,
-          "name": "Gunna",
-          "plays": 52,
-          "was": 48,
-          "image": "https://i.scdn.co/image/ab67616100005174a998bc86f87b9fe7e2466110"
-        },
-        {
           "rank": 49,
           "name": "Lil Baby",
-          "plays": 41,
-          "was": 50,
+          "plays": 42,
+          "was": 49,
           "image": "https://i.scdn.co/image/ab67616100005174345f9be864ad543c7597936e"
         },
         {
           "rank": 50,
           "name": "Rage Against The Machine",
           "plays": 39,
-          "was": 49,
+          "was": 50,
           "image": "https://i.scdn.co/image/ab67616100005174da4bd2b213cae330e2a4a901"
         }
       ],
@@ -2680,42 +2701,42 @@
         },
         {
           "rank": 2,
-          "name": "Sweet Child O' Mine",
-          "artist": "Guns N' Roses",
-          "plays": 34,
-          "was": 2,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
-        },
-        {
-          "rank": 3,
           "name": "Peso",
           "artist": "A$AP Rocky",
-          "plays": 32,
+          "plays": 34,
           "was": 3,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
-          "rank": 4,
-          "name": "Nightrain",
-          "artist": "Guns N' Roses",
+          "rank": 3,
+          "name": "Business Man, Pt. 1 - 2018 Remaster",
+          "artist": "Makoto Matsushita",
           "plays": 32,
-          "was": 4,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
+          "was": 10,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02356df1a4fc7519139829b11f"
+        },
+        {
+          "rank": 4,
+          "name": "Transportin'",
+          "artist": "Kodak Black",
+          "plays": 32,
+          "was": 5,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
         },
         {
           "rank": 5,
-          "name": "Transportin'",
-          "artist": "Kodak Black",
-          "plays": 31,
-          "was": 7,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
+          "name": "Sweet Child O' Mine",
+          "artist": "Guns N' Roses",
+          "plays": 32,
+          "was": 2,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
           "rank": 6,
           "name": "Sunny Days (feat. T3)",
           "artist": "SahBabii",
           "plays": 31,
-          "was": 8,
+          "was": 6,
           "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
         },
         {
@@ -2723,19 +2744,27 @@
           "name": "Ensalada (feat. Anderson .Paak)",
           "artist": "Freddie Gibbs",
           "plays": 31,
-          "was": 5,
+          "was": 7,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
         },
         {
           "rank": 8,
-          "name": "If I Can't",
-          "artist": "50 Cent",
-          "plays": 30,
-          "was": 6,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
+          "name": "Nightrain",
+          "artist": "Guns N' Roses",
+          "plays": 31,
+          "was": 4,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
           "rank": 9,
+          "name": "PUNK ROCKY",
+          "artist": "A$AP Rocky",
+          "plays": 30,
+          "was": 14,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02be35d523672e13da3debc413"
+        },
+        {
+          "rank": 10,
           "name": "Mannequin Challenge (feat. Juice WRLD)",
           "artist": "Young Thug",
           "plays": 30,
@@ -2743,19 +2772,11 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02caca74e1aa8e32cd44bb5c8f"
         },
         {
-          "rank": 10,
-          "name": "Business Man, Pt. 1 - 2018 Remaster",
-          "artist": "Makoto Matsushita",
-          "plays": 30,
-          "was": 10,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02356df1a4fc7519139829b11f"
-        },
-        {
           "rank": 11,
           "name": "Purple Rain",
           "artist": "Prince",
           "plays": 29,
-          "was": 18,
+          "was": 11,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
@@ -2763,7 +2784,7 @@
           "name": "Army",
           "artist": "SahBabii",
           "plays": 29,
-          "was": 17,
+          "was": 12,
           "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
         },
         {
@@ -2771,100 +2792,100 @@
           "name": "1995",
           "artist": "Freddie Gibbs",
           "plays": 29,
-          "was": 11,
+          "was": 13,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
         },
         {
           "rank": 14,
-          "name": "PUNK ROCKY",
-          "artist": "A$AP Rocky",
-          "plays": 29,
-          "was": 12,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0227b7133c976e8ae6c3add683"
-        },
-        {
-          "rank": 15,
           "name": "Change My Ways",
           "artist": "Kodak Black",
           "plays": 29,
-          "was": 13,
+          "was": 15,
           "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
+        },
+        {
+          "rank": 15,
+          "name": "March Madness",
+          "artist": "Future",
+          "plays": 28,
+          "was": 18,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02dc014d6cf51f0ff8bdd76764"
         },
         {
           "rank": 16,
           "name": "Mr. Brownstone",
           "artist": "Guns N' Roses",
-          "plays": 29,
-          "was": 14,
+          "plays": 28,
+          "was": 16,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
           "rank": 17,
           "name": "Welcome To The Jungle",
           "artist": "Guns N' Roses",
-          "plays": 29,
-          "was": 15,
+          "plays": 28,
+          "was": 17,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
           "rank": 18,
-          "name": "March Madness",
-          "artist": "Future",
-          "plays": 28,
-          "was": 16,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02dc014d6cf51f0ff8bdd76764"
+          "name": "If I Can't",
+          "artist": "50 Cent",
+          "plays": 27,
+          "was": 8,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
         },
         {
           "rank": 19,
+          "name": "Behind Da Scenes",
+          "artist": "SahBabii",
+          "plays": 27,
+          "was": 20,
+          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
+        },
+        {
+          "rank": 20,
+          "name": "Swing My Door",
+          "artist": "Gucci Mane",
+          "plays": 27,
+          "was": 21,
+          "cover": "https://i.scdn.co/image/ab67616d00001e028421d2b858fcbe20d23f71c9"
+        },
+        {
+          "rank": 21,
+          "name": "How It Was (feat. Future)",
+          "artist": "DJ ESCO",
+          "plays": 27,
+          "was": 22,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02bb968dd661c5d00566f39548"
+        },
+        {
+          "rank": 22,
           "name": "It's So Easy",
           "artist": "Guns N' Roses",
-          "plays": 28,
+          "plays": 27,
           "was": 19,
           "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
-          "rank": 20,
-          "name": "Behind Da Scenes",
-          "artist": "SahBabii",
-          "plays": 27,
-          "was": 30,
-          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
-        },
-        {
-          "rank": 21,
-          "name": "Swing My Door",
-          "artist": "Gucci Mane",
-          "plays": 27,
-          "was": 20,
-          "cover": "https://i.scdn.co/image/ab67616d00001e028421d2b858fcbe20d23f71c9"
-        },
-        {
-          "rank": 22,
-          "name": "How It Was (feat. Future)",
-          "artist": "DJ ESCO",
-          "plays": 27,
-          "was": 21,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02bb968dd661c5d00566f39548"
-        },
-        {
           "rank": 23,
-          "name": "Out Ta Get Me",
-          "artist": "Guns N' Roses",
-          "plays": 27,
-          "was": 22,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
+          "name": "Houston Old Head",
+          "artist": "A$AP Rocky",
+          "plays": 26,
+          "was": 36,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 24,
-          "name": "Lemon Pepper Steppers",
-          "artist": "Freddie Gibbs",
+          "name": "Yamborghini High (feat. Juicy J)",
+          "artist": "A$AP Mob",
           "plays": 26,
-          "was": 23,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
+          "was": 32,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02a4b5ed5f5b9d3445eac62bad"
         },
         {
           "rank": 25,
-          "name": "Mar-a-Lago",
+          "name": "Lemon Pepper Steppers",
           "artist": "Freddie Gibbs",
           "plays": 26,
           "was": 24,
@@ -2872,237 +2893,237 @@
         },
         {
           "rank": 26,
-          "name": "Parfum quartier",
-          "artist": "Jul",
+          "name": "Mar-a-Lago",
+          "artist": "Freddie Gibbs",
           "plays": 26,
           "was": 25,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0243c8b89de39bc66cf21c4674"
+          "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
         },
         {
           "rank": 27,
-          "name": "Roll in Peace (feat. XXXTENTACION)",
-          "artist": "Kodak Black",
+          "name": "Parfum quartier",
+          "artist": "Jul",
           "plays": 26,
           "was": 26,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
+          "cover": "https://i.scdn.co/image/ab67616d00001e0243c8b89de39bc66cf21c4674"
         },
         {
           "rank": 28,
-          "name": "Make No Sense",
-          "artist": "YoungBoy Never Broke Again",
+          "name": "Roll in Peace (feat. XXXTENTACION)",
+          "artist": "Kodak Black",
           "plays": 26,
           "was": 27,
-          "cover": "https://i.scdn.co/image/ab67616d00001e024a92eb0e4fcbe2fb6e1208e5"
+          "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
         },
         {
           "rank": 29,
-          "name": "Paradise City",
-          "artist": "Guns N' Roses",
+          "name": "Make No Sense",
+          "artist": "YoungBoy Never Broke Again",
           "plays": 26,
           "was": 28,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
+          "cover": "https://i.scdn.co/image/ab67616d00001e024a92eb0e4fcbe2fb6e1208e5"
         },
         {
           "rank": 30,
-          "name": "High All The Time",
-          "artist": "50 Cent",
-          "plays": 25,
-          "was": 34,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
+          "name": "Out Ta Get Me",
+          "artist": "Guns N' Roses",
+          "plays": 26,
+          "was": 23,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
           "rank": 31,
-          "name": "Lollipop",
-          "artist": "Lil Wayne",
+          "name": "Palace",
+          "artist": "A$AP Rocky",
           "plays": 25,
-          "was": 29,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc"
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 32,
-          "name": "Yamborghini High (feat. Juicy J)",
-          "artist": "A$AP Mob",
-          "plays": 25,
-          "was": 31,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02a4b5ed5f5b9d3445eac62bad"
+          "name": "Trilla (feat. A$AP Nast & A$AP Twelvyy)",
+          "artist": "A$AP Rocky",
+          "plays": 24,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 33,
+          "name": "High All The Time",
+          "artist": "50 Cent",
+          "plays": 24,
+          "was": 30,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
+        },
+        {
+          "rank": 34,
           "name": "When Doves Cry",
           "artist": "Prince",
           "plays": 24,
+          "was": 33,
+          "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
+        },
+        {
+          "rank": 35,
+          "name": "Boyfriend (feat. T3)",
+          "artist": "SahBabii",
+          "plays": 24,
+          "was": 34,
+          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
+        },
+        {
+          "rank": 36,
+          "name": "1985",
+          "artist": "Freddie Gibbs",
+          "plays": 24,
+          "was": 35,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651"
+        },
+        {
+          "rank": 37,
+          "name": "Paradise City",
+          "artist": "Guns N' Roses",
+          "plays": 24,
+          "was": 29,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
+        },
+        {
+          "rank": 38,
+          "name": "Purple Swag",
+          "artist": "A$AP Rocky",
+          "plays": 23,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 39,
+          "name": "Bass",
+          "artist": "A$AP Rocky",
+          "plays": 23,
+          "was": 50,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 40,
+          "name": "Bewitched (Are You Leaving Soon)",
+          "artist": "Naomi Akimoto",
+          "plays": 23,
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0284835aa4a1fe1885db66318f"
+        },
+        {
+          "rank": 41,
+          "name": "Baby I'm a Star",
+          "artist": "Prince",
+          "plays": 23,
           "was": 42,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
-          "rank": 34,
-          "name": "Boyfriend (feat. T3)",
-          "artist": "SahBabii",
-          "plays": 24,
-          "was": 41,
-          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
-        },
-        {
-          "rank": 35,
-          "name": "1985",
-          "artist": "Freddie Gibbs",
-          "plays": 24,
-          "was": 32,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651"
-        },
-        {
-          "rank": 36,
-          "name": "Houston Old Head",
-          "artist": "A$AP Rocky",
-          "plays": 24,
-          "was": 33,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
-        },
-        {
-          "rank": 37,
-          "name": "Digits",
-          "artist": "Young Thug",
-          "plays": 24,
-          "was": 36,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02a875c3ec944b4f164ab5c350"
-        },
-        {
-          "rank": 38,
-          "name": "Think About You",
-          "artist": "Guns N' Roses",
-          "plays": 24,
-          "was": 37,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
-        },
-        {
-          "rank": 39,
-          "name": "My Michelle",
-          "artist": "Guns N' Roses",
-          "plays": 24,
-          "was": 38,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
-        },
-        {
-          "rank": 40,
-          "name": "Heat",
-          "artist": "50 Cent",
-          "plays": 23,
-          "was": 40,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
-        },
-        {
-          "rank": 41,
-          "name": "Many Men (Wish Death)",
-          "artist": "50 Cent",
-          "plays": 23,
-          "was": 35,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
-        },
-        {
           "rank": 42,
-          "name": "Baby I'm a Star",
-          "artist": "Prince",
-          "plays": 23,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
-        },
-        {
-          "rank": 43,
           "name": "Gas Station Sushi",
           "artist": "Freddie Gibbs",
           "plays": 23,
-          "was": 39,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
-        },
-        {
-          "rank": 44,
-          "name": "Blood Hound",
-          "artist": "50 Cent",
-          "plays": 22,
-          "was": 48,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
-        },
-        {
-          "rank": 45,
-          "name": "In Da Club",
-          "artist": "50 Cent",
-          "plays": 22,
-          "was": 49,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
-        },
-        {
-          "rank": 46,
-          "name": "Let's Go Crazy",
-          "artist": "Prince",
-          "plays": 22,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
-        },
-        {
-          "rank": 47,
-          "name": "Don Quan Intro",
-          "artist": "SahBabii",
-          "plays": 22,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
-        },
-        {
-          "rank": 48,
-          "name": "Anime World",
-          "artist": "SahBabii",
-          "plays": 22,
-          "new": true,
-          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
-        },
-        {
-          "rank": 49,
-          "name": "Skinny Suge II",
-          "artist": "Freddie Gibbs",
-          "plays": 22,
           "was": 43,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a"
         },
         {
-          "rank": 50,
-          "name": "Bass",
-          "artist": "A$AP Rocky",
+          "rank": 43,
+          "name": "Digits",
+          "artist": "Young Thug",
+          "plays": 23,
+          "was": 37,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02a875c3ec944b4f164ab5c350"
+        },
+        {
+          "rank": 44,
+          "name": "Think About You",
+          "artist": "Guns N' Roses",
+          "plays": 23,
+          "was": 38,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
+        },
+        {
+          "rank": 45,
+          "name": "しらけちまうぜ",
+          "artist": "Chu Kosaka",
           "plays": 22,
-          "was": 45,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+          "new": true,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0264802c12d4516e084c79a8fc"
+        },
+        {
+          "rank": 46,
+          "name": "Heat",
+          "artist": "50 Cent",
+          "plays": 22,
+          "was": 40,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
+        },
+        {
+          "rank": 47,
+          "name": "Many Men (Wish Death)",
+          "artist": "50 Cent",
+          "plays": 22,
+          "was": 41,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
+        },
+        {
+          "rank": 48,
+          "name": "Let's Go Crazy",
+          "artist": "Prince",
+          "plays": 22,
+          "was": 46,
+          "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
+        },
+        {
+          "rank": 49,
+          "name": "Don Quan Intro",
+          "artist": "SahBabii",
+          "plays": 22,
+          "was": 47,
+          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
+        },
+        {
+          "rank": 50,
+          "name": "Anime World",
+          "artist": "SahBabii",
+          "plays": 22,
+          "was": 48,
+          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
         }
       ],
       "albums": [
         {
           "rank": 1,
-          "name": "Get Rich Or Die Tryin'",
-          "artist": "50 Cent",
-          "plays": 323,
-          "was": 1,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
+          "name": "LIVE.LOVE.A$AP",
+          "artist": "A$AP Rocky",
+          "plays": 329,
+          "was": 4,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 2,
-          "name": "Appetite For Destruction",
-          "artist": "Guns N' Roses",
-          "plays": 318,
-          "was": 2,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
-        },
-        {
-          "rank": 3,
           "name": "Project Baby 2: All Grown Up",
           "artist": "Kodak Black",
-          "plays": 316,
+          "plays": 317,
           "was": 3,
           "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
         },
         {
-          "rank": 4,
-          "name": "LIVE.LOVE.A$AP",
-          "artist": "A$AP Rocky",
+          "rank": 3,
+          "name": "Get Rich Or Die Tryin'",
+          "artist": "50 Cent",
           "plays": 308,
-          "was": 4,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+          "was": 1,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
+        },
+        {
+          "rank": 4,
+          "name": "Appetite For Destruction",
+          "artist": "Guns N' Roses",
+          "plays": 306,
+          "was": 2,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5"
         },
         {
           "rank": 5,
@@ -3114,26 +3135,26 @@
         },
         {
           "rank": 6,
-          "name": "Squidtastic",
-          "artist": "SahBabii",
-          "plays": 261,
+          "name": "Don't Be Dumb",
+          "artist": "A$AP Rocky",
+          "plays": 270,
           "was": 7,
-          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
+          "cover": "https://i.scdn.co/image/ab67616d00001e02be35d523672e13da3debc413"
         },
         {
           "rank": 7,
-          "name": "Don't Be Dumb",
-          "artist": "A$AP Rocky",
+          "name": "Squidtastic",
+          "artist": "SahBabii",
           "plays": 261,
           "was": 6,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0227b7133c976e8ae6c3add683"
+          "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
         },
         {
           "rank": 8,
           "name": "AT.LONG.LAST.A$AP",
           "artist": "A$AP Rocky",
           "plays": 214,
-          "was": 13,
+          "was": 8,
           "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
         },
         {
@@ -3165,7 +3186,7 @@
           "name": "Purple Rain",
           "artist": "Prince",
           "plays": 195,
-          "was": 15,
+          "was": 12,
           "cover": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782"
         },
         {
@@ -3173,7 +3194,7 @@
           "name": "Alfredo",
           "artist": "Freddie Gibbs",
           "plays": 187,
-          "was": 14,
+          "was": 13,
           "cover": "https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651"
         },
         {
@@ -3181,64 +3202,64 @@
           "name": "The Blueprint",
           "artist": "JAŸ-Z",
           "plays": 185,
-          "was": 12,
+          "was": 14,
           "cover": "https://i.scdn.co/image/ab67616d00001e021b3f6f34954118500ed3e7a7"
         },
         {
           "rank": 15,
-          "name": "Tha Carter III",
-          "artist": "Lil Wayne",
-          "plays": 174,
-          "was": 16,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc"
-        },
-        {
-          "rank": 16,
           "name": "2001",
           "artist": "Dr. Dre",
           "plays": 174,
-          "was": 17,
+          "was": 16,
           "cover": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Tha Carter II",
           "artist": "Lil Wayne",
           "plays": 171,
-          "was": 18,
+          "was": 17,
           "cover": "https://i.scdn.co/image/ab67616d00001e022d1dcd542a31bb7c751cff28"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "1999",
           "artist": "Joey Bada$$",
           "plays": 158,
-          "was": 20,
+          "was": 18,
           "cover": "https://i.scdn.co/image/ab67616d00001e02fcd3724fba954e6104e4530d"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Wave Pack",
           "artist": "Max B",
           "plays": 156,
-          "was": 21,
+          "was": 19,
           "cover": "https://i.scdn.co/image/ab67616d00001e0249886a33144b99470fe7a413"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Finally Rich",
           "artist": "Chief Keef",
           "plays": 155,
-          "was": 19,
+          "was": 20,
           "cover": "https://i.scdn.co/image/ab67616d00001e02a76616abf60ce17491e95891"
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "For You",
           "artist": "Prince",
           "plays": 155,
-          "was": 28,
+          "was": 21,
           "cover": "https://i.scdn.co/image/ab67616d00001e02ae0e62cc351978ad5203fcfa"
+        },
+        {
+          "rank": 21,
+          "name": "Tha Carter III",
+          "artist": "Lil Wayne",
+          "plays": 155,
+          "was": 15,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc"
         },
         {
           "rank": 22,
@@ -3258,14 +3279,6 @@
         },
         {
           "rank": 24,
-          "name": "The Documentary",
-          "artist": "The Game",
-          "plays": 147,
-          "was": 8,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02b1d860ab1ba847e778b2796d"
-        },
-        {
-          "rank": 25,
           "name": "So Much Fun",
           "artist": "Young Thug",
           "plays": 141,
@@ -3273,7 +3286,7 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02caca74e1aa8e32cd44bb5c8f"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Temps mort",
           "artist": "Booba",
           "plays": 141,
@@ -3281,7 +3294,7 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02de667b23df8eda37dcb6bd96"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Playboi Carti",
           "artist": "Playboi Carti",
           "plays": 139,
@@ -3289,27 +3302,35 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02e31a279d267f3b3d8912e6f1"
         },
         {
-          "rank": 28,
-          "name": "Bad",
-          "artist": "Michael Jackson",
-          "plays": 126,
-          "was": 24,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02eb2087dcd1eb61f833bdedff"
-        },
-        {
-          "rank": 29,
+          "rank": 27,
           "name": "56 Nights",
           "artist": "Future",
           "plays": 121,
-          "was": 30,
+          "was": 29,
           "cover": "https://i.scdn.co/image/ab67616d00001e02dc014d6cf51f0ff8bdd76764"
+        },
+        {
+          "rank": 28,
+          "name": "The Documentary",
+          "artist": "The Game",
+          "plays": 120,
+          "was": 24,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02b1d860ab1ba847e778b2796d"
+        },
+        {
+          "rank": 29,
+          "name": "LONG.LIVE.A$AP (Deluxe Version)",
+          "artist": "A$AP Rocky",
+          "plays": 118,
+          "was": 32,
+          "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
         },
         {
           "rank": 30,
           "name": "FUTURE",
           "artist": "Future",
           "plays": 115,
-          "was": 31,
+          "was": 30,
           "cover": "https://i.scdn.co/image/ab67616d00001e02e0b64c8be3c4e804abcb2696"
         },
         {
@@ -3317,16 +3338,16 @@
           "name": "Barter 6",
           "artist": "Young Thug",
           "plays": 109,
-          "was": 32,
+          "was": 31,
           "cover": "https://i.scdn.co/image/ab67616d00001e0288053a98d0abb8ed3a02efe1"
         },
         {
           "rank": 32,
-          "name": "LONG.LIVE.A$AP (Deluxe Version)",
-          "artist": "A$AP Rocky",
-          "plays": 105,
-          "was": 29,
-          "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
+          "name": "Bad",
+          "artist": "Michael Jackson",
+          "plays": 108,
+          "was": 28,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02eb2087dcd1eb61f833bdedff"
         },
         {
           "rank": 33,
@@ -3338,14 +3359,6 @@
         },
         {
           "rank": 34,
-          "name": "Slime Season 3",
-          "artist": "Young Thug",
-          "plays": 98,
-          "was": 34,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02a875c3ec944b4f164ab5c350"
-        },
-        {
-          "rank": 35,
           "name": "Use Your Illusion I",
           "artist": "Guns N' Roses",
           "plays": 98,
@@ -3353,7 +3366,7 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02e44963b8bb127552ac761873"
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Die Lit",
           "artist": "Playboi Carti",
           "plays": 94,
@@ -3361,7 +3374,7 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02a1e867d40e7bb29ced5c0194"
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "24K Magic",
           "artist": "Bruno Mars",
           "plays": 93,
@@ -3369,7 +3382,7 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5"
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Ready to Die",
           "artist": "The Notorious B.I.G.",
           "plays": 92,
@@ -3377,11 +3390,19 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e020f51e29700232d57fe8a0830"
         },
         {
+          "rank": 38,
+          "name": "Slime Season 3",
+          "artist": "Young Thug",
+          "plays": 90,
+          "was": 34,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02a875c3ec944b4f164ab5c350"
+        },
+        {
           "rank": 39,
           "name": "Off the Wall",
           "artist": "Michael Jackson",
           "plays": 88,
-          "was": 40,
+          "was": 39,
           "cover": "https://i.scdn.co/image/ab67616d00001e022b74bf21c7e4f56758610949"
         },
         {
@@ -3389,7 +3410,7 @@
           "name": "Without Warning",
           "artist": "21 Savage",
           "plays": 83,
-          "was": 42,
+          "was": 40,
           "cover": "https://i.scdn.co/image/ab67616d00001e020db43130a9aaa7bae56967ed"
         },
         {
@@ -3397,7 +3418,7 @@
           "name": "Doggystyle",
           "artist": "Snoop Dogg",
           "plays": 81,
-          "was": 43,
+          "was": 41,
           "cover": "https://i.scdn.co/image/ab67616d00001e02733af86f8dea9692a3f59d29"
         },
         {
@@ -3405,15 +3426,15 @@
           "name": "Huncho Jack, Jack Huncho",
           "artist": "Huncho Jack",
           "plays": 78,
-          "was": 39,
+          "was": 42,
           "cover": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e"
         },
         {
           "rank": 43,
           "name": "TESTING",
           "artist": "A$AP Rocky",
-          "plays": 72,
-          "was": 41,
+          "plays": 73,
+          "was": 43,
           "cover": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1"
         },
         {
@@ -3421,7 +3442,7 @@
           "name": "ATLiens",
           "artist": "Outkast",
           "plays": 72,
-          "was": 45,
+          "was": 44,
           "cover": "https://i.scdn.co/image/ab67616d00001e0284be563c5931d7ef35706148"
         },
         {
@@ -3429,7 +3450,7 @@
           "name": "Slime Season",
           "artist": "Young Thug",
           "plays": 71,
-          "was": 48,
+          "was": 45,
           "cover": "https://i.scdn.co/image/ab67616d00001e0270d17ff1637f906dfabdfea4"
         },
         {
@@ -3444,7 +3465,7 @@
           "rank": 47,
           "name": "Culture",
           "artist": "Migos",
-          "plays": 70,
+          "plays": 68,
           "was": 47,
           "cover": "https://i.scdn.co/image/ab67616d00001e026275aeac316378b0dd4f31fd"
         },
@@ -3453,7 +3474,7 @@
           "name": "Monster",
           "artist": "Future",
           "plays": 67,
-          "was": 44,
+          "was": 48,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c1a4bee8f56f093ba31e9fd2"
         },
         {
@@ -3479,13 +3500,13 @@
       "id": "all",
       "label": "All Time",
       "from": "2023-12-25",
-      "to": "2026-09-27",
-      "plays": 39851,
+      "to": "2026-10-04",
+      "plays": 39971,
       "artists": [
         {
           "rank": 1,
           "name": "A$AP Rocky",
-          "plays": 4169,
+          "plays": 4220,
           "was": 1,
           "image": "https://i.scdn.co/image/ab67616100005174ad160b333f9a240f84aff7d7"
         },
@@ -3520,7 +3541,7 @@
         {
           "rank": 6,
           "name": "Future",
-          "plays": 1777,
+          "plays": 1780,
           "was": 6,
           "image": "https://i.scdn.co/image/ab676161000051742c472c891062acb4f3068583"
         },
@@ -3534,7 +3555,7 @@
         {
           "rank": 8,
           "name": "Lil Wayne",
-          "plays": 1578,
+          "plays": 1581,
           "was": 8,
           "image": "https://i.scdn.co/image/ab67616100005174998010cd1075921b5faf16b2"
         },
@@ -3555,7 +3576,7 @@
         {
           "rank": 11,
           "name": "Michael Jackson",
-          "plays": 673,
+          "plays": 674,
           "was": 11,
           "image": "https://i.scdn.co/image/ab67616100005174997cc9a4aec335d46c9481fd"
         },
@@ -3576,7 +3597,7 @@
         {
           "rank": 14,
           "name": "Migos",
-          "plays": 576,
+          "plays": 577,
           "was": 14,
           "image": "https://i.scdn.co/image/ab67616100005174f4593f7b778219838d858c34"
         },
@@ -3597,15 +3618,15 @@
         {
           "rank": 17,
           "name": "50 Cent",
-          "plays": 545,
-          "was": 18,
+          "plays": 546,
+          "was": 17,
           "image": "https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118"
         },
         {
           "rank": 18,
           "name": "Daft Punk",
           "plays": 532,
-          "was": 17,
+          "was": 18,
           "image": "https://i.scdn.co/image/ab67616100005174d3aa7cc0e419b6c459b08e8e"
         },
         {
@@ -3626,35 +3647,35 @@
           "rank": 21,
           "name": "SahBabii",
           "plays": 447,
-          "was": 25,
+          "was": 21,
           "image": "https://i.scdn.co/image/ab676161000051746a379e26fd4999a0b9bc9baa"
         },
         {
           "rank": 22,
           "name": "¥$",
           "plays": 447,
-          "was": 21,
+          "was": 22,
           "image": "https://i.scdn.co/image/ab67616100005174a670555775b5381ac0519658"
         },
         {
           "rank": 23,
           "name": "Pink Floyd",
           "plays": 444,
-          "was": 22,
+          "was": 23,
           "image": "https://i.scdn.co/image/ab676161000051743c9e8c67b087ba0cb5923b78"
         },
         {
           "rank": 24,
           "name": "Guns N' Roses",
           "plays": 439,
-          "was": 23,
+          "was": 24,
           "image": "https://i.scdn.co/image/ab6761610000517450defaf9fc059a1efc541f4c"
         },
         {
           "rank": 25,
           "name": "Quavo",
           "plays": 438,
-          "was": 24,
+          "was": 25,
           "image": "https://i.scdn.co/image/ab67616100005174516b687c9a1571dd3ecb5e05"
         },
         {
@@ -3682,21 +3703,21 @@
           "rank": 29,
           "name": "Prince",
           "plays": 350,
-          "was": 31,
+          "was": 29,
           "image": "https://i.scdn.co/image/ab67616100005174adf109a73dae96653131b023"
         },
         {
           "rank": 30,
           "name": "Jimi Hendrix",
           "plays": 347,
-          "was": 29,
+          "was": 30,
           "image": "https://i.scdn.co/image/ab6761610000517490c8b988fa6e6b40e0d0bf81"
         },
         {
           "rank": 31,
           "name": "Kodak Black",
-          "plays": 319,
-          "was": 30,
+          "plays": 320,
+          "was": 31,
           "image": "https://i.scdn.co/image/ab67616100005174cbca429e353792c21e52edae"
         },
         {
@@ -3744,7 +3765,7 @@
         {
           "rank": 38,
           "name": "A$AP Mob",
-          "plays": 245,
+          "plays": 246,
           "was": 38,
           "image": "https://i.scdn.co/image/ab67616100005174566918b7180f8965defe862e"
         },
@@ -3793,15 +3814,15 @@
         {
           "rank": 45,
           "name": "Jul",
-          "plays": 189,
-          "was": 46,
+          "plays": 191,
+          "was": 45,
           "image": "https://i.scdn.co/image/ab67616100005174aa70253f73793a0ff061069e"
         },
         {
           "rank": 46,
           "name": "Metallica",
           "plays": 187,
-          "was": 45,
+          "was": 46,
           "image": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44"
         },
         {
@@ -3854,7 +3875,7 @@
           "rank": 3,
           "name": "Peso",
           "artist": "A$AP Rocky",
-          "plays": 128,
+          "plays": 130,
           "was": 3,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
@@ -3900,6 +3921,22 @@
         },
         {
           "rank": 9,
+          "name": "Palace",
+          "artist": "A$AP Rocky",
+          "plays": 104,
+          "was": 10,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 10,
+          "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+          "artist": "A$AP Rocky",
+          "plays": 102,
+          "was": 11,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1"
+        },
+        {
+          "rank": 11,
           "name": "FE!N (feat. Playboi Carti)",
           "artist": "Travis Scott",
           "plays": 102,
@@ -3907,36 +3944,20 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e0204481c826dd292e5e4983b3f"
         },
         {
-          "rank": 10,
-          "name": "Palace",
+          "rank": 12,
+          "name": "Houston Old Head",
           "artist": "A$AP Rocky",
-          "plays": 101,
-          "was": 10,
+          "plays": 100,
+          "was": 13,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
-          "rank": 11,
-          "name": "Praise The Lord (Da Shine) (feat. Skepta)",
-          "artist": "A$AP Rocky",
-          "plays": 101,
-          "was": 11,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1"
-        },
-        {
-          "rank": 12,
+          "rank": 13,
           "name": "STARGAZING",
           "artist": "Travis Scott",
           "plays": 99,
           "was": 12,
           "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
-        },
-        {
-          "rank": 13,
-          "name": "Houston Old Head",
-          "artist": "A$AP Rocky",
-          "plays": 98,
-          "was": 13,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 14,
@@ -3980,19 +4001,19 @@
         },
         {
           "rank": 19,
+          "name": "Bass",
+          "artist": "A$AP Rocky",
+          "plays": 89,
+          "was": 20,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 20,
           "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
           "artist": "Young Thug",
           "plays": 89,
           "was": 19,
           "cover": "https://i.scdn.co/image/ab67616d00001e02caca74e1aa8e32cd44bb5c8f"
-        },
-        {
-          "rank": 20,
-          "name": "Bass",
-          "artist": "A$AP Rocky",
-          "plays": 88,
-          "was": 20,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 21,
@@ -4030,12 +4051,20 @@
           "rank": 25,
           "name": "Wassup",
           "artist": "A$AP Rocky",
-          "plays": 81,
+          "plays": 82,
           "was": 25,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 26,
+          "name": "Sandman",
+          "artist": "A$AP Rocky",
+          "plays": 80,
+          "was": 29,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 27,
           "name": "Life Is Good (feat. Drake)",
           "artist": "Future",
           "plays": 80,
@@ -4043,7 +4072,7 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e028a01c7b77a34378a62f46402"
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Fukk Sleep (feat. FKA twigs)",
           "artist": "A$AP Rocky",
           "plays": 80,
@@ -4051,7 +4080,7 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Eye 2 Eye",
           "artist": "Huncho Jack",
           "plays": 80,
@@ -4059,15 +4088,23 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e"
         },
         {
-          "rank": 29,
-          "name": "Sandman",
+          "rank": 30,
+          "name": "Purple Swag",
           "artist": "A$AP Rocky",
           "plays": 79,
-          "was": 29,
+          "was": 35,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
-          "rank": 30,
+          "rank": 31,
+          "name": "Brand New Guy (feat. ScHoolboy Q)",
+          "artist": "A$AP Rocky",
+          "plays": 79,
+          "was": 32,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 32,
           "name": "STOP TRYING TO BE GOD",
           "artist": "Travis Scott",
           "plays": 79,
@@ -4075,103 +4112,95 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "L$D",
           "artist": "A$AP Rocky",
           "plays": 78,
-          "was": 34,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
-        },
-        {
-          "rank": 32,
-          "name": "Brand New Guy (feat. ScHoolboy Q)",
-          "artist": "A$AP Rocky",
-          "plays": 78,
           "was": 31,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
-        },
-        {
-          "rank": 33,
-          "name": "HOTEL LOBBY (Unc & Phew) - A COLORS SHOW",
-          "artist": "Quavo",
-          "plays": 78,
-          "was": 32,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0219e2462d9211bade93d05419"
+          "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
         },
         {
           "rank": 34,
-          "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
-          "artist": "A$AP Rocky",
-          "plays": 77,
-          "was": 41,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
+          "name": "HOTEL LOBBY (Unc & Phew) - A COLORS SHOW",
+          "artist": "Quavo",
+          "plays": 78,
+          "was": 33,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0219e2462d9211bade93d05419"
         },
         {
           "rank": 35,
-          "name": "Purple Swag",
+          "name": "Trilla (feat. A$AP Nast & A$AP Twelvyy)",
           "artist": "A$AP Rocky",
           "plays": 77,
-          "was": 33,
+          "was": 41,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
           "rank": 36,
-          "name": "Sky",
-          "artist": "Playboi Carti",
-          "plays": 77,
-          "was": 35,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0298ea0e689c91f8fea726d9bb"
-        },
-        {
-          "rank": 37,
-          "name": "CAROUSEL",
-          "artist": "Travis Scott",
-          "plays": 76,
-          "was": 36,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
-        },
-        {
-          "rank": 38,
-          "name": "Digits",
-          "artist": "Young Thug",
-          "plays": 76,
-          "was": 37,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02a875c3ec944b4f164ab5c350"
-        },
-        {
-          "rank": 39,
-          "name": "Motorcycle Patches",
-          "artist": "Huncho Jack",
-          "plays": 76,
-          "was": 38,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e"
-        },
-        {
-          "rank": 40,
-          "name": "Holy Ghost (feat. Joe Fox)",
+          "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
           "artist": "A$AP Rocky",
-          "plays": 75,
-          "was": 42,
+          "plays": 77,
+          "was": 34,
           "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
         },
         {
-          "rank": 41,
-          "name": "Trilla (feat. A$AP Nast & A$AP Twelvyy)",
+          "rank": 37,
+          "name": "Sky",
+          "artist": "Playboi Carti",
+          "plays": 77,
+          "was": 36,
+          "cover": "https://i.scdn.co/image/ab67616d00001e0298ea0e689c91f8fea726d9bb"
+        },
+        {
+          "rank": 38,
+          "name": "Get Lit (feat. Fat Tony)",
           "artist": "A$AP Rocky",
-          "plays": 75,
-          "was": 39,
+          "plays": 76,
+          "was": 42,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 39,
+          "name": "CAROUSEL",
+          "artist": "Travis Scott",
+          "plays": 76,
+          "was": 37,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
+        },
+        {
+          "rank": 40,
+          "name": "Digits",
+          "artist": "Young Thug",
+          "plays": 76,
+          "was": 38,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02a875c3ec944b4f164ab5c350"
+        },
+        {
+          "rank": 41,
+          "name": "Motorcycle Patches",
+          "artist": "Huncho Jack",
+          "plays": 76,
+          "was": 39,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e"
         },
         {
           "rank": 42,
-          "name": "Get Lit (feat. Fat Tony)",
+          "name": "Holy Ghost (feat. Joe Fox)",
           "artist": "A$AP Rocky",
           "plays": 75,
           "was": 40,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+          "cover": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57"
         },
         {
           "rank": 43,
+          "name": "Keep It G (feat. Chace Infinite & SpaceGhostPurrp)",
+          "artist": "A$AP Rocky",
+          "plays": 73,
+          "was": 45,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
+          "rank": 44,
           "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
           "artist": "Travis Scott",
           "plays": 73,
@@ -4179,7 +4208,7 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02a2a7386de6494fc9275e1abb"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Again",
           "artist": "Image 12",
           "plays": 73,
@@ -4187,15 +4216,15 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02a204e36a4a2296ea28c0c945"
         },
         {
-          "rank": 45,
-          "name": "Keep It G (feat. Chace Infinite & SpaceGhostPurrp)",
+          "rank": 46,
+          "name": "Demons",
           "artist": "A$AP Rocky",
-          "plays": 72,
-          "was": 45,
+          "plays": 71,
+          "was": 48,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "HAD ENOUGH (feat. Quavo & Offset)",
           "artist": "Don Toliver",
           "plays": 71,
@@ -4203,27 +4232,19 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e02b920fc01c37be38130418a34"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Love Sosa",
           "artist": "Chief Keef",
           "plays": 70,
-          "was": 50,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02a76616abf60ce17491e95891"
-        },
-        {
-          "rank": 48,
-          "name": "Demons",
-          "artist": "A$AP Rocky",
-          "plays": 70,
           "was": 47,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+          "cover": "https://i.scdn.co/image/ab67616d00001e02a76616abf60ce17491e95891"
         },
         {
           "rank": 49,
           "name": "R.I.P. SCREW",
           "artist": "Travis Scott",
           "plays": 70,
-          "was": 48,
+          "was": 49,
           "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
         },
         {
@@ -4231,7 +4252,7 @@
           "name": "Codeine Crazy",
           "artist": "Future",
           "plays": 69,
-          "was": 49,
+          "was": 50,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c1a4bee8f56f093ba31e9fd2"
         }
       ],
@@ -4248,7 +4269,7 @@
           "rank": 2,
           "name": "LIVE.LOVE.A$AP",
           "artist": "A$AP Rocky",
-          "plays": 1209,
+          "plays": 1230,
           "was": 2,
           "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
         },
@@ -4288,7 +4309,7 @@
           "rank": 7,
           "name": "TESTING",
           "artist": "A$AP Rocky",
-          "plays": 722,
+          "plays": 723,
           "was": 7,
           "cover": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1"
         },
@@ -4320,7 +4341,7 @@
           "rank": 11,
           "name": "LONG.LIVE.A$AP (Deluxe Version)",
           "artist": "A$AP Rocky",
-          "plays": 693,
+          "plays": 706,
           "was": 11,
           "cover": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9"
         },
@@ -4417,7 +4438,7 @@
           "name": "Squidtastic",
           "artist": "SahBabii",
           "plays": 446,
-          "was": 25,
+          "was": 23,
           "cover": "https://i.scdn.co/image/ab67616d00001e023f202bc34780e1f6e760c285"
         },
         {
@@ -4425,7 +4446,7 @@
           "name": "So Much Fun",
           "artist": "Young Thug",
           "plays": 438,
-          "was": 23,
+          "was": 24,
           "cover": "https://i.scdn.co/image/ab67616d00001e02caca74e1aa8e32cd44bb5c8f"
         },
         {
@@ -4433,7 +4454,7 @@
           "name": "Slime Season 3",
           "artist": "Young Thug",
           "plays": 434,
-          "was": 24,
+          "was": 25,
           "cover": "https://i.scdn.co/image/ab67616d00001e02a875c3ec944b4f164ab5c350"
         },
         {
@@ -4536,7 +4557,7 @@
           "rank": 38,
           "name": "Project Baby 2: All Grown Up",
           "artist": "Kodak Black",
-          "plays": 316,
+          "plays": 317,
           "was": 38,
           "cover": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7"
         },
@@ -4614,6 +4635,14 @@
         },
         {
           "rank": 48,
+          "name": "Don't Be Dumb",
+          "artist": "A$AP Rocky",
+          "plays": 270,
+          "was": 50,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02be35d523672e13da3debc413"
+        },
+        {
+          "rank": 49,
           "name": "JESUS IS KING",
           "artist": "Kanye West",
           "plays": 266,
@@ -4621,20 +4650,12 @@
           "cover": "https://i.scdn.co/image/ab67616d00001e021bb797bbfe2480650b6c2964"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "ye",
           "artist": "Kanye West",
           "plays": 263,
           "was": 49,
           "cover": "https://i.scdn.co/image/ab67616d00001e020cd942c1a864afa4e92d04f2"
-        },
-        {
-          "rank": 50,
-          "name": "Don't Be Dumb",
-          "artist": "A$AP Rocky",
-          "plays": 261,
-          "was": 50,
-          "cover": "https://i.scdn.co/image/ab67616d00001e0227b7133c976e8ae6c3add683"
         }
       ],
       "genres": []
@@ -4645,7 +4666,7 @@
       "artists": [
         {
           "name": "A$AP Rocky",
-          "weeks": 23,
+          "weeks": 24,
           "image": "https://i.scdn.co/image/ab67616100005174ad160b333f9a240f84aff7d7"
         },
         {
@@ -4681,6 +4702,12 @@
       ],
       "albums": [
         {
+          "name": "LIVE.LOVE.A$AP",
+          "artist": "A$AP Rocky",
+          "weeks": 5,
+          "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
+        },
+        {
           "name": "Project Baby 2: All Grown Up",
           "artist": "Kodak Black",
           "weeks": 5,
@@ -4691,12 +4718,6 @@
           "artist": "JAŸ-Z",
           "weeks": 5,
           "cover": "https://i.scdn.co/image/ab67616d00001e021b3f6f34954118500ed3e7a7"
-        },
-        {
-          "name": "ASTROWORLD",
-          "artist": "Travis Scott",
-          "weeks": 5,
-          "cover": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32"
         }
       ]
     },
@@ -4870,7 +4891,7 @@
       {
         "name": "LIVE.LOVE.A$AP",
         "artist": "A$AP Rocky",
-        "weeks": 61,
+        "weeks": 62,
         "cover": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd"
       }
     ],
@@ -4894,7 +4915,7 @@
         "artist": "A$AP Rocky",
         "plays": 5,
         "day": "2026-01-12",
-        "cover": "https://i.scdn.co/image/ab67616d00001e0227b7133c976e8ae6c3add683"
+        "cover": "https://i.scdn.co/image/ab67616d00001e02be35d523672e13da3debc413"
       }
     ]
   }
