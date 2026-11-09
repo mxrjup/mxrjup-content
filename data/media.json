@@ -111,6 +111,13 @@
       "type": "video",
       "url": "/uploads/peso-1.mp4",
       "thumbnail": "/uploads/lla.jpg"
+    },
+    {
+      "id": "be0fc4ac-f869-41b1-9dad-b4e78a75013b",
+      "title": "EDIT_1",
+      "type": "video",
+      "url": "/uploads/VID_20261023_154537.mp4",
+      "thumbnail": "/uploads/Screenshot from 2026-11-09 08-37-19.png"
     }
   ]
 }
